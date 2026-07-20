@@ -40,7 +40,7 @@ FEED_METADATA = {
     ),
     "clubes-regionais": (
         "Clubes regionais",
-        "Eventos de Ferroviária, Corinthians, Palmeiras e Santos, após prioridades superiores.",
+        "Jogos oficiais dos clubes regionais acompanhados, incluindo Botafogo-SP e Comercial-SP.",
     ),
     "red-bull": (
         "Red Bull",

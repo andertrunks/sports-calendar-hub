@@ -30,7 +30,7 @@ def test_separadores_de_confronto(separator: str) -> None:
 
 
 def test_normalizacao_de_participante_preserva_alias() -> None:
-    assert normalize_participant("São Paulo Futebol Clube") == "sao paulo"
+    assert normalize_participant("São Paulo Futebol Clube") == "sao-paulo"
 
 
 def test_geracao_de_uid_estavel() -> None:

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "imported_at": "2026-07-20T09:44:31-03:00",
+  "total_rows_read": 55,
+  "total_imported": 53,
+  "total_after_deduplication": 53,
+  "total_deduplicated": 0,
+  "total_excluded": 2,
+  "total_pending": 0,
+  "events_without_transmission": 0,
+  "events_without_source": 0,
+  "incomplete_events": 0,
+  "sao_paulo_female_youth_excluded": 2,
+  "sao_paulo_female_u17_excluded": 2,
+  "sao_paulo_female_u20_excluded": 0,
+  "sao_paulo_other_female_youth_excluded": 0,
+  "botafogo_sp_imported": 0,
+  "comercial_sp_imported": 0,
+  "copinha_imported": 0,
+  "copinha_ignored_by_phase": 0,
+  "classification_counts": {
+    "EXCLUÍDO_SÃO_PAULO_FEMININO_BASE": 2,
+    "IMPORTADO": 53
+  },
+  "by_group": {
+    "automobilismo": 4,
+    "brasileirao": 35,
+    "red-bull": 3,
+    "sao-paulo": 11
+  },
+  "by_sport": {
+    "Automobilismo": 4,
+    "Futebol": 49
+  },
+  "by_competition": {
+    "Campeonato Brasileiro Feminino A1 2026": 4,
+    "Campeonato Brasileiro Série A 2026": 42,
+    "Campeonato Paulista Feminino 2026": 2,
+    "Copa do Brasil Feminina 2026": 1,
+    "Italian F.4 Championship 2026": 4
+  },
+  "events_json_changed": false,
+  "conversion_errors": [],
+  "warnings": [
+    "Nenhum jogo do Botafogo-SP estava presente no snapshot da aba Eventos.",
+    "Nenhum jogo do Comercial-SP estava presente no snapshot da aba Eventos.",
+    "Nenhum jogo da Copinha estava presente no snapshot da aba Eventos."
+  ]
+}

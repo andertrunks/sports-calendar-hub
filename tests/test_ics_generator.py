@@ -69,7 +69,7 @@ def test_evento_adiado_usa_status_ics_valido() -> None:
     event = normalize_event(make_event(status="POSTPONED"))
     component = _events_from(build_calendar([event], "all"))[0]
     assert str(component["STATUS"]) == "TENTATIVE"
-    assert "ℹ️ Status: POSTPONED" in str(component["DESCRIPTION"])
+    assert "ℹ️ Status: Adiado" in str(component["DESCRIPTION"])
 
 
 def test_uso_de_transp_transparent() -> None:

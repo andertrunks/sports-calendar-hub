@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+from datetime import datetime
 from pathlib import Path
 
 from .config import DATA_DIR, DOCS_DIR
@@ -10,6 +11,7 @@ from .deduplicate import deduplicate_events
 from .ics_generator import generate_calendars, generate_index
 from .models import SportsEvent
 from .normalize import normalize_event
+from .scope_rules import is_event_in_scope, load_scope_rules
 
 
 def load_events(path: Path = DATA_DIR / "events.json") -> list[SportsEvent]:
@@ -20,14 +22,20 @@ def load_events(path: Path = DATA_DIR / "events.json") -> list[SportsEvent]:
 
 def run() -> dict[str, int]:
     normalized = [normalize_event(event) for event in load_events()]
-    events = deduplicate_events(normalized)
-    generated_at = max(event.last_verified for event in events)
+    in_scope = [event for event in normalized if is_event_in_scope(event)]
+    events = deduplicate_events(in_scope)
+    generated_at = (
+        max(event.last_verified for event in events)
+        if events
+        else datetime.fromisoformat(load_scope_rules()["updated_at"])
+    )
     counts, changed = generate_calendars(events, DOCS_DIR)
     index_changed = generate_index(counts, generated_at, DOCS_DIR)
     print(
         json.dumps(
             {
                 "input_events": len(normalized),
+                "in_scope_events": len(in_scope),
                 "unique_events": len(events),
                 "feeds": counts,
                 "changed_files": len(changed) + int(index_changed),

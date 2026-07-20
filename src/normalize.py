@@ -10,6 +10,7 @@ from dataclasses import replace
 
 from .config import UID_DOMAIN
 from .models import SportsEvent
+from .scope_rules import determine_color_group, normalize_team_name
 
 _HTML_TAG = re.compile(r"<[^>]+>")
 _SPACE = re.compile(r"\s+")
@@ -37,15 +38,7 @@ def normalize_for_comparison(value: str) -> str:
 
 
 def normalize_participant(value: str) -> str:
-    normalized = normalize_for_comparison(value)
-    aliases = {
-        "sao paulo fc": "sao paulo",
-        "sao paulo futebol clube": "sao paulo",
-        "red bull bragantino sp": "red bull bragantino",
-        "selecao do brasil": "brasil",
-        "selecao brasileira": "brasil",
-    }
-    return aliases.get(normalized, normalized)
+    return normalize_team_name(value)
 
 
 def split_matchup(value: str) -> tuple[str, str] | None:
@@ -95,49 +88,8 @@ def permanent_uid(event: SportsEvent) -> str:
     return f"{digest}@{UID_DOMAIN}"
 
 
-def _contains_any(value: str, terms: tuple[str, ...]) -> bool:
-    return any(term in value for term in terms)
-
-
 def assign_color_group(event: SportsEvent) -> str:
-    participants = " | ".join(canonical_participants(event))
-    competition = normalize_for_comparison(event.competition)
-    sport = normalize_for_comparison(event.sport)
-    category = normalize_for_comparison(event.category)
-
-    # This order is the public priority contract. The first match wins.
-    if re.search(r"(^|\| )sao paulo($| \|)", participants):
-        return "sao-paulo"
-    if any(participant in {"brasil", "brasil feminino", "brasil sub 20", "brasil sub 23"}
-           for participant in canonical_participants(event)):
-        return "selecao-brasileira"
-    if _contains_any(participants, ("ferroviaria", "corinthians", "palmeiras", "santos")):
-        return "clubes-regionais"
-    if _contains_any(participants, ("red bull", "rb leipzig", "rb salzburg")):
-        return "red-bull"
-    if "premier league" in competition:
-        return "premier-league"
-    if _contains_any(
-        competition,
-        (
-            "libertadores",
-            "sul americana",
-            "champions league",
-            "europa league",
-            "conference league",
-            "recopa sul americana",
-        ),
-    ):
-        return "continentais"
-    if _contains_any(sport + " " + category + " " + competition, ("automobilismo", "formula 1", "formula 2", "formula 3", "formula 4", "f4")):
-        return "automobilismo"
-    if _contains_any(competition, ("brasileirao", "campeonato brasileiro", "serie a brasileira")):
-        return "brasileirao"
-    if _contains_any(competition, ("olimpiada", "olimpico", "jogos pan americanos", "pan americano")):
-        return "olimpiadas-pan"
-    if _contains_any(competition, ("copa do mundo", "world cup")):
-        return "copas-do-mundo"
-    return "outros-esportes"
+    return determine_color_group(event)
 
 
 def normalize_event(event: SportsEvent) -> SportsEvent:

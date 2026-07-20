@@ -2,78 +2,102 @@
 
 Calendário esportivo automatizado com Python, feeds ICS, GitHub Actions e integração futura com Google Calendar e Outlook.
 
-> **Aviso:** a versão `0.1.0` contém somente dados fictícios, identificados como **DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL**. Eles existem para testar a infraestrutura e serão substituídos em uma etapa futura.
+O projeto normaliza eventos esportivos públicos em JSON, aplica um escopo versionado, consolida duplicatas e publica um calendário geral e feeds temáticos no padrão iCalendar.
 
-## Objetivo
+## Estado dos dados
 
-O projeto mantém eventos esportivos normalizados em JSON, consolida duplicatas e gera feeds públicos no padrão iCalendar. Um evento entra no calendário geral e em exatamente um grupo temático, o de maior prioridade aplicável.
+Os eventos de produção são um **snapshot sanitizado** da aba `Eventos` da planilha privada “Controle de Eventos Esportivos”. A planilha não é publicada e o GitHub Actions não a acessa automaticamente.
 
-Nesta etapa não há OAuth, coleta extensiva de sites, escrita em calendários pessoais, banco de dados externo nem armazenamento de tokens.
+Os oito eventos fictícios da versão inicial foram removidos de `data/events.json` e permanecem apenas em `tests/fixtures/events_demo.json` para testes.
 
 ## Arquitetura
 
-O fluxo é deliberadamente pequeno e auditável:
+1. `data/scope_rules.json` contém aliases, equipes, competições, fases, exclusões e prioridades.
+2. `src/scope_rules.py` carrega essas regras e decide escopo, equipe, competição, grupo e prioridade.
+3. `src/importers/google_sheet_csv.py` lê um CSV temporário somente da aba `Eventos`, sanitiza os dados e grava `data/events.json`.
+4. `SportsEvent` valida datas, fusos, status e grupos.
+5. `normalize.py` limpa textos, cria chaves canônicas e calcula o UID permanente.
+6. `deduplicate.py` consolida registros equivalentes sem usar horário como identidade única.
+7. `ics_generator.py` produz os feeds em UTF-8, CRLF e com linhas dobradas.
+8. `validate_ics.py` reabre e valida todos os arquivos gerados.
+9. GitHub Actions executa testes e publica `docs/` pelo GitHub Pages.
 
-1. `data/events.json` armazena os eventos de origem.
-2. `SportsEvent` valida campos, datas, fusos, status e grupo.
-3. `normalize.py` limpa texto, cria chaves canônicas, define o grupo e calcula o UID permanente.
-4. `deduplicate.py` consolida registros equivalentes sem usar horário como identidade única.
-5. `ics_generator.py` produz os feeds em UTF-8, com CRLF e linhas dobradas.
-6. `validate_ics.py` reabre e inspeciona todos os arquivos gerados.
-7. GitHub Actions executa testes, atualiza `docs/` e publica a pasta pelo GitHub Pages.
-
-## Estrutura
+## Estrutura principal
 
 ```text
 .
 ├── .github/workflows/
-│   ├── tests.yml
-│   └── update-calendars.yml
 ├── data/
 │   ├── events.json
+│   ├── scope_rules.json
 │   └── sources.json
 ├── docs/
+│   ├── escopo-mestre.md
 │   ├── index.html
 │   └── *.ics
+├── reports/
+│   ├── import-summary.json
+│   └── import-summary.md
 ├── src/
-│   ├── config.py
-│   ├── deduplicate.py
-│   ├── ics_generator.py
-│   ├── main.py
-│   ├── models.py
-│   ├── normalize.py
-│   └── validate_ics.py
-├── tests/
-├── requirements.txt
-└── pyproject.toml
+│   ├── importers/google_sheet_csv.py
+│   ├── scope_rules.py
+│   └── ...
+└── tests/
+    └── fixtures/events_demo.json
 ```
 
-## UID permanente
+## Escopo mestre
 
-Quando uma fonte fornece `external_id`, o UID usa principalmente a identidade da fonte e esse identificador. Sem `external_id`, o sistema calcula SHA-256 sobre modalidade, competição, categoria, participantes normalizados e fase/rodada, além da fonte. O horário, a data, o local, a transmissão e o status não fazem parte da identidade.
+O documento completo está em [`docs/escopo-mestre.md`](docs/escopo-mestre.md). Os pontos principais são:
 
-O formato final é:
+- fuso de saída `America/Sao_Paulo`;
+- horizonte de referência de 12 meses;
+- um evento em `all.ics` e em exatamente um grupo;
+- transmissão específica do evento, sem inferir emissora por direitos gerais;
+- somente dados esportivos públicos;
+- prioridade do clube ou seleção sobre a competição.
 
-```text
-<sha-256>@sports-calendar-hub
-```
+### São Paulo FC
 
-Assim, uma mudança normal de horário mantém o mesmo UID e pode ser interpretada por clientes de calendário como atualização do evento existente.
+Categorias incluídas:
 
-## Deduplicação
+- profissional masculino;
+- profissional feminino;
+- masculino sub-20;
+- masculino sub-17.
 
-A comparação ocorre nesta ordem:
+Categorias excluídas:
 
-1. `external_id` + fonte;
-2. UID permanente;
-3. chave canônica de modalidade, categoria, competição, fase e participantes;
-4. horário próximo apenas como sinal auxiliar, sempre combinado com participantes, modalidade e competição.
+- feminino sub-20;
+- feminino sub-17;
+- feminino sub-16;
+- feminino sub-15;
+- qualquer outra equipe feminina de base.
 
-Os participantes são ordenados somente na chave de comparação. A ordem original permanece na exibição. Ao consolidar, o registro mais completo é preferido e campos úteis da outra fonte — transmissão, local e `external_id` — são preservados. Também ficam o maior `sequence`, a maior prioridade de fonte e a verificação mais recente.
+O São Paulo feminino profissional continua no escopo. A exclusão de base feminina é aplicada na importação, na validação e na geração.
+
+### Clubes regionais
+
+O grupo `clubes-regionais`, esperado como verde pelo assinante, inclui as equipes masculinas profissionais:
+
+- Ferroviária-SP;
+- Portuguesa-SP;
+- Juventus-SP;
+- Botafogo-SP;
+- Comercial-SP;
+- Matonense;
+- São Carlos-SP;
+- Grêmio Sãocarlense.
+
+Aliases de Botafogo-SP e Comercial-SP são resolvidos de forma exata para não confundir clubes homônimos de outros estados.
+
+### Copinha
+
+A Copa São Paulo de Futebol Júnior é acompanhada pela regra geral a partir das oitavas de final: oitavas, quartas, semifinais e final.
+
+Uma prioridade de clube pode preservar um jogo anterior, como o São Paulo masculino sub-20. Nos jogos permitidos sem clube prioritário, o grupo é `outros-esportes`.
 
 ## Grupos e prioridade
-
-Cada evento aparece em `all.ics` e em exatamente um dos grupos abaixo. A primeira regra compatível vence:
 
 1. `sao-paulo`
 2. `selecao-brasileira`
@@ -87,6 +111,57 @@ Cada evento aparece em `all.ics` e em exatamente um dos grupos abaixo. A primeir
 10. `copas-do-mundo`
 11. `outros-esportes`
 
+## Importação sanitizada
+
+Exporte temporariamente somente a aba `Eventos` para CSV e execute:
+
+```bash
+python -m src.importers.google_sheet_csv /caminho/temporario/eventos.csv
+```
+
+O importador:
+
+- encontra colunas pelo cabeçalho, não pela posição;
+- interpreta datas, horários, eventos de dia inteiro e fusos;
+- sanitiza HTML, URLs e textos;
+- converte status confirmados, provisórios, adiados e cancelados;
+- aplica o escopo e a prioridade de grupos;
+- consolida duplicatas;
+- grava `data/events.json`;
+- gera `reports/import-summary.json` e `.md`.
+
+O CSV bruto é temporário e está bloqueado no Git por `data/import/*.csv`. O snapshot não representa sincronização automática: uma nova exportação e importação são necessárias para incorporar alterações da planilha.
+
+## UID permanente e privacidade
+
+O ID original do Google Calendar nunca é publicado. Quando disponível, o importador calcula:
+
+```text
+SHA-256("google-calendar:" + id_original)
+```
+
+Somente o hash entra em `external_id` e serve de base estável para o UID. Data, horário, local, transmissão e status podem mudar sem alterar a identidade do evento.
+
+Não são armazenados:
+
+- e-mail ou ID privado de agenda;
+- organizador, convidados ou `attendees`;
+- Google Meet, links privados de Zoom ou dados de conferência;
+- links de edição ou resposta;
+- tokens, OAuth, secrets ou chaves privadas;
+- chave de sincronização e ID originais.
+
+## Deduplicação
+
+A comparação ocorre nesta ordem:
+
+1. `external_id` sanitizado e fonte;
+2. UID permanente;
+3. chave canônica de modalidade, categoria, competição, fase e participantes;
+4. proximidade de horário apenas como auxílio.
+
+A ordem dos participantes é irrelevante somente para comparação. O registro mais completo preserva transmissão, local, fonte, maior `sequence` e maior prioridade.
+
 ## Executar localmente
 
 Requer Python 3.12 ou compatível:
@@ -98,74 +173,46 @@ python -m src.main
 python -m src.validate_ics
 ```
 
-O gerador reescreve arquivos somente quando o conteúdo mudou. A data de geração deriva da verificação mais recente dos dados, evitando alterações artificiais em cada execução.
+A segunda importação do mesmo CSV deve produzir o mesmo `events.json`. A segunda geração deve informar `changed_files: 0`.
 
 ## GitHub Actions
 
-O workflow **Tests** roda em `push`, `pull_request` e manualmente. Ele instala as dependências, executa o `pytest`, gera os calendários e valida todos os ICS.
+O workflow **Tests** roda em `push`, `pull_request` e manualmente. Ele instala dependências, executa todos os testes, gera os feeds e valida os ICS.
 
-O workflow **Update calendars** pode ser iniciado em **Actions → Update calendars → Run workflow**. Também executa diariamente às **06h00, 12h00 e 18h00** com `timezone: America/Sao_Paulo`, recurso atualmente aceito pela sintaxe oficial do GitHub Actions. Ele usa somente o `GITHUB_TOKEN` padrão, com permissão mínima `contents: write`, e cria commit apenas se `docs/` mudou.
+O workflow **Update calendars** pode ser iniciado em **Actions → Update calendars → Run workflow** e também executa às **06h00, 12h00 e 18h00**, com `timezone: America/Sao_Paulo`.
 
-O workflow de atualização não reage a `push`; portanto, o commit automático não dispara outra atualização e não forma loop.
+O workflow usa somente o `GITHUB_TOKEN` efêmero com `contents: write`, não acessa a planilha privada e não cria commit quando a geração é idempotente.
 
-## Publicação no GitHub Pages
+## Publicação
 
-Em **Settings → Pages**, selecione **Deploy from a branch**, branch `main` e pasta `/docs`. A página lista todos os feeds, suas finalidades, quantidades e ações para abrir ou copiar o link.
-
-Publicação confirmada em: https://andertrunks.github.io/sports-calendar-hub/
-
-### Feeds públicos
-
+- Página: https://andertrunks.github.io/sports-calendar-hub/
 - Geral: https://andertrunks.github.io/sports-calendar-hub/all.ics
 - São Paulo: https://andertrunks.github.io/sports-calendar-hub/sao-paulo.ics
 - Seleção Brasileira: https://andertrunks.github.io/sports-calendar-hub/selecao-brasileira.ics
 - Clubes regionais: https://andertrunks.github.io/sports-calendar-hub/clubes-regionais.ics
 - Red Bull: https://andertrunks.github.io/sports-calendar-hub/red-bull.ics
 - Premier League: https://andertrunks.github.io/sports-calendar-hub/premier-league.ics
-- Competições continentais: https://andertrunks.github.io/sports-calendar-hub/continentais.ics
+- Continentais: https://andertrunks.github.io/sports-calendar-hub/continentais.ics
 - Automobilismo: https://andertrunks.github.io/sports-calendar-hub/automobilismo.ics
 - Brasileirão: https://andertrunks.github.io/sports-calendar-hub/brasileirao.ics
 - Olimpíadas e Pan: https://andertrunks.github.io/sports-calendar-hub/olimpiadas-pan.ics
 - Copas do Mundo: https://andertrunks.github.io/sports-calendar-hub/copas-do-mundo.ics
 - Outros esportes: https://andertrunks.github.io/sports-calendar-hub/outros-esportes.ics
 
-## Assinar um feed
+## Assinar versus escrever em uma agenda
 
-Use a URL pública do arquivo `.ics` desejado, obtida na página do projeto.
+Um feed ICS assinado é consultado periodicamente pelo Google Calendar, Outlook ou Apple Calendar. O projeto não escreve eventos diretamente nesses serviços e não solicita OAuth.
 
-### Outlook
-
-No Outlook na web, abra **Calendário → Adicionar calendário → Assinar pela Web**, cole a URL e confirme. Em versões de desktop, a opção pode aparecer como **Adicionar calendário → Da Internet**.
-
-### Google Calendar
-
-Na versão web, ao lado de **Outros calendários**, clique em **+ → Do URL**, cole a URL e adicione. O Google controla a frequência de atualização e não oferece sincronização instantânea garantida.
-
-### Apple Calendar
-
-No macOS, use **Arquivo → Nova Assinatura de Calendário**, cole a URL e escolha a frequência de atualização. No iPhone ou iPad, use **Ajustes → Apps → Calendário → Contas de Calendário → Adicionar Conta → Outra → Adicionar Calendário Assinado**.
-
-## Limitações de calendários assinados
-
-Clientes como Google Calendar, Outlook e Apple Calendar mantêm cache próprio. Uma mudança publicada no feed pode levar horas para aparecer, e o projeto não controla esse intervalo. Assinatura é diferente de importar um `.ics`: a importação costuma ser uma cópia estática; a assinatura consulta o feed periodicamente.
-
-Eventos adiados usam `STATUS:TENTATIVE` no ICS, pois `POSTPONED` não é um valor previsto pelo padrão iCalendar; a descrição preserva o status original `POSTPONED`.
+Clientes assinantes mantêm cache próprio; alterações publicadas podem levar horas para aparecer. Importar um `.ics` cria normalmente uma cópia estática, enquanto assinar mantém uma URL que será consultada novamente.
 
 ## Próximos passos
 
-- substituir os oito eventos fictícios por fontes públicas verificadas;
-- criar adaptadores de coleta com limites e rastreabilidade;
-- adicionar histórico de alterações e observabilidade;
-- planejar integrações OAuth separadas para Google Calendar e Microsoft Outlook;
-- ampliar regras de entidades e competições sem quebrar UIDs existentes.
-
-## Segurança
-
-- Nenhuma senha, chave, token, credencial ou dado pessoal é necessário.
-- Os workflows usam apenas o `GITHUB_TOKEN` efêmero fornecido pelo GitHub.
-- Os arquivos publicados contêm somente dados esportivos públicos ou fictícios.
-- Google Calendar e Outlook não são acessados nem alterados por esta versão.
-- Não há serviço pago, domínio personalizado, banco externo ou segredo configurado.
+- automatizar uma coleta sanitizada sem expor a planilha privada;
+- revisar sazonalmente os clubes da Série A e Premier League;
+- incorporar novas fontes oficiais com rastreabilidade;
+- atualizar rankings ATP e WTA para brasileiros prioritários;
+- adicionar histórico de mudanças para incrementar `SEQUENCE` com segurança;
+- planejar integrações OAuth separadas, sem misturá-las à infraestrutura pública de feeds.
 
 ## Licença
 

@@ -24,7 +24,6 @@ def _write_bytes_if_changed(path: Path, content: bytes) -> bool:
 
 def _description(event: SportsEvent) -> str:
     lines = [
-        "DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL",
         f"📺 Transmissão no Brasil: {event.broadcaster_br or 'ainda não confirmada'}",
     ]
     if event.competition:
@@ -36,7 +35,13 @@ def _description(event: SportsEvent) -> str:
     city_country = ", ".join(part for part in (event.city, event.country) if part)
     if city_country:
         lines.append(f"🌎 Cidade/País: {city_country}")
-    lines.append(f"ℹ️ Status: {event.status}")
+    public_status = {
+        "CONFIRMED": "Confirmado",
+        "TENTATIVE": "Provisório",
+        "POSTPONED": "Adiado",
+        "CANCELLED": "Cancelado",
+    }[event.status]
+    lines.append(f"ℹ️ Status: {public_status}")
     if event.source_url:
         lines.append(f"🔗 Fonte oficial: {event.source_url}")
     verified = event.last_verified.astimezone(ZoneInfo(DEFAULT_TIMEZONE))
@@ -157,6 +162,7 @@ def generate_index(counts: dict[str, int], generated_at: datetime, docs_dir: Pat
     header {{ background: #0b3d2e; color: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px #0b3d2e33; }}
     h1 {{ margin-top: 0; font-size: clamp(2rem, 5vw, 3.6rem); line-height: 1.05; }}
     .notice {{ padding: 1rem; margin: 1.5rem 0; border-left: 5px solid #e67e22; background: #fff4e6; }}
+    .scope {{ background: white; padding: 1.25rem; margin: 1.5rem 0; border-radius: .8rem; box-shadow: 0 3px 14px #22334416; }}
     .grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }}
     .feed-card {{ background: white; padding: 1.25rem; border-radius: .8rem; box-shadow: 0 3px 14px #22334416; }}
     .feed-card h2 {{ margin-top: 0; }}
@@ -174,7 +180,14 @@ def generate_index(counts: dict[str, int], generated_at: datetime, docs_dir: Pat
       <h1>Sports Calendar Hub — Calendários esportivos</h1>
       <p>Feeds universais em iCalendar (ICS), gerados por Python e publicados automaticamente.</p>
     </header>
-    <p class="notice"><strong>Versão inicial de demonstração.</strong> Todos os eventos atuais são fictícios e não constituem calendário oficial.</p>
+    <p class="notice"><strong>Versão inicial.</strong> Os eventos são um snapshot sanitizado das fontes esportivas disponíveis e podem receber correções quando horários oficiais forem publicados.</p>
+    <section class="scope" aria-labelledby="scope-title">
+      <h2 id="scope-title">Escopo acompanhado</h2>
+      <p>Clubes regionais incluem Ferroviária-SP, Portuguesa-SP, Juventus-SP, Botafogo-SP, Comercial-SP, Matonense, São Carlos-SP e Grêmio Sãocarlense.</p>
+      <p>Do São Paulo FC, entram os times profissionais masculino e feminino e as categorias masculinas sub-20 e sub-17. Equipes femininas de base não fazem parte do escopo.</p>
+      <p>A Copa São Paulo de Futebol Júnior é acompanhada, pela regra geral, a partir das oitavas de final; prioridades de clubes podem prevalecer.</p>
+      <p><a href="escopo-mestre.md">Consultar o escopo mestre completo</a></p>
+    </section>
     <section class="grid" aria-label="Feeds disponíveis">
 {cards_html}
     </section>

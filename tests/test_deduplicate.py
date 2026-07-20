@@ -30,6 +30,18 @@ def test_partidas_diferentes_no_mesmo_horario_permanecem_distintas() -> None:
     assert len(deduplicate_events([first, other])) == 2
 
 
+def test_fases_diferentes_dentro_da_tolerancia_permanecem_distintas() -> None:
+    first = make_event(external_id="race-1", participant_1="Mugello", participant_2="", phase="Corrida 1")
+    second = replace(
+        first,
+        external_id="race-2",
+        start=first.start + timedelta(hours=6),
+        end=first.end + timedelta(hours=6),
+        phase="Corrida 2",
+    )
+    assert len(deduplicate_events([first, second])) == 2
+
+
 def test_sao_paulo_x_palmeiras_aparece_uma_vez() -> None:
     first = make_event(
         external_id="",

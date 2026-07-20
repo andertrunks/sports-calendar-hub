@@ -58,8 +58,17 @@ def are_duplicates(left: SportsEvent, right: SportsEvent, tolerance_hours: int =
     same_participants = canonical_participants(left) == canonical_participants(right)
     same_sport = normalize_for_comparison(left.sport) == normalize_for_comparison(right.sport)
     same_competition = normalize_for_comparison(left.competition) == normalize_for_comparison(right.competition)
+    left_phase = normalize_for_comparison(left.phase)
+    right_phase = normalize_for_comparison(right.phase)
+    compatible_phase = left_phase == right_phase or not left_phase or not right_phase
     close_in_time = abs(left.start - right.start) <= timedelta(hours=tolerance_hours)
-    return bool(same_participants and same_sport and same_competition and close_in_time)
+    return bool(
+        same_participants
+        and same_sport
+        and same_competition
+        and compatible_phase
+        and close_in_time
+    )
 
 
 def merge_events(left: SportsEvent, right: SportsEvent) -> SportsEvent:
