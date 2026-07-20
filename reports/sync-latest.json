@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "source_hash": "2bdedabce50213460d8c39517c04cf99468fc823a741106648ac88f724924f1c",
+  "events": 82,
+  "by_group": {
+    "automobilismo": 4,
+    "brasileirao": 35,
+    "clubes-regionais": 14,
+    "red-bull": 11,
+    "sao-paulo": 18
+  },
+  "import": {
+    "source_rows": 82,
+    "in_scope": 82,
+    "unique_events": 82,
+    "deduplicated": 0,
+    "changes": {
+      "created": 31,
+      "updated": 51,
+      "unchanged": 0
+    }
+  },
+  "dry_run": {
+    "execution_id": "dry-20260720182800-be62a0fb177f",
+    "plan": {
+      "create": 0,
+      "update": 0,
+      "unchanged": 82,
+      "delete": 0,
+      "primary_delete": 0,
+      "missing_uid": 0,
+      "duplicate_delete": 0,
+      "scope_delete": 0,
+      "existing_future": 176,
+      "privacy_violations": 0,
+      "duplicate_reviews": 0
+    },
+    "primary_duplicate_reviews": 0
+  },
+  "apply": {
+    "execution_id": "apply-20260720182805-be62a0fb177f",
+    "plan": {
+      "create": 0,
+      "update": 0,
+      "unchanged": 82,
+      "delete": 0,
+      "primary_delete": 0,
+      "missing_uid": 0,
+      "duplicate_delete": 0,
+      "scope_delete": 0,
+      "existing_future": 176,
+      "privacy_violations": 0,
+      "duplicate_reviews": 0
+    },
+    "result": {
+      "created": 0,
+      "updated": 0,
+      "unchanged": 82,
+      "deleted": 0,
+      "post_validation": {
+        "create": 0,
+        "update": 0,
+        "unchanged": 82,
+        "delete": 0,
+        "primary_delete": 0,
+        "missing_uid": 0,
+        "duplicate_delete": 0,
+        "scope_delete": 0,
+        "existing_future": 176,
+        "privacy_violations": 0,
+        "duplicate_reviews": 0
+      }
+    }
+  },
+  "security": {
+    "calendar": "Eventos esportivos",
+    "credentials_persisted": false,
+    "attendees_allowed": false,
+    "conference_data_allowed": false,
+    "primary_calendar_writes": false
+  }
+}
