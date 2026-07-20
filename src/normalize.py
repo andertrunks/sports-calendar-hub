@@ -68,8 +68,10 @@ def canonical_event_key(event: SportsEvent) -> str:
 
 
 def permanent_uid(event: SportsEvent) -> str:
+    if event.uid and event.uid.endswith(f"@{UID_DOMAIN}"):
+        return event.uid
     source = normalize_for_comparison(event.source_id or event.source_name) or "unknown-source"
-    external = normalize_for_comparison(event.external_id)
+    external = normalize_for_comparison(event.external_id_hash or event.external_id)
     if external:
         identity = f"external|{source}|{external}"
     else:
@@ -99,19 +101,32 @@ def normalize_event(event: SportsEvent) -> SportsEvent:
             "source_id",
             "source_name",
             "external_id",
+            "external_id_hash",
             "title",
             "sport",
             "category",
+            "age_group",
+            "gender",
             "competition",
             "phase",
+            "round",
             "participant_1",
             "participant_2",
             "location",
             "city",
+            "state",
             "country",
             "broadcaster_br",
             "source_url",
+            "highlight_reason",
         )
     }
     normalized = replace(event, **text_fields)
-    return replace(normalized, color_group=assign_color_group(normalized))
+    group = assign_color_group(normalized)
+    color_ids = {
+        "sao-paulo": "11", "selecao-brasileira": "5", "clubes-regionais": "10",
+        "red-bull": "6", "premier-league": "1", "continentais": "9",
+        "automobilismo": "3", "brasileirao": "7", "olimpiadas-pan": "4",
+        "copas-do-mundo": "2", "outros-esportes": "8",
+    }
+    return replace(normalized, color_group=group, color_id=color_ids[group], transparency="TRANSPARENT")

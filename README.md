@@ -1,12 +1,12 @@
 # Sports Calendar Hub
 
-Calendário esportivo automatizado com Python, feeds ICS, GitHub Actions e integração futura com Google Calendar e Outlook.
+Calendário esportivo automatizado com Python, feeds ICS, GitHub Actions e sincronização controlada com um calendário Google dedicado.
 
 O projeto normaliza eventos esportivos públicos em JSON, aplica um escopo versionado, consolida duplicatas e publica um calendário geral e feeds temáticos no padrão iCalendar.
 
 ## Estado dos dados
 
-Os eventos de produção são um **snapshot sanitizado** da aba `Eventos` da planilha privada “Controle de Eventos Esportivos”. A planilha não é publicada e o GitHub Actions não a acessa automaticamente.
+Os eventos de produção vêm de uma **exportação sanitizada** da aba `Eventos` da planilha privada “Controle de Eventos Esportivos”. A planilha não é publicada: um Apps Script independente entrega somente o contrato público mínimo, protegido por token.
 
 Os oito eventos fictícios da versão inicial foram removidos de `data/events.json` e permanecem apenas em `tests/fixtures/events_demo.json` para testes.
 
@@ -14,19 +14,21 @@ Os oito eventos fictícios da versão inicial foram removidos de `data/events.js
 
 1. `data/scope_rules.json` contém aliases, equipes, competições, fases, exclusões e prioridades.
 2. `src/scope_rules.py` carrega essas regras e decide escopo, equipe, competição, grupo e prioridade.
-3. `src/importers/google_sheet_csv.py` lê um CSV temporário somente da aba `Eventos`, sanitiza os dados e grava `data/events.json`.
-4. `SportsEvent` valida datas, fusos, status e grupos.
-5. `normalize.py` limpa textos, cria chaves canônicas e calcula o UID permanente.
-6. `deduplicate.py` consolida registros equivalentes sem usar horário como identidade única.
-7. `ics_generator.py` produz os feeds em UTF-8, CRLF e com linhas dobradas.
-8. `validate_ics.py` reabre e valida todos os arquivos gerados.
-9. GitHub Actions executa testes e publica `docs/` pelo GitHub Pages.
+3. `apps-script-gateway/` contém o código-fonte auditável do gateway separado “Sports Calendar Hub Gateway”.
+4. `src/importers/apps_script_json.py` valida schema, contagem e hash da exportação antes de gravar `data/events.json`.
+5. `src/calendar_payload.py` preserva UID e `SEQUENCE` e cria o payload sem participantes, conferências ou IDs brutos.
+6. `src/remote_sync.py` executa exportação, escopo, deduplicação, feeds, validação, varredura de privacidade, dry-run e UPSERT.
+7. O gateway usa a API avançada Calendar v3 para atualizar somente o calendário `Eventos esportivos`.
+8. `SportsEvent`, normalização, deduplicação e regras de escopo mantêm a camada pública determinística.
+9. `ics_generator.py` e `validate_ics.py` produzem e reabrem os feeds em UTF-8/CRLF.
+10. GitHub Actions executa testes, sincronização protegida e publicação pelo GitHub Pages.
 
 ## Estrutura principal
 
 ```text
 .
 ├── .github/workflows/
+├── apps-script-gateway/
 ├── data/
 │   ├── events.json
 │   ├── scope_rules.json
@@ -40,6 +42,11 @@ Os oito eventos fictícios da versão inicial foram removidos de `data/events.js
 │   └── import-summary.md
 ├── src/
 │   ├── importers/google_sheet_csv.py
+│   ├── importers/apps_script_json.py
+│   ├── calendar_payload.py
+│   ├── calendar_push.py
+│   ├── privacy_scan.py
+│   ├── remote_sync.py
 │   ├── scope_rules.py
 │   └── ...
 └── tests/
@@ -113,6 +120,14 @@ Uma prioridade de clube pode preservar um jogo anterior, como o São Paulo mascu
 
 ## Importação sanitizada
 
+O caminho automatizado recebe JSON do gateway e valida o hash antes de aceitar qualquer evento:
+
+```bash
+python -m src.importers.apps_script_json tests/fixtures/apps_script_export.json
+```
+
+O CSV permanece apenas como ferramenta de migração local e compatibilidade.
+
 Exporte temporariamente somente a aba `Eventos` para CSV e execute:
 
 ```bash
@@ -134,13 +149,15 @@ O CSV bruto é temporário e está bloqueado no Git por `data/import/*.csv`. O s
 
 ## UID permanente e privacidade
 
-O ID original do Google Calendar nunca é publicado. Quando disponível, o importador calcula:
+O ID original do Google Calendar nunca é publicado. Quando disponível, o gateway calcula:
 
 ```text
 SHA-256("google-calendar:" + id_original)
 ```
 
-Somente o hash entra em `external_id` e serve de base estável para o UID. Data, horário, local, transmissão e status podem mudar sem alterar a identidade do evento.
+Somente o hash entra em `external_id_hash` e serve de base estável para o UID. Data, horário, local, transmissão e status podem mudar sem alterar a identidade do evento.
+
+No calendário de destino, a identidade fica em propriedades estendidas privadas: `sports_calendar_uid`, `sports_calendar_managed` e `sports_calendar_scope_version`. O `eventId` selecionado é preservado em atualizações. `SEQUENCE` aumenta somente quando um campo esportivo relevante muda; `last_verified` isolado não altera a sequência.
 
 Não são armazenados:
 
@@ -171,6 +188,7 @@ python -m pip install -r requirements.txt
 pytest
 python -m src.main
 python -m src.validate_ics
+python -m src.privacy_scan
 ```
 
 A segunda importação do mesmo CSV deve produzir o mesmo `events.json`. A segunda geração deve informar `changed_files: 0`.
@@ -179,9 +197,22 @@ A segunda importação do mesmo CSV deve produzir o mesmo `events.json`. A segun
 
 O workflow **Tests** roda em `push`, `pull_request` e manualmente. Ele instala dependências, executa todos os testes, gera os feeds e valida os ICS.
 
-O workflow **Update calendars** pode ser iniciado em **Actions → Update calendars → Run workflow** e também executa às **06h00, 12h00 e 18h00**, com `timezone: America/Sao_Paulo`.
+O workflow **Update calendars** pode ser iniciado em **Actions → Update calendars → Run workflow** e também executa aproximadamente às **05h30, 11h30 e 17h30**, com `timezone: America/Sao_Paulo`. A antecipação deixa margem para o processamento e a publicação estarem disponíveis perto das 06h, 12h e 18h.
 
-O workflow usa somente o `GITHUB_TOKEN` efêmero com `contents: write`, não acessa a planilha privada e não cria commit quando a geração é idempotente.
+Ele usa o `GITHUB_TOKEN` efêmero com `contents: write` e três repository secrets: `SPORTS_GATEWAY_URL`, `SPORTS_EXPORT_TOKEN` e `SPORTS_SYNC_TOKEN`. Os valores não ficam no código, nos logs, nos relatórios ou nos artefatos públicos. A execução sempre faz dry-run antes do apply, rejeita exclusões em massa e não cria commit vazio.
+
+## Proteções da escrita no Google Calendar
+
+- destino único: calendário `Eventos esportivos`;
+- calendário principal somente leitura para auditoria de duplicatas;
+- `sendUpdates: none`, sem convidados, RSVP, Meet, Zoom ou conferência;
+- todos os eventos são `transparent` e usam a prioridade fixa de cores;
+- UPSERT por UID, hash do ID externo e chave canônica;
+- cancelamentos e adiamentos preservam UID e evento selecionado;
+- nenhum evento fora de escopo é criado;
+- duplicatas não seguras no calendário principal viram `REVISÃO_MANUAL`;
+- snapshot privado de rollback antes de cada aplicação;
+- segunda execução deve resultar em zero criações, atualizações e exclusões.
 
 ## Publicação
 
@@ -201,18 +232,21 @@ O workflow usa somente o `GITHUB_TOKEN` efêmero com `contents: write`, não ace
 
 ## Assinar versus escrever em uma agenda
 
-Um feed ICS assinado é consultado periodicamente pelo Google Calendar, Outlook ou Apple Calendar. O projeto não escreve eventos diretamente nesses serviços e não solicita OAuth.
+Um feed ICS assinado é consultado periodicamente pelo Google Calendar, Outlook ou Apple Calendar. A automação também mantém eventos no calendário Google dedicado `Eventos esportivos`; ela não escreve no calendário principal e não acessa o Outlook.
 
 Clientes assinantes mantêm cache próprio; alterações publicadas podem levar horas para aparecer. Importar um `.ics` cria normalmente uma cópia estática, enquanto assinar mantém uma URL que será consultada novamente.
 
+## Configuração do gateway
+
+Crie um projeto Apps Script independente, copie os arquivos de `apps-script-gateway/`, habilite os serviços avançados Calendar v3 e Sheets v4 e mantenha para a planilha apenas o escopo OAuth `spreadsheets.readonly`. Configure as propriedades `SPREADSHEET_ID`, `SHEET_NAME`, `SPORTS_CALENDAR_ID`, `TIMEZONE`, `EXPORT_TOKEN`, `SYNC_TOKEN`, `SCHEMA_VERSION`, `ALLOW_PRIMARY_DUPLICATE_CLEANUP` e `DRY_RUN_DEFAULT`. O Web App executa como o proprietário e é protegido por tokens diferentes com no mínimo 48 caracteres.
+
 ## Próximos passos
 
-- automatizar uma coleta sanitizada sem expor a planilha privada;
 - revisar sazonalmente os clubes da Série A e Premier League;
 - incorporar novas fontes oficiais com rastreabilidade;
 - atualizar rankings ATP e WTA para brasileiros prioritários;
-- adicionar histórico de mudanças para incrementar `SEQUENCE` com segurança;
-- planejar integrações OAuth separadas, sem misturá-las à infraestrutura pública de feeds.
+- ampliar a auditoria de destaques excepcionais com justificativa;
+- manter qualquer integração com Outlook separada e sem compartilhar credenciais.
 
 ## Licença
 

@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "schema_version": "2.0",
+  "action": "sync",
+  "dry_run": true,
+  "source_hash": "fixture-source-hash",
+  "execution_id": "dry-run-fixture",
+  "calendar": "Eventos esportivos",
+  "plan": {
+    "create": 1,
+    "update": 1,
+    "unchanged": 0,
+    "delete": 0,
+    "primary_delete": 0,
+    "missing_uid": 0,
+    "privacy_violations": 0
+  },
+  "blockers": [],
+  "primary_duplicate_reviews": []
+}
