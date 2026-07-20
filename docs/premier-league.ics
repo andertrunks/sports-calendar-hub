@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sports Calendar Hub//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Premier League
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Arsena
+ l x Clube Fictício E
+DTSTART;TZID=America/Sao_Paulo:20260905T133000
+DTEND;TZID=America/Sao_Paulo:20260905T153000
+DTSTAMP:20260720T150000Z
+UID:f72b250fa5b4a9e0696f8cc387cea2c733090976f3bf1e1e20487534c2f0a766@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Futebol masculino,premier-league
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Premier 
+ League — competição de demonstração\n📍 Fase/Rodada: Rodada fictí
+ cia 4\n🏟️ Local: Estádio fictício E\n🌎 Cidade/País: Cidade fict
+ ícia E\, Reino Unido\nℹ️ Status: CONFIRMED\n🕒 Última verificaçã
+ o: 20/07/2026 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Estádio fictício E
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

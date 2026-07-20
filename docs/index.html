@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sports Calendar Hub — Calendários esportivos</title>
+  <style>
+    :root { color-scheme: light; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    body { margin: 0; background: #f3f6f9; color: #17202a; }
+    main { width: min(1080px, calc(100% - 2rem)); margin: 0 auto; padding: 3rem 0; }
+    header { background: #0b3d2e; color: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px #0b3d2e33; }
+    h1 { margin-top: 0; font-size: clamp(2rem, 5vw, 3.6rem); line-height: 1.05; }
+    .notice { padding: 1rem; margin: 1.5rem 0; border-left: 5px solid #e67e22; background: #fff4e6; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
+    .feed-card { background: white; padding: 1.25rem; border-radius: .8rem; box-shadow: 0 3px 14px #22334416; }
+    .feed-card h2 { margin-top: 0; }
+    .count { color: #355; }
+    .actions { display: flex; flex-wrap: wrap; gap: .6rem; }
+    a, button { border: 0; border-radius: .45rem; padding: .65rem .8rem; font: inherit; cursor: pointer; }
+    a { background: #0b6e4f; color: white; text-decoration: none; }
+    button { background: #dfe9e5; color: #123; }
+    footer { margin-top: 2rem; color: #52616b; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Sports Calendar Hub — Calendários esportivos</h1>
+      <p>Feeds universais em iCalendar (ICS), gerados por Python e publicados automaticamente.</p>
+    </header>
+    <p class="notice"><strong>Versão inicial de demonstração.</strong> Todos os eventos atuais são fictícios e não constituem calendário oficial.</p>
+    <section class="grid" aria-label="Feeds disponíveis">
+<article class="feed-card">
+  <h2>Todos os eventos</h2>
+  <p>Calendário geral com todos os eventos normalizados.</p>
+  <p class="count"><strong>8</strong> evento(s)</p>
+  <div class="actions">
+    <a href="all.ics">Abrir all.ics</a>
+    <button type="button" data-feed="all.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>São Paulo</h2>
+  <p>Jogos do São Paulo Futebol Clube, independentemente da competição.</p>
+  <p class="count"><strong>1</strong> evento(s)</p>
+  <div class="actions">
+    <a href="sao-paulo.ics">Abrir sao-paulo.ics</a>
+    <button type="button" data-feed="sao-paulo.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>Seleção Brasileira</h2>
+  <p>Jogos das seleções brasileiras, com prioridade sobre copas e torneios.</p>
+  <p class="count"><strong>1</strong> evento(s)</p>
+  <div class="actions">
+    <a href="selecao-brasileira.ics">Abrir selecao-brasileira.ics</a>
+    <button type="button" data-feed="selecao-brasileira.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>Clubes regionais</h2>
+  <p>Eventos de Ferroviária, Corinthians, Palmeiras e Santos, após prioridades superiores.</p>
+  <p class="count"><strong>1</strong> evento(s)</p>
+  <div class="actions">
+    <a href="clubes-regionais.ics">Abrir clubes-regionais.ics</a>
+    <button type="button" data-feed="clubes-regionais.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>Red Bull</h2>
+  <p>Eventos de equipes Red Bull, RB Leipzig, RB Salzburg e Red Bull Bragantino.</p>
+  <p class="count"><strong>1</strong> evento(s)</p>
+  <div class="actions">
+    <a href="red-bull.ics">Abrir red-bull.ics</a>
+    <button type="button" data-feed="red-bull.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>Premier League</h2>
+  <p>Partidas da Premier League que não pertencem a um grupo prioritário.</p>
+  <p class="count"><strong>1</strong> evento(s)</p>
+  <div class="actions">
+    <a href="premier-league.ics">Abrir premier-league.ics</a>
+    <button type="button" data-feed="premier-league.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>Competições continentais</h2>
+  <p>Libertadores, Sul-Americana, Champions League e competições continentais equivalentes.</p>
+  <p class="count"><strong>1</strong> evento(s)</p>
+  <div class="actions">
+    <a href="continentais.ics">Abrir continentais.ics</a>
+    <button type="button" data-feed="continentais.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>Automobilismo</h2>
+  <p>Corridas e etapas de categorias do automobilismo.</p>
+  <p class="count"><strong>1</strong> evento(s)</p>
+  <div class="actions">
+    <a href="automobilismo.ics">Abrir automobilismo.ics</a>
+    <button type="button" data-feed="automobilismo.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>Brasileirão</h2>
+  <p>Partidas do Campeonato Brasileiro que não pertencem a um grupo prioritário.</p>
+  <p class="count"><strong>0</strong> evento(s)</p>
+  <div class="actions">
+    <a href="brasileirao.ics">Abrir brasileirao.ics</a>
+    <button type="button" data-feed="brasileirao.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>Olimpíadas e Pan</h2>
+  <p>Eventos olímpicos e pan-americanos.</p>
+  <p class="count"><strong>0</strong> evento(s)</p>
+  <div class="actions">
+    <a href="olimpiadas-pan.ics">Abrir olimpiadas-pan.ics</a>
+    <button type="button" data-feed="olimpiadas-pan.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>Copas do Mundo</h2>
+  <p>Eventos de Copas do Mundo que não pertencem a uma seleção prioritária.</p>
+  <p class="count"><strong>0</strong> evento(s)</p>
+  <div class="actions">
+    <a href="copas-do-mundo.ics">Abrir copas-do-mundo.ics</a>
+    <button type="button" data-feed="copas-do-mundo.ics">Copiar link</button>
+  </div>
+</article>
+<article class="feed-card">
+  <h2>Outros esportes</h2>
+  <p>Demais modalidades e competições não abrangidas pelos grupos anteriores.</p>
+  <p class="count"><strong>1</strong> evento(s)</p>
+  <div class="actions">
+    <a href="outros-esportes.ics">Abrir outros-esportes.ics</a>
+    <button type="button" data-feed="outros-esportes.ics">Copiar link</button>
+  </div>
+</article>
+    </section>
+    <footer>Última geração dos dados: <time datetime="2026-07-20T12:00:00-03:00">20/07/2026 às 12:00 -03</time>.</footer>
+  </main>
+  <script>
+    document.querySelectorAll('[data-feed]').forEach((button) => {
+      button.addEventListener('click', async () => {
+        const url = new URL(button.dataset.feed, window.location.href).href;
+        await navigator.clipboard.writeText(url);
+        button.textContent = 'Link copiado';
+      });
+    });
+  </script>
+</body>
+</html>

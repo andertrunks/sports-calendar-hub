@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sports Calendar Hub//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Todos os eventos
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — São P
+ aulo x Equipe Fictícia A
+DTSTART;TZID=America/Sao_Paulo:20260802T160000
+DTEND;TZID=America/Sao_Paulo:20260802T180000
+DTSTAMP:20260720T150000Z
+UID:283593475ad30b7d608f4a3d832365ad728b112b376e65a84f9410be1acae13d@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Futebol masculino,sao-paulo
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: Transmissão fictícia — não confirmada\n🏆 C
+ ompetição: Brasileirão — competição de demonstração\n📍 Fase/Ro
+ dada: Rodada fictícia 1\n🏟️ Local: Estádio fictício A\n🌎 Cidade
+ /País: Cidade fictícia A\, Brasil\nℹ️ Status: CONFIRMED\n🕒 Últim
+ a verificação: 20/07/2026 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Estádio fictício A
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Brasil
+  x Seleção Fictícia B
+DTSTART;TZID=America/Sao_Paulo:20260808T200000
+DTEND;TZID=America/Sao_Paulo:20260808T220000
+DTSTAMP:20260720T150000Z
+UID:f07079cee24e3a2e378b8a93b35ef599c7ded4608538e12f26170590a9b923af@sport
+ s-calendar-hub
+SEQUENCE:1
+CATEGORIES:Futebol,Seleções,selecao-brasileira
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Copa do 
+ Mundo de demonstração\n📍 Fase/Rodada: Fase fictícia\n🏟️ Local: 
+ Arena fictícia B\n🌎 Cidade/País: Cidade fictícia B\, País fictício
+  B\nℹ️ Status: TENTATIVE\n🕒 Última verificação: 20/07/2026 12:00
+  -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Arena fictícia B
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Ferrov
+ iária x Clube Fictício C
+DTSTART;TZID=America/Sao_Paulo:20260815T110000
+DTEND;TZID=America/Sao_Paulo:20260815T130000
+DTSTAMP:20260720T150000Z
+UID:ad55e3e613ad8dd3ac90925d5949ceffc129eb22b4e654cdf4ccdb0b4149bc35@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Futebol feminino,clubes-regionais
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Torneio 
+ regional de demonstração\n📍 Fase/Rodada: Rodada fictícia 2\n🏟️ 
+ Local: Estádio fictício C\n🌎 Cidade/País: Cidade fictícia C\, Brasi
+ l\nℹ️ Status: CONFIRMED\n🕒 Última verificação: 20/07/2026 12:00 
+ -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Estádio fictício C
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Red Bu
+ ll Bragantino x Clube Fictício D
+DTSTART;TZID=America/Sao_Paulo:20260822T183000
+DTEND;TZID=America/Sao_Paulo:20260822T203000
+DTSTAMP:20260720T150000Z
+UID:253d1fce532bec31e8882a4643b8c1b16e6b8c7740ad5304a6ffd0feb2035fb6@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Futebol masculino,red-bull
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: Canal fictício — demonstração\n🏆 Competiç
+ ão: Brasileirão — competição de demonstração\n📍 Fase/Rodada: Ro
+ dada fictícia 3\n🏟️ Local: Arena fictícia D\n🌎 Cidade/País: Cid
+ ade fictícia D\, Brasil\nℹ️ Status: CONFIRMED\n🕒 Última verifica
+ ção: 20/07/2026 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Arena fictícia D
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Arsena
+ l x Clube Fictício E
+DTSTART;TZID=America/Sao_Paulo:20260905T133000
+DTEND;TZID=America/Sao_Paulo:20260905T153000
+DTSTAMP:20260720T150000Z
+UID:f72b250fa5b4a9e0696f8cc387cea2c733090976f3bf1e1e20487534c2f0a766@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Futebol masculino,premier-league
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Premier 
+ League — competição de demonstração\n📍 Fase/Rodada: Rodada fictí
+ cia 4\n🏟️ Local: Estádio fictício E\n🌎 Cidade/País: Cidade fict
+ ícia E\, Reino Unido\nℹ️ Status: CONFIRMED\n🕒 Última verificaçã
+ o: 20/07/2026 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Estádio fictício E
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Clube 
+ Fictício F x Clube Fictício G
+DTSTART;TZID=America/Sao_Paulo:20260916T213000
+DTEND;TZID=America/Sao_Paulo:20260916T233000
+DTSTAMP:20260720T150000Z
+UID:2d83a9ad1e6528f6ba97d9ca05ca7ba28e304ad4132ba395f037a478b93018b8@sport
+ s-calendar-hub
+SEQUENCE:2
+CATEGORIES:Futebol,Futebol masculino,continentais
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Libertad
+ ores — competição de demonstração\n📍 Fase/Rodada: Semifinal fict
+ ícia\n🏟️ Local: Estádio fictício F\n🌎 Cidade/País: Cidade fict
+ ícia F\, País fictício F\nℹ️ Status: POSTPONED\n🕒 Última verifi
+ cação: 20/07/2026 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Estádio fictício F
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Corrid
+ a fictícia da Fórmula 4 Italiana
+DTSTART;TZID=America/Sao_Paulo:20260927T090000
+DTEND;TZID=America/Sao_Paulo:20260927T100000
+DTSTAMP:20260720T150000Z
+UID:48618c88311781704379cd06696c3f08ccad6bfdcb6bba0a73bbce268fa20972@sport
+ s-calendar-hub
+SEQUENCE:3
+CATEGORIES:Automobilismo,Fórmula 4,automobilismo
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Fórmula
+  4 Italiana — etapa de demonstração\n📍 Fase/Rodada: Corrida fictíc
+ ia\n🏟️ Local: Autódromo fictício H\n🌎 Cidade/País: Cidade fict
+ ícia H\, Itália\nℹ️ Status: CANCELLED\n🕒 Última verificação: 2
+ 0/07/2026 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Autódromo fictício H
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — João 
+ Fonseca x Tenista Fictício I
+DTSTART;TZID=America/Sao_Paulo:20261003T150000
+DTEND;TZID=America/Sao_Paulo:20261003T170000
+DTSTAMP:20260720T150000Z
+UID:27247cb6eaed92977e157d64d3fdd4cd9233873996b2bdcd4edbad510955e93a@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Tênis,Simples masculino,outros-esportes
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Torneio 
+ de tênis de demonstração\n📍 Fase/Rodada: Partida fictícia\n🏟️ 
+ Local: Quadra fictícia I\n🌎 Cidade/País: Cidade fictícia I\, País f
+ ictício I\nℹ️ Status: CONFIRMED\n🕒 Última verificação: 20/07/20
+ 26 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Quadra fictícia I
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

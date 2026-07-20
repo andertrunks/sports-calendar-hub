@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sports Calendar Hub//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:São Paulo
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — São P
+ aulo x Equipe Fictícia A
+DTSTART;TZID=America/Sao_Paulo:20260802T160000
+DTEND;TZID=America/Sao_Paulo:20260802T180000
+DTSTAMP:20260720T150000Z
+UID:283593475ad30b7d608f4a3d832365ad728b112b376e65a84f9410be1acae13d@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Futebol masculino,sao-paulo
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: Transmissão fictícia — não confirmada\n🏆 C
+ ompetição: Brasileirão — competição de demonstração\n📍 Fase/Ro
+ dada: Rodada fictícia 1\n🏟️ Local: Estádio fictício A\n🌎 Cidade
+ /País: Cidade fictícia A\, Brasil\nℹ️ Status: CONFIRMED\n🕒 Últim
+ a verificação: 20/07/2026 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Estádio fictício A
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

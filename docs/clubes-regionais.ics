@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sports Calendar Hub//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Clubes regionais
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Ferrov
+ iária x Clube Fictício C
+DTSTART;TZID=America/Sao_Paulo:20260815T110000
+DTEND;TZID=America/Sao_Paulo:20260815T130000
+DTSTAMP:20260720T150000Z
+UID:ad55e3e613ad8dd3ac90925d5949ceffc129eb22b4e654cdf4ccdb0b4149bc35@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Futebol feminino,clubes-regionais
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Torneio 
+ regional de demonstração\n📍 Fase/Rodada: Rodada fictícia 2\n🏟️ 
+ Local: Estádio fictício C\n🌎 Cidade/País: Cidade fictícia C\, Brasi
+ l\nℹ️ Status: CONFIRMED\n🕒 Última verificação: 20/07/2026 12:00 
+ -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Estádio fictício C
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

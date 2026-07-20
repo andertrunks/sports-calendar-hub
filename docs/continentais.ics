@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sports Calendar Hub//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Competições continentais
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Clube 
+ Fictício F x Clube Fictício G
+DTSTART;TZID=America/Sao_Paulo:20260916T213000
+DTEND;TZID=America/Sao_Paulo:20260916T233000
+DTSTAMP:20260720T150000Z
+UID:2d83a9ad1e6528f6ba97d9ca05ca7ba28e304ad4132ba395f037a478b93018b8@sport
+ s-calendar-hub
+SEQUENCE:2
+CATEGORIES:Futebol,Futebol masculino,continentais
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Libertad
+ ores — competição de demonstração\n📍 Fase/Rodada: Semifinal fict
+ ícia\n🏟️ Local: Estádio fictício F\n🌎 Cidade/País: Cidade fict
+ ícia F\, País fictício F\nℹ️ Status: POSTPONED\n🕒 Última verifi
+ cação: 20/07/2026 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Estádio fictício F
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sports Calendar Hub//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Automobilismo
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Corrid
+ a fictícia da Fórmula 4 Italiana
+DTSTART;TZID=America/Sao_Paulo:20260927T090000
+DTEND;TZID=America/Sao_Paulo:20260927T100000
+DTSTAMP:20260720T150000Z
+UID:48618c88311781704379cd06696c3f08ccad6bfdcb6bba0a73bbce268fa20972@sport
+ s-calendar-hub
+SEQUENCE:3
+CATEGORIES:Automobilismo,Fórmula 4,automobilismo
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Fórmula
+  4 Italiana — etapa de demonstração\n📍 Fase/Rodada: Corrida fictíc
+ ia\n🏟️ Local: Autódromo fictício H\n🌎 Cidade/País: Cidade fict
+ ícia H\, Itália\nℹ️ Status: CANCELLED\n🕒 Última verificação: 2
+ 0/07/2026 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Autódromo fictício H
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

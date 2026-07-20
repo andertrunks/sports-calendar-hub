@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sports Calendar Hub//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Red Bull
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Red Bu
+ ll Bragantino x Clube Fictício D
+DTSTART;TZID=America/Sao_Paulo:20260822T183000
+DTEND;TZID=America/Sao_Paulo:20260822T203000
+DTSTAMP:20260720T150000Z
+UID:253d1fce532bec31e8882a4643b8c1b16e6b8c7740ad5304a6ffd0feb2035fb6@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Futebol masculino,red-bull
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: Canal fictício — demonstração\n🏆 Competiç
+ ão: Brasileirão — competição de demonstração\n📍 Fase/Rodada: Ro
+ dada fictícia 3\n🏟️ Local: Arena fictícia D\n🌎 Cidade/País: Cid
+ ade fictícia D\, Brasil\nℹ️ Status: CONFIRMED\n🕒 Última verifica
+ ção: 20/07/2026 12:00 -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Arena fictícia D
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

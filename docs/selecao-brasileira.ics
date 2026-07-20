@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sports Calendar Hub//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seleção Brasileira
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Brasil
+  x Seleção Fictícia B
+DTSTART;TZID=America/Sao_Paulo:20260808T200000
+DTEND;TZID=America/Sao_Paulo:20260808T220000
+DTSTAMP:20260720T150000Z
+UID:f07079cee24e3a2e378b8a93b35ef599c7ded4608538e12f26170590a9b923af@sport
+ s-calendar-hub
+SEQUENCE:1
+CATEGORIES:Futebol,Seleções,selecao-brasileira
+CREATED:20260720T150000Z
+DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
+ Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Copa do 
+ Mundo de demonstração\n📍 Fase/Rodada: Fase fictícia\n🏟️ Local: 
+ Arena fictícia B\n🌎 Cidade/País: Cidade fictícia B\, País fictício
+  B\nℹ️ Status: TENTATIVE\n🕒 Última verificação: 20/07/2026 12:00
+  -03
+LAST-MODIFIED:20260720T150000Z
+LOCATION:Arena fictícia B
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
