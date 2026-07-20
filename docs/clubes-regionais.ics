@@ -9,18 +9,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Botafogo-SP x Juventude | Série B — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260723T213000
 DTEND;TZID=America/Sao_Paulo:20260724T000000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:f825524fb56290b95131de36081619b5b4985b103f98dd075692846683fcca56@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN\, Disney+\, SportyNet e Xspo
  rts\n🏆 Competição: Campeonato Brasileiro Série B 2026\n📍 Fase/Rod
- ada: fase única — rodada 19\n🏟️ Local: Estádio Santa Cruz / Arena
-  Nicnet\n🌎 Cidade/País: Ribeirão Preto\, Brasil\nℹ️ Status: Confi
- rmado\n🕒 Última verificação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ ada: fase única — rodada 19 — fase única — rodada 19\n🏟️ Loca
+ l: Estádio Santa Cruz / Arena Nicnet\n🌎 Cidade/País: Ribeirão Preto 
+ — SP — Brasil\nℹ️ Status: Confirmado\n🕒 Última verificação: 
+ 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Santa Cruz / Arena Nicnet
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -30,18 +31,19 @@ SUMMARY:Futebol — Portuguesa-SP x Uberlândia | Série D — Oitavas de
  final — Volta
 DTSTART;TZID=America/Sao_Paulo:20260725T160000
 DTEND;TZID=America/Sao_Paulo:20260725T183000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:d29558f19a4fa9c4a89e6a533ae84c864f46b3a4afc294371d166454f4cd828a@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série D 2026\n📍 Fase/Rodada: oitavas de
-  final — jogo de volta\n🏟️ Local: Estádio do Canindé\n🌎 Cidade
- /País: São Paulo\, Brasil\nℹ️ Status: Confirmado\n🕒 Última verif
- icação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+  final — jogo de volta — oitavas de final — jogo de volta\n🏟️ L
+ ocal: Estádio do Canindé\n🌎 Cidade/País: São Paulo — SP — Brasi
+ l\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 18:05
+  -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio do Canindé
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -50,19 +52,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Juventus-SP x Paulista | Copa Paulista — Rodada 2
 DTSTART;TZID=America/Sao_Paulo:20260726T100000
 DTEND;TZID=America/Sao_Paulo:20260726T123000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:316c13d1f1fe7986e69e3a3d45f2e4b1ae3538b1676078617a20b5ffefa0bbb5@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 2\
- n🏟️ Local: Rua Javari\n🌎 Cidade/País: São Paulo\, Brasil\nℹ️
-  Status: Confirmado\n🔗 Fonte oficial: https://futebolpaulista.com.br/No
- ticias/Detalhe.aspx?Noticia=32647\n🕒 Última verificação: 20/07/2026 
- 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 2 
+ — primeira fase — rodada 2\n🏟️ Local: Rua Javari\n🌎 Cidade/Pa
+ ís: São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte o
+ ficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647
+ \n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Rua Javari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -72,18 +74,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Fortaleza x Botafogo-SP | Série B — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260728T213500
 DTEND;TZID=America/Sao_Paulo:20260729T000500
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:e6043bf7a18c0097fcec6981bcfe8144c2213eccb9a0c0a37ea17f28bc531668@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: RedeTV!\, ESPN\, Disney+ e Sporty
  Net\n🏆 Competição: Campeonato Brasileiro Série B 2026\n📍 Fase/Rod
- ada: fase única — rodada 20\n🏟️ Local: Arena Castelão\n🌎 Cidad
- e/País: Fortaleza\, Brasil\nℹ️ Status: Confirmado\n🕒 Última verif
- icação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ ada: fase única — rodada 20 — fase única — rodada 20\n🏟️ Loca
+ l: Arena Castelão\n🌎 Cidade/País: Fortaleza — CE — Brasil\nℹ️
+  Status: Confirmado\n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Arena Castelão
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -93,18 +95,18 @@ SUMMARY:Futebol — XV de Piracicaba x Comercial-SP | Copa Paulista — Ro
  dada 2
 DTSTART;TZID=America/Sao_Paulo:20260729T200000
 DTEND;TZID=America/Sao_Paulo:20260729T223000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:723b3abc94792eb5dc085db8b2d36a77ab0f5ddfc0f680f85d4b437a3a918392@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: Metrópoles Esportes no YouTube\n
  🏆 Competição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase —
-  rodada 2\n🏟️ Local: Estádio Barão de Serra Negra\n🌎 Cidade/Paí
- s: Piracicaba\, Brasil\nℹ️ Status: Confirmado\n🕒 Última verificaç
- ão: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+  rodada 2 — primeira fase — rodada 2\n🏟️ Local: Estádio Barão d
+ e Serra Negra\n🌎 Cidade/País: Piracicaba — SP — Brasil\nℹ️ Sta
+ tus: Confirmado\n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Barão de Serra Negra
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -113,19 +115,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Juventus-SP x Primavera | Copa Paulista — Rodada 3
 DTSTART;TZID=America/Sao_Paulo:20260802T100000
 DTEND;TZID=America/Sao_Paulo:20260802T123000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:f9b97f5ba19e6e5ad9f172dd9a478c4c42bb856a39f9e5c69304bd24d05eac09@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 3\
- n🏟️ Local: Rua Javari\n🌎 Cidade/País: São Paulo\, Brasil\nℹ️
-  Status: Confirmado\n🔗 Fonte oficial: https://futebolpaulista.com.br/No
- ticias/Detalhe.aspx?Noticia=32647\n🕒 Última verificação: 20/07/2026 
- 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 3 
+ — primeira fase — rodada 3\n🏟️ Local: Rua Javari\n🌎 Cidade/Pa
+ ís: São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte o
+ ficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647
+ \n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Rua Javari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -136,18 +138,18 @@ SUMMARY:Futebol — Comercial-SP x União São João | Copa Paulista — R
  odada 3
 DTSTART;TZID=America/Sao_Paulo:20260802T160000
 DTEND;TZID=America/Sao_Paulo:20260802T183000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:abd44c6f8cd221e92bfb46e4bfdeb840d23256bc3a7ba3a3b96b7731f34bbebb@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: Metrópoles Esportes no YouTube\n
  🏆 Competição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase —
-  rodada 3\n🏟️ Local: Estádio Palma Travassos\n🌎 Cidade/País: Rib
- eirão Preto\, Brasil\nℹ️ Status: Confirmado\n🕒 Última verificaç
- ão: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+  rodada 3 — primeira fase — rodada 3\n🏟️ Local: Estádio Palma Tr
+ avassos\n🌎 Cidade/País: Ribeirão Preto — SP — Brasil\nℹ️ Stat
+ us: Confirmado\n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Palma Travassos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -156,21 +158,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Figueirense x Ferroviária | Série C — Rodada 16
 DTSTART;TZID=America/Sao_Paulo:20260808T170000
 DTEND;TZID=America/Sao_Paulo:20260808T193000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:8c58794359be49d12f5caaf2dda04ef7d0740309e69ab536bb03654a95111d94@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
- ase — rodada 16\n🏟️ Local: Estádio Orlando Scarpelli\n🌎 Cidade/
- País: Florianópolis\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofic
- ial: https://www.cbf.com.br/futebol-brasileiro/noticias/competicoes-campeo
- nato-brasileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodadas-16-a-19
- -da-serie-c-do-campeonato-brasileiro\n🕒 Última verificação: 20/07/20
- 26 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ ase — rodada 16 — primeira fase — rodada 16\n🏟️ Local: Estádio
+  Orlando Scarpelli\n🌎 Cidade/País: Florianópolis — SC — Brasil\n
+ ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/fute
+ bol-brasileiro/noticias/competicoes-campeonato-brasileiro-serie-c/a/cbf-di
+ vulga-tabela-detalhada-das-rodadas-16-a-19-da-serie-c-do-campeonato-brasil
+ eiro\n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Orlando Scarpelli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -182,19 +184,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Primavera x Juventus-SP | Copa Paulista — Rodada 4
 DTSTART;TZID=America/Sao_Paulo:20260808T170000
 DTEND;TZID=America/Sao_Paulo:20260808T193000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:51bc086d56b2731fd202acd5ccae185d987815161f909d992a395b4f56f3cd98@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4\
- n🏟️ Local: Estádio Ítalo Mário Limongi\n🌎 Cidade/País: Indaiat
- uba\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://futeb
- olpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Última verifi
- cação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4 
+ — primeira fase — rodada 4\n🏟️ Local: Estádio Ítalo Mário Limo
+ ngi\n🌎 Cidade/País: Indaiatuba — SP — Brasil\nℹ️ Status: Confi
+ rmado\n🔗 Fonte oficial: https://futebolpaulista.com.br/Noticias/Detalhe
+ .aspx?Noticia=32647\n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Ítalo Mário Limongi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -205,18 +207,18 @@ SUMMARY:Futebol — União São João x Comercial-SP | Copa Paulista — R
  odada 4
 DTSTART;TZID=America/Sao_Paulo:20260808T170000
 DTEND;TZID=America/Sao_Paulo:20260808T193000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:e399b670972b74422240a89a97a80f1bded34d9a5afd0b181e0e25919fe8feab@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: Paulistão no YouTube\n🏆 Compe
- tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4\
- n🏟️ Local: Estádio Dr. Hermínio Ometto\n🌎 Cidade/País: Araras\,
-  Brasil\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026
-  12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4 
+ — primeira fase — rodada 4\n🏟️ Local: Estádio Dr. Hermínio Omet
+ to\n🌎 Cidade/País: Araras — SP — Brasil\nℹ️ Status: Confirmado
+ \n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Dr. Hermínio Ometto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -225,18 +227,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Botafogo-SP x América-MG | Série B — Rodada 21
 DTSTART;TZID=America/Sao_Paulo:20260808T183000
 DTEND;TZID=America/Sao_Paulo:20260808T210000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:91406a741a6a26db5e93decc2fd2abdac249d056f4584466b0b73235c84ba504@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
  : Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase única — r
- odada 21\n🏟️ Local: Estádio Santa Cruz / Arena Nicnet\n🌎 Cidade/P
- aís: Ribeirão Preto\, Brasil\nℹ️ Status: Confirmado\n🕒 Última ve
- rificação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ odada 21 — fase única — rodada 21\n🏟️ Local: Estádio Santa Cruz
+  / Arena Nicnet\n🌎 Cidade/País: Ribeirão Preto — SP — Brasil\nℹ
+ ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Santa Cruz / Arena Nicnet
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -245,19 +247,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Paulista x Juventus-SP | Copa Paulista — Rodada 5
 DTSTART;TZID=America/Sao_Paulo:20260815T170000
 DTEND;TZID=America/Sao_Paulo:20260815T193000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:dd1fefbd098ab44e7af1f885d6ef3d23b9ac16e9894c7a62b0a245e5cc5d60d6@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 5\
- n🏟️ Local: Estádio Jayme Cintra\n🌎 Cidade/País: Jundiaí\, Brasi
- l\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://futebolpaulista.
- com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Última verificação: 20
- /07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 5 
+ — primeira fase — rodada 5\n🏟️ Local: Estádio Jayme Cintra\n🌎
+  Cidade/País: Jundiaí — SP — Brasil\nℹ️ Status: Confirmado\n🔗
+  Fonte oficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Notic
+ ia=32647\n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Jayme Cintra
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -267,18 +269,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — São Bernardo x Botafogo-SP | Série B — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260816T160000
 DTEND;TZID=America/Sao_Paulo:20260816T183000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:c037619a55f8b5fb713d803ba2fc3b55bcd09d90bf49598426bbf5de246d06b8@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo\, SporTV e Premiere\n🏆 C
  ompetição: Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase 
- única — rodada 22\n🏟️ Local: Estádio Primeiro de Maio\n🌎 Cidad
- e/País: São Bernardo do Campo\, Brasil\nℹ️ Status: Confirmado\n🕒 
- Última verificação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ única — rodada 22 — fase única — rodada 22\n🏟️ Local: Estádi
+ o Primeiro de Maio\n🌎 Cidade/País: São Bernardo do Campo — SP — B
+ rasil\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 1
+ 8:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Primeiro de Maio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -287,20 +290,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Ferroviária x Paysandu | Série C — Rodada 17
 DTSTART;TZID=America/Sao_Paulo:20260817T200000
 DTEND;TZID=America/Sao_Paulo:20260817T223000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:003cbb5eaab19013261c8830fd9163b1419930c05e7246f2eba221b7a961aeb4@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
- ase — rodada 17\n🏟️ Local: Fonte Luminosa\n🌎 Cidade/País: Arara
- quara\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
- .cbf.com.br/futebol-brasileiro/noticias/competicoes-campeonato-brasileiro-
- serie-c/a/cbf-divulga-tabela-detalhada-das-rodadas-16-a-19-da-serie-c-do-c
- ampeonato-brasileiro\n🕒 Última verificação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ ase — rodada 17 — primeira fase — rodada 17\n🏟️ Local: Fonte Lu
+ minosa\n🌎 Cidade/País: Araraquara — SP — Brasil\nℹ️ Status: Co
+ nfirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/no
+ ticias/competicoes-campeonato-brasileiro-serie-c/a/cbf-divulga-tabela-deta
+ lhada-das-rodadas-16-a-19-da-serie-c-do-campeonato-brasileiro\n🕒 Últim
+ a verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Fonte Luminosa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

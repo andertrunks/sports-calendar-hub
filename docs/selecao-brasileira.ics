@@ -5,4 +5,29 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Seleção Brasileira
 X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Vôlei feminino — Brasil x Japão | Liga das Nações — Quarta
+ s de final
+DTSTART;TZID=America/Sao_Paulo:20260722T083000
+DTEND;TZID=America/Sao_Paulo:20260722T110000
+DTSTAMP:20260720T210532Z
+UID:9cbc0d3f8e13cdd412fc224113f5301eafe25335d8fe853fdbd5150b4442901f@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Vôlei,Feminino profissional,selecao-brasileira
+CREATED:20260720T210532Z
+DESCRIPTION:📺 Transmissão no Brasil: sportv 2\, ge tv e VBTV\n🏆 Com
+ petição: Liga das Nações de Vôlei Feminina 2026\n📍 Fase/Rodada: qu
+ artas de final — jogo único\n🏟️ Local: Macau East Asian Games Dome
+ \n🌎 Cidade/País: Macau\, China\nℹ️ Status: Confirmado\n🔗 Fonte 
+ oficial: https://br.volleyballworld.com/volleyball/competitions/volleyball
+ -nations-league/news/tabela-das-finais-da-vnl-confirmada\n🕒 Última ver
+ ificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
+LOCATION:Macau East Asian Games Dome
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://br.volleyballworld.com/volleyball/competitions/volleyball-nati
+ ons-league/news/tabela-das-finais-da-vnl-confirmada
+END:VEVENT
 END:VCALENDAR

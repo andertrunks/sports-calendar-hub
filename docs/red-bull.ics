@@ -10,17 +10,18 @@ SUMMARY:Futebol — SV Oberwart x Red Bull Salzburg | Copa da Áustria —
   1ª rodada
 DTSTART;TZID=America/Sao_Paulo:20260725T130000
 DTEND;TZID=America/Sao_Paulo:20260725T153000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:d8c949d5f139b586f8b6f93ab0410f726ea6acb102de25ea2357e1858ec0c8c4@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: UNIQA ÖFB Cup 2026/27\n📍 Fase/Rodada: 1ª rodada\n🏟️ Loc
- al: Informstadion\n🌎 Cidade/País: Oberwart\, Áustria\nℹ️ Status: 
- Confirmado\n🕒 Última verificação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ tição: UNIQA ÖFB Cup 2026/27\n📍 Fase/Rodada: 1ª rodada — 1ª roda
+ da\n🏟️ Local: Informstadion\n🌎 Cidade/País: Oberwart — Áustria
+ \nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 18:05 
+ -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Informstadion
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -29,18 +30,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — New York Red Bulls x Charlotte FC | MLS
 DTSTART;TZID=America/Sao_Paulo:20260725T203000
 DTEND;TZID=America/Sao_Paulo:20260725T230000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:f45675693c0e0e8b4cce4b6b9de9f5e4dc11071ec5e140a595ce1d7f6b6c09e1@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: Apple TV\n🏆 Competição: Majo
- r League Soccer 2026\n📍 Fase/Rodada: temporada regular\n🏟️ Local: 
- Sports Illustrated Stadium\n🌎 Cidade/País: Harrison\, Estados Unidos\n
- ℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 12:02 -0
- 3
-LAST-MODIFIED:20260720T150203Z
+ r League Soccer 2026\n📍 Fase/Rodada: temporada regular — temporada re
+ gular\n🏟️ Local: Sports Illustrated Stadium\n🌎 Cidade/País: Harri
+ son — NJ — Estados Unidos\nℹ️ Status: Confirmado\n🕒 Última ver
+ ificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Sports Illustrated Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -50,20 +51,20 @@ SUMMARY:Futebol — Red Bull Bragantino x Coritiba | Brasileirão — Roda
  da 20
 DTSTART;TZID=America/Sao_Paulo:20260726T183000
 DTEND;TZID=America/Sao_Paulo:20260726T210000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:0627bee3e4c9ddbf31a8d9c7ef92b5c0913a54bd4041bc0a3c1b2494a0213422@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 20\n🏟️ Local: Estádio Cícero de Souza Marques\n🌎 Cidade/País: B
- ragança Paulista\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial:
-  https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/s
- erie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/0
- 7/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ 20 — fase única — rodada 20\n🏟️ Local: Estádio Cícero de Souza
+  Marques\n🌎 Cidade/País: Bragança Paulista — SP — Brasil\nℹ️ 
+ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-bra
+ sileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Deta
+ lhada\n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Cícero de Souza Marques
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -75,18 +76,18 @@ SUMMARY:Futebol — Red Bull Salzburg x Hartberg | Bundesliga Austríaca
  — Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260801T143000
 DTEND;TZID=America/Sao_Paulo:20260801T170000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:fd8fb9831d691e45ed899f84be06105dfffa2cfc014da6b0da20b11e355ec321@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ L
- ocal: Red Bull Arena Salzburg\n🌎 Cidade/País: Wals-Siezenheim\, Áustr
- ia\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 12:0
- 2 -03
-LAST-MODIFIED:20260720T150203Z
+ tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 1 — rodada
+  1\n🏟️ Local: Red Bull Arena Salzburg\n🌎 Cidade/País: Wals-Siezen
+ heim — Áustria\nℹ️ Status: Confirmado\n🕒 Última verificação: 
+ 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Red Bull Arena Salzburg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -95,18 +96,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — New York Red Bulls x Orlando City | MLS
 DTSTART;TZID=America/Sao_Paulo:20260801T203000
 DTEND;TZID=America/Sao_Paulo:20260801T230000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:4abcb3be04b778d5aebdf3dcd6dca0106ad7d1a92bc047e48a2841cfbf204e0d@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: Apple TV\n🏆 Competição: Majo
- r League Soccer 2026\n📍 Fase/Rodada: temporada regular\n🏟️ Local: 
- Sports Illustrated Stadium\n🌎 Cidade/País: Harrison\, Estados Unidos\n
- ℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 12:02 -0
- 3
-LAST-MODIFIED:20260720T150203Z
+ r League Soccer 2026\n📍 Fase/Rodada: temporada regular — temporada re
+ gular\n🏟️ Local: Sports Illustrated Stadium\n🌎 Cidade/País: Harri
+ son — NJ — Estados Unidos\nℹ️ Status: Confirmado\n🕒 Última ver
+ ificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Sports Illustrated Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -116,17 +117,18 @@ SUMMARY:Futebol — RB Omiya Ardija x Albirex Niigata | J2 League — Roda
  da 1
 DTSTART;TZID=America/Sao_Paulo:20260808T070000
 DTEND;TZID=America/Sao_Paulo:20260808T093000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:91e97fb5b3b87bfbac2e0eb7186c6ee3c6370947b5241e5c44b2778313c859d1@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟
- ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama\, Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 1 — ro
+ dada 1\n🏟️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama —
+  Japão\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026
+  18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -136,17 +138,18 @@ SUMMARY:Futebol — Wolfsberger AC x Red Bull Salzburg | Bundesliga Austr
  íaca — Rodada 2
 DTSTART;TZID=America/Sao_Paulo:20260809T120000
 DTEND;TZID=America/Sao_Paulo:20260809T143000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:6c742a3d199085c6f4439801cbb2e98c610b189963cf15d9627bb33a0e1fe29c@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 2\n🏟️ L
- ocal: Lavanttal-Arena\n🌎 Cidade/País: Wolfsberg\, Áustria\nℹ️ Sta
- tus: Confirmado\n🕒 Última verificação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 2 — rodada
+  2\n🏟️ Local: Lavanttal-Arena\n🌎 Cidade/País: Wolfsberg — Áust
+ ria\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 18:
+ 05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Lavanttal-Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -156,20 +159,20 @@ SUMMARY:Futebol — Red Bull Bragantino x Corinthians | Brasileirão — R
  odada 22
 DTSTART;TZID=America/Sao_Paulo:20260809T183000
 DTEND;TZID=America/Sao_Paulo:20260809T210000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:0ea38d00c9c39565065ff797109752632a00c0f2ba5931366de2fae1e4568053@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 22\n🏟️ Local: Estádio Cícero de Souza Marques\n🌎 Cidade/País: B
- ragança Paulista\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial:
-  https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/s
- erie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/0
- 7/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ 22 — fase única — rodada 22\n🏟️ Local: Estádio Cícero de Souza
+  Marques\n🌎 Cidade/País: Bragança Paulista — SP — Brasil\nℹ️ 
+ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-bra
+ sileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Deta
+ lhada\n🕒 Última verificação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Estádio Cícero de Souza Marques
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -180,18 +183,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — FC Imabari x RB Omiya Ardija | J2 League — Rodada 2
 DTSTART;TZID=America/Sao_Paulo:20260815T070000
 DTEND;TZID=America/Sao_Paulo:20260815T093000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:b4b0b5383b22ccc283d176e3570d3db8bf94c300fafa0aa8c815d95f2b848ace@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 2\n🏟
- ️ Local: Asics Satoyama Stadium\n🌎 Cidade/País: Imabari\, Japão\n
- ℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 12:02 -0
- 3
-LAST-MODIFIED:20260720T150203Z
+ tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 2 — ro
+ dada 2\n🏟️ Local: Asics Satoyama Stadium\n🌎 Cidade/País: Imabari 
+ — Japão\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2
+ 026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Asics Satoyama Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -201,19 +204,20 @@ SUMMARY:Futebol — Athletico-PR x Red Bull Bragantino | Brasileirão —
  Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260815T183000
 DTEND;TZID=America/Sao_Paulo:20260815T210000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:6e9e638ad341cf8db7e062d37548096545796073c9d572a09d970fe9d199f15e@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 23\n🏟️ Local: Arena da Baixada\n🌎 Cidade/País: Curitiba\, Brasil\
- nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/fut
- ebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabel
- a%20Detalhada\n🕒 Última verificação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ 23 — fase única — rodada 23\n🏟️ Local: Arena da Baixada\n🌎 Ci
+ dade/País: Curitiba — PR — Brasil\nℹ️ Status: Confirmado\n🔗 Fo
+ nte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-
+ brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verific
+ ação: 20/07/2026 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Arena da Baixada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -225,17 +229,18 @@ SUMMARY:Futebol — WSG Tirol x Red Bull Salzburg | Bundesliga Austríaca
  — Rodada 3
 DTSTART;TZID=America/Sao_Paulo:20260816T120000
 DTEND;TZID=America/Sao_Paulo:20260816T143000
-DTSTAMP:20260720T150203Z
+DTSTAMP:20260720T210532Z
 UID:7e207fbd52b0fca0105ebe228bb99ed97ef79f12601c3e2beb28dff5fa6c1595@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T150203Z
+CREATED:20260720T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 3\n🏟️ L
- ocal: Tivoli Stadion Tirol\n🌎 Cidade/País: Innsbruck\, Áustria\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 12:02 -03
-LAST-MODIFIED:20260720T150203Z
+ tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 3 — rodada
+  3\n🏟️ Local: Tivoli Stadion Tirol\n🌎 Cidade/País: Innsbruck — 
+ Áustria\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/202
+ 6 18:05 -03
+LAST-MODIFIED:20260720T210532Z
 LOCATION:Tivoli Stadion Tirol
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
