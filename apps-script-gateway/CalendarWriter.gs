@@ -229,7 +229,11 @@ function applySyncPlan_(plan, cfg, executionId) {
       result.updated += 1;
     });
     plan.delete.forEach(function (item) {
-      Calendar.Events.remove(cfg.SPORTS_CALENDAR_ID, item.existing.id, {sendUpdates: 'none'});
+      try {
+        Calendar.Events.remove(cfg.SPORTS_CALENDAR_ID, item.existing.id, {sendUpdates: 'none'});
+      } catch (error) {
+        if (safeGatewayError_(error).indexOf('Resource has been deleted') < 0) throw error;
+      }
       result.deleted += 1;
     });
     return result;

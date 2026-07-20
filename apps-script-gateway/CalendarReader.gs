@@ -7,13 +7,15 @@ function listCalendarEvents_(calendarId, timeMin, timeMax) {
       showDeleted: true, pageToken: pageToken
     });
     (response.items || []).forEach(function (event) {
-      const privateProps = eventPrivate_(event);
-      const deletedTombstone = event.status === 'cancelled' && !event.summary && !privateProps.sports_calendar_uid;
-      if (!deletedTombstone) items.push(event);
+      if (!isDeletedTombstone_(event)) items.push(event);
     });
     pageToken = response.nextPageToken;
   } while (pageToken);
   return items;
+}
+
+function isDeletedTombstone_(event) {
+  return event.status === 'cancelled' && !eventPrivate_(event).sports_calendar_uid;
 }
 
 function calendarWindow_() {

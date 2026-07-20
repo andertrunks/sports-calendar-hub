@@ -33,6 +33,13 @@ function testCalendarSequence_() {
   assertGateway_(desiredComparable_(desired).sequence === 2, 'source_sequence_preserved');
 }
 
+function testDeletedTombstone_() {
+  assertGateway_(isDeletedTombstone_({status: 'cancelled', summary: 'Evento antigo'}), 'legacy_cancelled_is_tombstone');
+  assertGateway_(!isDeletedTombstone_({
+    status: 'cancelled', extendedProperties: {private: {sports_calendar_uid: 'cancelled@sports-calendar-hub'}}
+  }), 'managed_cancelled_is_event');
+}
+
 function testExportSafe_() {
   const exported = exportSanitizedEvents_();
   assertGateway_(exported.event_count === exported.events.length, 'export_count');
@@ -45,6 +52,7 @@ function runGatewayTests() {
   testPrivacy_();
   testPermanentUid_();
   testCalendarSequence_();
+  testDeletedTombstone_();
   testExportSafe_();
-  return {ok: true, tests: 5, calendar_writes: 0};
+  return {ok: true, tests: 6, calendar_writes: 0};
 }
