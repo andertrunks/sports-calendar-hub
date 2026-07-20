@@ -112,7 +112,22 @@ O workflow de atualização não reage a `push`; portanto, o commit automático 
 
 Em **Settings → Pages**, selecione **Deploy from a branch**, branch `main` e pasta `/docs`. A página lista todos os feeds, suas finalidades, quantidades e ações para abrir ou copiar o link.
 
-Os endereços públicos dos feeds serão registrados aqui somente depois que a primeira publicação do Pages for confirmada.
+Publicação confirmada em: https://andertrunks.github.io/sports-calendar-hub/
+
+### Feeds públicos
+
+- Geral: https://andertrunks.github.io/sports-calendar-hub/all.ics
+- São Paulo: https://andertrunks.github.io/sports-calendar-hub/sao-paulo.ics
+- Seleção Brasileira: https://andertrunks.github.io/sports-calendar-hub/selecao-brasileira.ics
+- Clubes regionais: https://andertrunks.github.io/sports-calendar-hub/clubes-regionais.ics
+- Red Bull: https://andertrunks.github.io/sports-calendar-hub/red-bull.ics
+- Premier League: https://andertrunks.github.io/sports-calendar-hub/premier-league.ics
+- Competições continentais: https://andertrunks.github.io/sports-calendar-hub/continentais.ics
+- Automobilismo: https://andertrunks.github.io/sports-calendar-hub/automobilismo.ics
+- Brasileirão: https://andertrunks.github.io/sports-calendar-hub/brasileirao.ics
+- Olimpíadas e Pan: https://andertrunks.github.io/sports-calendar-hub/olimpiadas-pan.ics
+- Copas do Mundo: https://andertrunks.github.io/sports-calendar-hub/copas-do-mundo.ics
+- Outros esportes: https://andertrunks.github.io/sports-calendar-hub/outros-esportes.ics
 
 ## Assinar um feed
 
