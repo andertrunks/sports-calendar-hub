@@ -31,6 +31,12 @@ def test_resposta_com_hash_adulterado_falha() -> None:
         validate_gateway_response(response, source_hash="outro", dry_run=True, event_count=2)
 
 
+def test_erro_do_gateway_inclui_detalhe_sanitizado() -> None:
+    response = {"ok": False, "error": "apply_failed", "detail": "invalid_sequence"}
+    with pytest.raises(ValueError, match="invalid_sequence"):
+        validate_gateway_response(response, source_hash="hash", dry_run=False, event_count=1)
+
+
 def test_exclusao_em_massa_falha() -> None:
     response = _fixture("calendar_dry_run_response.json")
     response["plan"]["delete"] = 3
