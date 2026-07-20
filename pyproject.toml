@@ -1,0 +1,24 @@
+[project]
+name = "sports-calendar-hub"
+version = "0.1.0"
+description = "Calendários esportivos normalizados e publicados como feeds iCalendar."
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+authors = [{ name = "Sports Calendar Hub contributors" }]
+dependencies = [
+  "icalendar>=6.3,<7",
+  "python-dateutil>=2.9.0.post0,<3",
+  "tzdata>=2025.2,<2027",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.4,<9"]
+
+[tool.pytest.ini_options]
+addopts = "-q --strict-markers"
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.setuptools.packages.find]
+include = ["src*"]

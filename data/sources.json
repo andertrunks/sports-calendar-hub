@@ -1,0 +1,41 @@
+{
+  "notice": "Fontes fictícias usadas exclusivamente para validar a infraestrutura da versão 0.1.0.",
+  "sources": [
+    {
+      "source_id": "demo-primary",
+      "source_name": "Fonte fictícia prioritária",
+      "reliability": 100,
+      "official": false
+    },
+    {
+      "source_id": "demo-regional",
+      "source_name": "Fonte fictícia regional",
+      "reliability": 80,
+      "official": false
+    },
+    {
+      "source_id": "demo-international",
+      "source_name": "Fonte fictícia internacional",
+      "reliability": 90,
+      "official": false
+    },
+    {
+      "source_id": "demo-continental",
+      "source_name": "Fonte fictícia continental",
+      "reliability": 85,
+      "official": false
+    },
+    {
+      "source_id": "demo-motorsport",
+      "source_name": "Fonte fictícia de automobilismo",
+      "reliability": 75,
+      "official": false
+    },
+    {
+      "source_id": "demo-tennis",
+      "source_name": "Fonte fictícia de tênis",
+      "reliability": 70,
+      "official": false
+    }
+  ]
+}

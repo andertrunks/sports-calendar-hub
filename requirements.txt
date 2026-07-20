@@ -1,0 +1,4 @@
+icalendar>=6.3,<7
+python-dateutil>=2.9.0.post0,<3
+pytest>=8.4,<9
+tzdata>=2025.2,<2027
