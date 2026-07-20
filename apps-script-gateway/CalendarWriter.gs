@@ -14,7 +14,7 @@ function descriptionFor_(event) {
   return lines.join('\n');
 }
 
-function desiredCalendarEvent_(event, existingId) {
+function desiredCalendarEvent_(event, existingId, existingSequence) {
   let summary = event.title;
   if (event.status === 'POSTPONED' && normalizeText_(summary).indexOf('adiado') < 0) summary = 'Adiado — ' + summary;
   const location = [event.location, event.city, event.state, event.country].filter(Boolean).join(' — ');
@@ -27,7 +27,7 @@ function desiredCalendarEvent_(event, existingId) {
     status: event.status === 'CANCELLED' ? 'cancelled' : (event.status === 'TENTATIVE' || event.status === 'POSTPONED' ? 'tentative' : 'confirmed'),
     transparency: 'transparent',
     colorId: String(event.color_id),
-    sequence: Number(event.sequence || 0),
+    sequence: Math.max(Number(event.sequence || 0), Number(existingSequence || 0)),
     extendedProperties: {private: {
       sports_calendar_uid: event.uid,
       sports_calendar_managed: 'true',
@@ -55,7 +55,8 @@ function desiredComparable_(desired) {
     summary: desired.summary, description: desired.description, location: desired.location,
     start: desired.start, end: desired.end, status: desired.status,
     transparency: desired.transparency, colorId: String(desired.colorId || ''),
-    sequence: Number(desired.sequence || 0), extendedProperties: desired.extendedProperties
+    sequence: Number(desired.extendedProperties.private.sports_calendar_sequence || 0),
+    extendedProperties: desired.extendedProperties
   };
 }
 
@@ -134,7 +135,7 @@ function buildSyncPlan_(events, cfg) {
     const matches = uniqueEvents_([].concat(indexes.byUid[event.uid] || [],
       indexes.byExternal[event.external_id_hash] || [], indexes.byCanonical[canonical] || []));
     const selected = chooseExisting_(matches, event);
-    const desired = desiredCalendarEvent_(event, selected && selected.id);
+    const desired = desiredCalendarEvent_(event, selected && selected.id, selected && selected.sequence);
     if (!selected) {
       desired.id = sha256Hex_(event.uid).slice(0, 64);
       plan.create.push({event: event, desired: desired});
@@ -217,20 +218,30 @@ function loadRollbackSnapshot_(executionId) {
 function applySyncPlan_(plan, cfg, executionId) {
   saveRollbackSnapshot_(executionId, plan);
   const result = {created: 0, updated: 0, unchanged: plan.unchanged.length, deleted: 0};
-  plan.create.forEach(function (item) {
-    Calendar.Events.insert(item.desired, cfg.SPORTS_CALENDAR_ID, {sendUpdates: 'none', conferenceDataVersion: 1});
-    result.created += 1;
-  });
-  plan.update.forEach(function (item) {
-    Calendar.Events.update(item.desired, cfg.SPORTS_CALENDAR_ID, item.existing.id,
-      {sendUpdates: 'none', conferenceDataVersion: 1});
-    result.updated += 1;
-  });
-  plan.delete.forEach(function (item) {
-    Calendar.Events.remove(cfg.SPORTS_CALENDAR_ID, item.existing.id, {sendUpdates: 'none'});
-    result.deleted += 1;
-  });
-  return result;
+  try {
+    plan.create.forEach(function (item) {
+      Calendar.Events.insert(item.desired, cfg.SPORTS_CALENDAR_ID, {sendUpdates: 'none', conferenceDataVersion: 1});
+      result.created += 1;
+    });
+    plan.update.forEach(function (item) {
+      Calendar.Events.update(item.desired, cfg.SPORTS_CALENDAR_ID, item.existing.id,
+        {sendUpdates: 'none', conferenceDataVersion: 1});
+      result.updated += 1;
+    });
+    plan.delete.forEach(function (item) {
+      Calendar.Events.remove(cfg.SPORTS_CALENDAR_ID, item.existing.id, {sendUpdates: 'none'});
+      result.deleted += 1;
+    });
+    return result;
+  } catch (error) {
+    try {
+      rollback_(executionId, false, cfg);
+    } catch (rollbackError) {
+      throw new Error('apply_operation_failed: ' + safeGatewayError_(error) +
+        '; rollback_failed: ' + safeGatewayError_(rollbackError));
+    }
+    throw new Error('apply_operation_failed: ' + safeGatewayError_(error) + '; rollback_restored');
+  }
 }
 
 function rollback_(executionId, dryRun, cfg) {
@@ -242,7 +253,11 @@ function rollback_(executionId, dryRun, cfg) {
     if (record.operation === 'create') {
       try { Calendar.Events.remove(cfg.SPORTS_CALENDAR_ID, record.id, {sendUpdates: 'none'}); } catch (error) {}
     } else {
-      Calendar.Events.update(record.resource, cfg.SPORTS_CALENDAR_ID, record.id, {sendUpdates: 'none', conferenceDataVersion: 1});
+      const current = Calendar.Events.get(cfg.SPORTS_CALENDAR_ID, record.id);
+      const resource = JSON.parse(JSON.stringify(record.resource));
+      resource.sequence = Math.max(Number(resource.sequence || 0), Number(current.sequence || 0));
+      Calendar.Events.update(resource, cfg.SPORTS_CALENDAR_ID, record.id,
+        {sendUpdates: 'none', conferenceDataVersion: 1});
     }
   });
   return {ok: true, schema_version: SCH_SCHEMA_VERSION, action: 'rollback', dry_run: false, execution_id: executionId, calendar: SCH_CALENDAR_NAME, plan: plan, blockers: []};

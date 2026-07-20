@@ -6,6 +6,13 @@ function doGet(e) {
   catch (error) { return jsonOutput_({ok: false, error: 'export_failed'}); }
 }
 
+function safeGatewayError_(error) {
+  return String(error && error.message || error || 'unknown_error')
+    .replace(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/gi, '[email]')
+    .replace(/https?:\/\/\S+/gi, '[url]')
+    .slice(0, 500);
+}
+
 function doPost(e) {
   let cfg;
   try { cfg = config_(); } catch (error) { return jsonOutput_({ok: false, error: 'configuration_error'}); }
@@ -45,7 +52,12 @@ function doPost(e) {
     }
     return jsonOutput_(syncResponse_(request, verification, executionId, result, cfg));
   } catch (error) {
-    return jsonOutput_({ok: false, error: 'apply_failed'});
+    return jsonOutput_({
+      ok: false,
+      error: 'apply_failed',
+      detail: safeGatewayError_(error),
+      execution_id: executionId
+    });
   } finally {
     lock.releaseLock();
   }

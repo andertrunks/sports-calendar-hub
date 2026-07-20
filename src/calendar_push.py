@@ -39,7 +39,10 @@ def validate_gateway_response(
     response: dict[str, Any], *, source_hash: str, dry_run: bool, event_count: int
 ) -> dict[str, Any]:
     if response.get("ok") is not True:
-        raise ValueError(f"gateway recusou a sincronização: {response.get('error', 'erro desconhecido')}")
+        error = response.get("error", "erro desconhecido")
+        detail = str(response.get("detail") or "").strip()
+        suffix = f" ({detail})" if detail else ""
+        raise ValueError(f"gateway recusou a sincronização: {error}{suffix}")
     if response.get("schema_version") != SCHEMA_VERSION:
         raise ValueError("gateway respondeu com schema incompatível")
     if response.get("source_hash") != source_hash:

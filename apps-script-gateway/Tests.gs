@@ -22,6 +22,17 @@ function testPermanentUid_() {
   assertGateway_(uid === permanentUid_(event), 'uid_time_independent');
 }
 
+function testCalendarSequence_() {
+  const event = {
+    uid: 'sequence@sports-calendar-hub', title: 'Evento', status: 'CONFIRMED',
+    start: '2026-08-01T20:00:00-03:00', end: '2026-08-01T22:00:00-03:00',
+    timezone: 'America/Sao_Paulo', color_id: 7, sequence: 2
+  };
+  const desired = desiredCalendarEvent_(event, 'existing', 8);
+  assertGateway_(desired.sequence === 8, 'calendar_sequence_not_lowered');
+  assertGateway_(desiredComparable_(desired).sequence === 2, 'source_sequence_preserved');
+}
+
 function testExportSafe_() {
   const exported = exportSanitizedEvents_();
   assertGateway_(exported.event_count === exported.events.length, 'export_count');
@@ -33,6 +44,7 @@ function runGatewayTests() {
   testCanonicalKey_();
   testPrivacy_();
   testPermanentUid_();
+  testCalendarSequence_();
   testExportSafe_();
-  return {ok: true, tests: 4, calendar_writes: 0};
+  return {ok: true, tests: 5, calendar_writes: 0};
 }
