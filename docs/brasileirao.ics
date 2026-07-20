@@ -5,4 +5,831 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Brasileirão
 X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Futebol — Atlético-MG x Bahia | Brasileirão — Rodada 19
+DTSTART;TZID=America/Sao_Paulo:20260721T193000
+DTEND;TZID=America/Sao_Paulo:20260721T220000
+DTSTAMP:20260720T124431Z
+UID:8aff5b3c38bb5cd1113516eac0f9092899b2aa938859f61e31781e3da6c4342a@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 19\n🏟️ Local: Arena MRV\n🌎 Cidade/País: Belo Horizonte
+ \, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.
+ com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/atletic
+ o-mineiro-x-bahia/832075\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Arena MRV
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/atletico-mineiro-x-bahia/832075
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Coritiba x Palmeiras | Brasileirão — Rodada 19
+DTSTART;TZID=America/Sao_Paulo:20260722T193000
+DTEND;TZID=America/Sao_Paulo:20260722T220000
+DTSTAMP:20260720T124431Z
+UID:db498fec0270c6d7eee929a4c7837641644de7c6e73231a3f824530c2e4b2645@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
+ ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 19\n🏟️ Local: Couto Pereira\n🌎 Cidade/País: Curitiba\,
+  PR\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.c
+ bf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/cori
+ tiba-saf-x-palmeiras/832077\n🕒 Última verificação: 20/07/2026 09:44 
+ -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Couto Pereira
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/coritiba-saf-x-palmeiras/832077
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Chapecoense x Flamengo | Brasileirão — Rodada 19
+DTSTART;TZID=America/Sao_Paulo:20260722T213000
+DTEND;TZID=America/Sao_Paulo:20260723T000000
+DTSTAMP:20260720T124431Z
+UID:c33722ba918dc16ffa0b3f1cba529ea8996e3ec52217f1242892457aff67b49d@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 19\n🏟️ Local: Arena Condá\n🌎 Cidade/País: Chapecó\, 
+ Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com
+ .br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/chapecoens
+ e-x-flamengo/832079\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Arena Condá
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/chapecoense-x-flamengo/832079
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Internacional x Cruzeiro | Brasileirão — Rodada 19
+DTSTART;TZID=America/Sao_Paulo:20260722T213000
+DTEND;TZID=America/Sao_Paulo:20260723T000000
+DTSTAMP:20260720T124431Z
+UID:3fa05dd2187cc3a4c1296ee6dbe962e341bd10b36fb3d09bf25ecfdbed148e14@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 19\n🏟️ Local: Beira-Rio\n🌎 Cidade/País: Porto Alegre\,
+  Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.co
+ m.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/internaci
+ onal-x-cruzeiro/832076\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Beira-Rio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/internacional-x-cruzeiro/832076
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Corinthians x Remo | Brasileirão — Rodada 19
+DTSTART;TZID=America/Sao_Paulo:20260723T193000
+DTEND;TZID=America/Sao_Paulo:20260723T220000
+DTSTAMP:20260720T124431Z
+UID:08e6e738e9eed060e4ab12c160030f05cc00725a0450baac737284de3908fd83@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 19\n🏟️ Local: Neo Química Arena\n🌎 Cidade/País: São 
+ Paulo\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
+ .cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/co
+ rinthians-x-remo/832073\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Neo Química Arena
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/corinthians-x-remo/832073
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Athletico-PR x Internacional | Brasileirão — Rodada
+  20
+DTSTART;TZID=America/Sao_Paulo:20260725T183000
+DTEND;TZID=America/Sao_Paulo:20260725T210000
+DTSTAMP:20260720T124431Z
+UID:25d222c1236186c81262cc303489e23cfd0112881b40857e8d6bd4e4fe04cb69@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
+ ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 20\n🏟️ Local: Arena da Baixada\n🌎 Cidade/País: Curitib
+ a\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf
+ .com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/athlet
+ ico-paranaense-x-internacional/832087\n🕒 Última verificação: 20/07/2
+ 026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Arena da Baixada
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/athletico-paranaense-x-internacional/832087
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Santos x Chapecoense | Brasileirão — Rodada 20
+DTSTART;TZID=America/Sao_Paulo:20260725T183000
+DTEND;TZID=America/Sao_Paulo:20260725T210000
+DTSTAMP:20260720T124431Z
+UID:1354d0b93bca195562399ca13804881124cb854ffa7a8d62a7306fa260f14b2d@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 20\n🏟️ Local: Vila Belmiro\n🌎 Cidade/País: Santos\, Br
+ asil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.b
+ r/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/santos-fc-x-
+ chapecoense/832082\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Vila Belmiro
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/santos-fc-x-chapecoense/832082
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Vasco x Mirassol | Brasileirão — Rodada 20
+DTSTART;TZID=America/Sao_Paulo:20260725T203000
+DTEND;TZID=America/Sao_Paulo:20260725T230000
+DTSTAMP:20260720T124431Z
+UID:e163a93b5c6bfc4e09fd86a061254c2e75cbbfc9d0e4acdd0c313bdc6ea2e45f@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Record\, CazéTV no YouTube e Pre
+ miere\n🏆 Competição: Campeonato Brasileiro Série A 2026\n📍 Fase/R
+ odada: fase única — rodada 20\n🏟️ Local: São Januário\n🌎 Cida
+ de/País: Rio de Janeiro\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte o
+ ficial: https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasile
+ iro/serie-a/2026/vasco-da-gama-saf-x-mirassol/832081\n🕒 Última verific
+ ação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:São Januário
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/vasco-da-gama-saf-x-mirassol/832081
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Bahia x Corinthians | Brasileirão — Rodada 20
+DTSTART;TZID=America/Sao_Paulo:20260726T160000
+DTEND;TZID=America/Sao_Paulo:20260726T183000
+DTSTAMP:20260720T124431Z
+UID:3eaaa14dfa948d19efc0295478cbdc5391df3aef42731bc546d871a0d762f63f@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: GE TV\, Globo e Premiere\n🏆 Co
+ mpetição: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase ú
+ nica — rodada 20\n🏟️ Local: Arena Fonte Nova\n🌎 Cidade/País: Sa
+ lvador\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://ww
+ w.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/b
+ ahia-x-corinthians/832088\n🕒 Última verificação: 20/07/2026 09:44 -0
+ 3
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Arena Fonte Nova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/bahia-x-corinthians/832088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Cruzeiro x Botafogo | Brasileirão — Rodada 20
+DTSTART;TZID=America/Sao_Paulo:20260726T160000
+DTEND;TZID=America/Sao_Paulo:20260726T183000
+DTSTAMP:20260720T124431Z
+UID:936753d4fc1b984b33ed49670726bc157ec698530c1c77ed8e8f972d06b25169@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 20\n🏟️ Local: Mineirão\n🌎 Cidade/País: Belo Horizonte
+ \, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.
+ com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/cruzeir
+ o-x-botafogo/832085\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Mineirão
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/cruzeiro-x-botafogo/832085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Grêmio x Fluminense | Brasileirão — Rodada 20
+DTSTART;TZID=America/Sao_Paulo:20260726T183000
+DTEND;TZID=America/Sao_Paulo:20260726T210000
+DTSTAMP:20260720T124431Z
+UID:4104d338a152004857e0c605abb76f52f9ce55cab6f7c019273f34a6d243ec90@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 20\n🏟️ Local: Arena do Grêmio\n🌎 Cidade/País: Porto Alegre\, Bra
+ sil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br
+ /futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/gremio-x-flum
+ inense/832086\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Arena do Grêmio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/gremio-x-fluminense/832086
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Palmeiras x Atlético-MG | Brasileirão — Rodada 20
+DTSTART;TZID=America/Sao_Paulo:20260726T193000
+DTEND;TZID=America/Sao_Paulo:20260726T220000
+DTSTAMP:20260720T124431Z
+UID:0a78da7455c31782de99b354bb94817af1030ea2acf6edda9a6bc01148cf802c@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 20\n🏟️ Local: Nubank Parque\n🌎 Cidade/País: São Paulo
+ \, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.
+ com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/palmeir
+ as-x-atletico-mineiro/832083\n🕒 Última verificação: 20/07/2026 09:44
+  -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Nubank Parque
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/palmeiras-x-atletico-mineiro/832083
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Remo x Vitória | Brasileirão — Rodada 20
+DTSTART;TZID=America/Sao_Paulo:20260726T193000
+DTEND;TZID=America/Sao_Paulo:20260726T220000
+DTSTAMP:20260720T124431Z
+UID:787dfc819685c3319ce89460d011c58d5f049eeccf0f54b03c1c287533bb939d@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 20\n🏟️ Local: Mangueirão\n🌎 Cidade/País: Belém\, Brasil\nℹ️
+  Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-br
+ asileiro/jogos/campeonato-brasileiro/serie-a/2026/remo-x-vitoria/832089\n
+ 🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Mangueirão
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/remo-x-vitoria/832089
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Internacional x Flamengo | Brasileirão — Rodada 21
+DTSTART;TZID=America/Sao_Paulo:20260729T193000
+DTEND;TZID=America/Sao_Paulo:20260729T220000
+DTSTAMP:20260720T124431Z
+UID:1138449a95cb80f913364d3be3b261fdf5f193c482bda5820d3ddd2575701f79@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
+ ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 21\n🏟️ Local: Beira-Rio\n🌎 Cidade/País: Porto Alegre\,
+  RS\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.c
+ bf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?do
+ cumento=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44 -
+ 03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Beira-Rio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Mirassol x Remo | Brasileirão — Rodada 21
+DTSTART;TZID=America/Sao_Paulo:20260729T193000
+DTEND;TZID=America/Sao_Paulo:20260729T220000
+DTSTAMP:20260720T124431Z
+UID:720d1dcd72c6415ef8004ba1edb88e2db750e1814c3c7a2a420915d54877eb2b@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 21\n🏟️ Local: José Maria de Campos Maia\n🌎 Cidade/País: Mirassol
+ \, SP\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
+ .cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?
+ documento=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44
+  -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:José Maria de Campos Maia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Fluminense x Bahia | Brasileirão — Rodada 21
+DTSTART;TZID=America/Sao_Paulo:20260729T213000
+DTEND;TZID=America/Sao_Paulo:20260730T000000
+DTSTAMP:20260720T124431Z
+UID:49e375d1b468d5c8dcc1caab2016be8c276747e7f3638370eb095810b89ea744@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 21\n🏟️ Local: Maracanã\n🌎 Cidade/País: Rio de Janeiro
+ \, RJ\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
+ .cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?
+ documento=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44
+  -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Maracanã
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Vitória x Palmeiras | Brasileirão — Rodada 21
+DTSTART;TZID=America/Sao_Paulo:20260729T213000
+DTEND;TZID=America/Sao_Paulo:20260730T000000
+DTSTAMP:20260720T124431Z
+UID:e0759c085334d70133c2f1c7f9116daed3d0bca750ca6506e905b64d9f948092@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: GE TV\, Globo e Premiere\n🏆 Co
+ mpetição: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase ú
+ nica — rodada 21\n🏟️ Local: Manoel Barradas\n🌎 Cidade/País: Sal
+ vador\, BA\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:
+ //www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/
+ 2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 
+ 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Manoel Barradas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Corinthians x Athletico-PR | Brasileirão — Rodada 2
+ 1
+DTSTART;TZID=America/Sao_Paulo:20260730T193000
+DTEND;TZID=America/Sao_Paulo:20260730T220000
+DTSTAMP:20260720T124431Z
+UID:777d726005a02c85c9ba513fd22a8c66f2141f375f732d92ee43a75ed9b60e2d@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\, Record e CazéTV no Yo
+ uTube\n🏆 Competição: Campeonato Brasileiro Série A 2026\n📍 Fase/R
+ odada: fase única — rodada 21\n🏟️ Local: Neo Química Arena\n🌎 
+ Cidade/País: São Paulo\, SP\, Brasil\nℹ️ Status: Confirmado\n🔗 Fo
+ nte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-
+ brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verific
+ ação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Neo Química Arena
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Coritiba x Cruzeiro | Brasileirão — Rodada 21
+DTSTART;TZID=America/Sao_Paulo:20260730T213000
+DTEND;TZID=America/Sao_Paulo:20260731T000000
+DTSTAMP:20260720T124431Z
+UID:9a7b1c069ce6f68e8b15ce0973e432c17048c61ecbeaffcfe022023cc4eefc95@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 21\n🏟️ Local: Couto Pereira\n🌎 Cidade/País: Curitiba\,
+  PR\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.c
+ bf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/cori
+ tiba-saf-x-cruzeiro/832097\n🕒 Última verificação: 20/07/2026 09:44 -
+ 03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Couto Pereira
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/coritiba-saf-x-cruzeiro/832097
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Remo x Atlético-MG | Brasileirão — Rodada 22
+DTSTART;TZID=America/Sao_Paulo:20260808T183000
+DTEND;TZID=America/Sao_Paulo:20260808T210000
+DTSTAMP:20260720T124431Z
+UID:304f84c9863f8fe0ac4bf2202d459eb199581e2135f0a2e89dc1ff34f5b17c23@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 22\n🏟️ Local: Mangueirão\n🌎 Cidade/País: Belém\, PA\, Brasil\n
+ ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/fute
+ bol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela
+ %20Detalhada\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Mangueirão
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Coritiba x Chapecoense | Brasileirão — Rodada 22
+DTSTART;TZID=America/Sao_Paulo:20260808T203000
+DTEND;TZID=America/Sao_Paulo:20260808T230000
+DTSTAMP:20260720T124431Z
+UID:7cec1545a933d28b73a0bcfb14ed2ff3ff9ece31d43a3d5ddd0b1d40368fe8c6@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\, Record e CazéTV no Yo
+ uTube\n🏆 Competição: Campeonato Brasileiro Série A 2026\n📍 Fase/R
+ odada: fase única — rodada 22\n🏟️ Local: Couto Pereira\n🌎 Cidad
+ e/País: Curitiba\, PR\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
+ cial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasile
+ iro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação:
+  20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Couto Pereira
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Botafogo x Fluminense | Brasileirão — Rodada 22
+DTSTART;TZID=America/Sao_Paulo:20260808T210000
+DTEND;TZID=America/Sao_Paulo:20260808T233000
+DTSTAMP:20260720T124431Z
+UID:98bb29228de38b5b214af44779804781754f76fd6251fd8a9a91363a53117976@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 22\n🏟️ Local: Estádio Nilton Santos\n🌎 Cidade/País: R
+ io de Janeiro\, RJ\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial
+ : https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/
+ serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/
+ 07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Estádio Nilton Santos
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Cruzeiro x Mirassol | Brasileirão — Rodada 22
+DTSTART;TZID=America/Sao_Paulo:20260809T110000
+DTEND;TZID=America/Sao_Paulo:20260809T133000
+DTSTAMP:20260720T124431Z
+UID:5c8781a4795546be4541fc9bf0fd8a9eeab78b8e017942c6e97c35266c71efde@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
+ ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 22\n🏟️ Local: Mineirão\n🌎 Cidade/País: Belo Horizonte
+ \, MG\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
+ .cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?
+ documento=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44
+  -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Mineirão
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Bahia x Vasco | Brasileirão — Rodada 22
+DTSTART;TZID=America/Sao_Paulo:20260809T160000
+DTEND;TZID=America/Sao_Paulo:20260809T183000
+DTSTAMP:20260720T124431Z
+UID:fd89eb26a6ea5415dd35bba30744b7276c43f8501ae8d3444e26a5a1a06d9faf@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 22\n🏟️ Local: Arena Fonte Nova\n🌎 Cidade/País: Salvado
+ r\, BA\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://ww
+ w.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026
+ ?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:4
+ 4 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Arena Fonte Nova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Palmeiras x Internacional | Brasileirão — Rodada 22
+DTSTART;TZID=America/Sao_Paulo:20260809T160000
+DTEND;TZID=America/Sao_Paulo:20260809T183000
+DTSTAMP:20260720T124431Z
+UID:5682eb2a7c4ddacc82053e61ecb06cf92f04bc3a932b71a1cd55260a82b7920e@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 22\n🏟️ Local: Allianz Parque\n🌎 Cidade/País: São Paul
+ o\, SP\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://ww
+ w.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026
+ ?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:4
+ 4 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Allianz Parque
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Santos x Athletico-PR | Brasileirão — Rodada 22
+DTSTART;TZID=America/Sao_Paulo:20260809T183000
+DTEND;TZID=America/Sao_Paulo:20260809T210000
+DTSTAMP:20260720T124431Z
+UID:2d30b2f23b5c2ad47c4a4819528f13151a641e4f09683100e16989a62b44073f@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 22\n🏟️ Local: Vila Belmiro\n🌎 Cidade/País: Santos\, SP\, Brasil\n
+ ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/fute
+ bol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela
+ %20Detalhada\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Vila Belmiro
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Flamengo x Vitória | Brasileirão — Rodada 22
+DTSTART;TZID=America/Sao_Paulo:20260809T193000
+DTEND;TZID=America/Sao_Paulo:20260809T220000
+DTSTAMP:20260720T124431Z
+UID:e4aadd65c7e257bdb97303fa9a1570e48fe7c9caa57ed2a797f3c9a869a1dcf5@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 22\n🏟️ Local: Maracanã\n🌎 Cidade/País: Rio de Janeiro
+ \, RJ\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
+ .cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?
+ documento=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44
+  -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Maracanã
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Atlético-MG x Grêmio | Brasileirão — Rodada 23
+DTSTART;TZID=America/Sao_Paulo:20260815T163000
+DTEND;TZID=America/Sao_Paulo:20260815T190000
+DTSTAMP:20260720T124431Z
+UID:0cc4181102fb902dd214a35df5a5ba3babd017cf5f0ac382950b4cc8928f65fb@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 23\n🏟️ Local: Arena MRV\n🌎 Cidade/País: Belo Horizonte\, MG\, Bra
+ sil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br
+ /futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=T
+ abela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Arena MRV
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Fluminense x Palmeiras | Brasileirão — Rodada 23
+DTSTART;TZID=America/Sao_Paulo:20260815T163000
+DTEND;TZID=America/Sao_Paulo:20260815T190000
+DTSTAMP:20260720T124431Z
+UID:980b73082016cb858431eafadd4037c802d17db1a7937946149ff56d0db6efa8@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 23\n🏟️ Local: Maracanã\n🌎 Cidade/País: Rio de Janeiro\, RJ\, Bra
+ sil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br
+ /futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=T
+ abela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Maracanã
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Chapecoense x Bahia | Brasileirão — Rodada 23
+DTSTART;TZID=America/Sao_Paulo:20260816T110000
+DTEND;TZID=America/Sao_Paulo:20260816T133000
+DTSTAMP:20260720T124431Z
+UID:b7ce80f8417759d54b9b8eb4ecea7ddcb85aa445db3a89aa40bb49ae2aca0b97@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 23\n🏟️ Local: Arena Condá\n🌎 Cidade/País: Chapecó\, SC\, Brasil
+ \nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/fu
+ tebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabe
+ la%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Arena Condá
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Vasco x Santos | Brasileirão — Rodada 23
+DTSTART;TZID=America/Sao_Paulo:20260816T160000
+DTEND;TZID=America/Sao_Paulo:20260816T183000
+DTSTAMP:20260720T124431Z
+UID:d775c6e4e8c737b9dd149c5cefc868b0b1015a1b1a2234cf7610d7d331758740@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 23\n🏟️ Local: São Januário\n🌎 Cidade/País: Rio de Janeiro\, RJ\
+ , Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.c
+ om.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?docume
+ nto=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:São Januário
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Mirassol x Flamengo | Brasileirão — Rodada 23
+DTSTART;TZID=America/Sao_Paulo:20260816T183000
+DTEND;TZID=America/Sao_Paulo:20260816T210000
+DTSTAMP:20260720T124431Z
+UID:f50b83740afcab996e9ce00e2488573e3f3efef0499d45409e492e52fd1e39da@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\, Record e CazéTV no Yo
+ uTube\n🏆 Competição: Campeonato Brasileiro Série A 2026\n📍 Fase/R
+ odada: fase única — rodada 23\n🏟️ Local: José Maria de Campos Mai
+ a\n🌎 Cidade/País: Mirassol\, SP\, Brasil\nℹ️ Status: Confirmado\n
+ 🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/camp
+ eonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última 
+ verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:José Maria de Campos Maia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Vitória x Botafogo | Brasileirão — Rodada 23
+DTSTART;TZID=America/Sao_Paulo:20260816T183000
+DTEND;TZID=America/Sao_Paulo:20260816T210000
+DTSTAMP:20260720T124431Z
+UID:437badeccb1460c565ea7de33e4cb3d2bb53bc08a893107ae4170c0113fe6a0f@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 23\n🏟️ Local: Manoel Barradas\n🌎 Cidade/País: Salvador\, BA\, Bra
+ sil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br
+ /futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=T
+ abela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Manoel Barradas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Corinthians x Cruzeiro | Brasileirão — Rodada 23
+DTSTART;TZID=America/Sao_Paulo:20260816T193000
+DTEND;TZID=America/Sao_Paulo:20260816T220000
+DTSTAMP:20260720T124431Z
+UID:e519fed14370591cf965e323444d0b144c488239acac468ea0e939c28943bcdb@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
+ ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 23\n🏟️ Local: Neo Química Arena\n🌎 Cidade/País: São 
+ Paulo\, SP\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:
+ //www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/
+ 2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 
+ 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Neo Química Arena
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Internacional x Remo | Brasileirão — Rodada 23
+DTSTART;TZID=America/Sao_Paulo:20260817T200000
+DTEND;TZID=America/Sao_Paulo:20260817T223000
+DTSTAMP:20260720T124431Z
+UID:b18be556d812ef7f0e41721499aacdff48cfddde37a82b0e544074ac518cbe56@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,brasileirao
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
+ ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
+ — rodada 23\n🏟️ Local: Beira-Rio\n🌎 Cidade/País: Porto Alegre\,
+  RS\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.c
+ bf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?do
+ cumento=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44 -
+ 03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Beira-Rio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
 END:VCALENDAR

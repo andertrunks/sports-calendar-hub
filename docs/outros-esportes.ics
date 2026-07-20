@@ -5,26 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Outros esportes
 X-WR-TIMEZONE:America/Sao_Paulo
-BEGIN:VEVENT
-SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — João 
- Fonseca x Tenista Fictício I
-DTSTART;TZID=America/Sao_Paulo:20261003T150000
-DTEND;TZID=America/Sao_Paulo:20261003T170000
-DTSTAMP:20260720T150000Z
-UID:27247cb6eaed92977e157d64d3fdd4cd9233873996b2bdcd4edbad510955e93a@sport
- s-calendar-hub
-SEQUENCE:0
-CATEGORIES:Tênis,Simples masculino,outros-esportes
-CREATED:20260720T150000Z
-DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
- Transmissão no Brasil: ainda não confirmada\n🏆 Competição: Torneio 
- de tênis de demonstração\n📍 Fase/Rodada: Partida fictícia\n🏟️ 
- Local: Quadra fictícia I\n🌎 Cidade/País: Cidade fictícia I\, País f
- ictício I\nℹ️ Status: CONFIRMED\n🕒 Última verificação: 20/07/20
- 26 12:00 -03
-LAST-MODIFIED:20260720T150000Z
-LOCATION:Quadra fictícia I
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
 END:VCALENDAR

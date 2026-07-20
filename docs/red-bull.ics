@@ -6,25 +6,77 @@ METHOD:PUBLISH
 X-WR-CALNAME:Red Bull
 X-WR-TIMEZONE:America/Sao_Paulo
 BEGIN:VEVENT
-SUMMARY:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL — Red Bu
- ll Bragantino x Clube Fictício D
-DTSTART;TZID=America/Sao_Paulo:20260822T183000
-DTEND;TZID=America/Sao_Paulo:20260822T203000
-DTSTAMP:20260720T150000Z
-UID:253d1fce532bec31e8882a4643b8c1b16e6b8c7740ad5304a6ffd0feb2035fb6@sport
+SUMMARY:Futebol — Red Bull Bragantino x Coritiba | Brasileirão — Roda
+ da 20
+DTSTART;TZID=America/Sao_Paulo:20260726T183000
+DTEND;TZID=America/Sao_Paulo:20260726T210000
+DTSTAMP:20260720T124431Z
+UID:0627bee3e4c9ddbf31a8d9c7ef92b5c0913a54bd4041bc0a3c1b2494a0213422@sport
  s-calendar-hub
 SEQUENCE:0
-CATEGORIES:Futebol,Futebol masculino,red-bull
-CREATED:20260720T150000Z
-DESCRIPTION:DADOS DE DEMONSTRAÇÃO — NÃO É CALENDÁRIO OFICIAL\n📺 
- Transmissão no Brasil: Canal fictício — demonstração\n🏆 Competiç
- ão: Brasileirão — competição de demonstração\n📍 Fase/Rodada: Ro
- dada fictícia 3\n🏟️ Local: Arena fictícia D\n🌎 Cidade/País: Cid
- ade fictícia D\, Brasil\nℹ️ Status: CONFIRMED\n🕒 Última verifica
- ção: 20/07/2026 12:00 -03
-LAST-MODIFIED:20260720T150000Z
-LOCATION:Arena fictícia D
+CATEGORIES:Futebol,Masculino profissional,red-bull
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 20\n🏟️ Local: Estádio Cícero de Souza Marques\n🌎 Cidade/País: B
+ ragança Paulista\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial:
+  https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/ser
+ ie-a/2026/red-bull-bragantino-x-coritiba-saf/832084\n🕒 Última verifica
+ ção: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Estádio Cícero de Souza Marques
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/
+ serie-a/2026/red-bull-bragantino-x-coritiba-saf/832084
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Red Bull Bragantino x Corinthians | Brasileirão — R
+ odada 22
+DTSTART;TZID=America/Sao_Paulo:20260809T183000
+DTEND;TZID=America/Sao_Paulo:20260809T210000
+DTSTAMP:20260720T124431Z
+UID:0ea38d00c9c39565065ff797109752632a00c0f2ba5931366de2fae1e4568053@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,red-bull
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 22\n🏟️ Local: Estádio Cícero de Souza Marques\n🌎 Cidade/País: B
+ ragança Paulista\, SP\, Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
+ cial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasile
+ iro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação:
+  20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Estádio Cícero de Souza Marques
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Athletico-PR x Red Bull Bragantino | Brasileirão — 
+ Rodada 23
+DTSTART;TZID=America/Sao_Paulo:20260815T183000
+DTEND;TZID=America/Sao_Paulo:20260815T210000
+DTSTAMP:20260720T124431Z
+UID:6e9e638ad341cf8db7e062d37548096545796073c9d572a09d970fe9d199f15e@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,red-bull
+CREATED:20260720T124431Z
+DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
+ eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
+ 23\n🏟️ Local: Arena da Baixada\n🌎 Cidade/País: Curitiba\, PR\, Br
+ asil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.b
+ r/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=
+ Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 09:44 -03
+LAST-MODIFIED:20260720T124431Z
+LOCATION:Arena da Baixada
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada
 END:VEVENT
 END:VCALENDAR

@@ -11,6 +11,7 @@
     header { background: #0b3d2e; color: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px #0b3d2e33; }
     h1 { margin-top: 0; font-size: clamp(2rem, 5vw, 3.6rem); line-height: 1.05; }
     .notice { padding: 1rem; margin: 1.5rem 0; border-left: 5px solid #e67e22; background: #fff4e6; }
+    .scope { background: white; padding: 1.25rem; margin: 1.5rem 0; border-radius: .8rem; box-shadow: 0 3px 14px #22334416; }
     .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
     .feed-card { background: white; padding: 1.25rem; border-radius: .8rem; box-shadow: 0 3px 14px #22334416; }
     .feed-card h2 { margin-top: 0; }
@@ -28,12 +29,19 @@
       <h1>Sports Calendar Hub — Calendários esportivos</h1>
       <p>Feeds universais em iCalendar (ICS), gerados por Python e publicados automaticamente.</p>
     </header>
-    <p class="notice"><strong>Versão inicial de demonstração.</strong> Todos os eventos atuais são fictícios e não constituem calendário oficial.</p>
+    <p class="notice"><strong>Versão inicial.</strong> Os eventos são um snapshot sanitizado das fontes esportivas disponíveis e podem receber correções quando horários oficiais forem publicados.</p>
+    <section class="scope" aria-labelledby="scope-title">
+      <h2 id="scope-title">Escopo acompanhado</h2>
+      <p>Clubes regionais incluem Ferroviária-SP, Portuguesa-SP, Juventus-SP, Botafogo-SP, Comercial-SP, Matonense, São Carlos-SP e Grêmio Sãocarlense.</p>
+      <p>Do São Paulo FC, entram os times profissionais masculino e feminino e as categorias masculinas sub-20 e sub-17. Equipes femininas de base não fazem parte do escopo.</p>
+      <p>A Copa São Paulo de Futebol Júnior é acompanhada, pela regra geral, a partir das oitavas de final; prioridades de clubes podem prevalecer.</p>
+      <p><a href="escopo-mestre.md">Consultar o escopo mestre completo</a></p>
+    </section>
     <section class="grid" aria-label="Feeds disponíveis">
 <article class="feed-card">
   <h2>Todos os eventos</h2>
   <p>Calendário geral com todos os eventos normalizados.</p>
-  <p class="count"><strong>8</strong> evento(s)</p>
+  <p class="count"><strong>53</strong> evento(s)</p>
   <div class="actions">
     <a href="all.ics">Abrir all.ics</a>
     <button type="button" data-feed="all.ics">Copiar link</button>
@@ -42,7 +50,7 @@
 <article class="feed-card">
   <h2>São Paulo</h2>
   <p>Jogos do São Paulo Futebol Clube, independentemente da competição.</p>
-  <p class="count"><strong>1</strong> evento(s)</p>
+  <p class="count"><strong>11</strong> evento(s)</p>
   <div class="actions">
     <a href="sao-paulo.ics">Abrir sao-paulo.ics</a>
     <button type="button" data-feed="sao-paulo.ics">Copiar link</button>
@@ -51,7 +59,7 @@
 <article class="feed-card">
   <h2>Seleção Brasileira</h2>
   <p>Jogos das seleções brasileiras, com prioridade sobre copas e torneios.</p>
-  <p class="count"><strong>1</strong> evento(s)</p>
+  <p class="count"><strong>0</strong> evento(s)</p>
   <div class="actions">
     <a href="selecao-brasileira.ics">Abrir selecao-brasileira.ics</a>
     <button type="button" data-feed="selecao-brasileira.ics">Copiar link</button>
@@ -59,8 +67,8 @@
 </article>
 <article class="feed-card">
   <h2>Clubes regionais</h2>
-  <p>Eventos de Ferroviária, Corinthians, Palmeiras e Santos, após prioridades superiores.</p>
-  <p class="count"><strong>1</strong> evento(s)</p>
+  <p>Jogos oficiais dos clubes regionais acompanhados, incluindo Botafogo-SP e Comercial-SP.</p>
+  <p class="count"><strong>0</strong> evento(s)</p>
   <div class="actions">
     <a href="clubes-regionais.ics">Abrir clubes-regionais.ics</a>
     <button type="button" data-feed="clubes-regionais.ics">Copiar link</button>
@@ -69,7 +77,7 @@
 <article class="feed-card">
   <h2>Red Bull</h2>
   <p>Eventos de equipes Red Bull, RB Leipzig, RB Salzburg e Red Bull Bragantino.</p>
-  <p class="count"><strong>1</strong> evento(s)</p>
+  <p class="count"><strong>3</strong> evento(s)</p>
   <div class="actions">
     <a href="red-bull.ics">Abrir red-bull.ics</a>
     <button type="button" data-feed="red-bull.ics">Copiar link</button>
@@ -78,7 +86,7 @@
 <article class="feed-card">
   <h2>Premier League</h2>
   <p>Partidas da Premier League que não pertencem a um grupo prioritário.</p>
-  <p class="count"><strong>1</strong> evento(s)</p>
+  <p class="count"><strong>0</strong> evento(s)</p>
   <div class="actions">
     <a href="premier-league.ics">Abrir premier-league.ics</a>
     <button type="button" data-feed="premier-league.ics">Copiar link</button>
@@ -87,7 +95,7 @@
 <article class="feed-card">
   <h2>Competições continentais</h2>
   <p>Libertadores, Sul-Americana, Champions League e competições continentais equivalentes.</p>
-  <p class="count"><strong>1</strong> evento(s)</p>
+  <p class="count"><strong>0</strong> evento(s)</p>
   <div class="actions">
     <a href="continentais.ics">Abrir continentais.ics</a>
     <button type="button" data-feed="continentais.ics">Copiar link</button>
@@ -96,7 +104,7 @@
 <article class="feed-card">
   <h2>Automobilismo</h2>
   <p>Corridas e etapas de categorias do automobilismo.</p>
-  <p class="count"><strong>1</strong> evento(s)</p>
+  <p class="count"><strong>4</strong> evento(s)</p>
   <div class="actions">
     <a href="automobilismo.ics">Abrir automobilismo.ics</a>
     <button type="button" data-feed="automobilismo.ics">Copiar link</button>
@@ -105,7 +113,7 @@
 <article class="feed-card">
   <h2>Brasileirão</h2>
   <p>Partidas do Campeonato Brasileiro que não pertencem a um grupo prioritário.</p>
-  <p class="count"><strong>0</strong> evento(s)</p>
+  <p class="count"><strong>35</strong> evento(s)</p>
   <div class="actions">
     <a href="brasileirao.ics">Abrir brasileirao.ics</a>
     <button type="button" data-feed="brasileirao.ics">Copiar link</button>
@@ -132,14 +140,14 @@
 <article class="feed-card">
   <h2>Outros esportes</h2>
   <p>Demais modalidades e competições não abrangidas pelos grupos anteriores.</p>
-  <p class="count"><strong>1</strong> evento(s)</p>
+  <p class="count"><strong>0</strong> evento(s)</p>
   <div class="actions">
     <a href="outros-esportes.ics">Abrir outros-esportes.ics</a>
     <button type="button" data-feed="outros-esportes.ics">Copiar link</button>
   </div>
 </article>
     </section>
-    <footer>Última geração dos dados: <time datetime="2026-07-20T12:00:00-03:00">20/07/2026 às 12:00 -03</time>.</footer>
+    <footer>Última geração dos dados: <time datetime="2026-07-20T09:44:31-03:00">20/07/2026 às 09:44 -03</time>.</footer>
   </main>
   <script>
     document.querySelectorAll('[data-feed]').forEach((button) => {
