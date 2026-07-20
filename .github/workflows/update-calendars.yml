@@ -3,14 +3,14 @@ name: Update calendars
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6,12,18 * * *"
+    - cron: "30 5,11,17 * * *"
       timezone: "America/Sao_Paulo"
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-calendars-main
+  group: sports-calendar-sync
   cancel-in-progress: false
 
 jobs:
@@ -34,21 +34,28 @@ jobs:
       - name: Run tests
         run: pytest
 
-      - name: Generate calendars and index
-        run: python -m src.main
+      - name: Synchronize Sheet, ICS and Google Calendar
+        env:
+          SPORTS_GATEWAY_URL: ${{ secrets.SPORTS_GATEWAY_URL }}
+          SPORTS_EXPORT_TOKEN: ${{ secrets.SPORTS_EXPORT_TOKEN }}
+          SPORTS_SYNC_TOKEN: ${{ secrets.SPORTS_SYNC_TOKEN }}
+        run: python -m src.remote_sync
 
       - name: Validate ICS feeds
         run: python -m src.validate_ics
 
+      - name: Scan generated files for private data
+        run: python -m src.privacy_scan
+
       - name: Commit real changes only
         shell: bash
         run: |
-          if git diff --quiet -- docs; then
-            echo "No generated calendar changes."
+          if git diff --quiet -- data/events.json docs reports; then
+            echo "No synchronized calendar changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs
+          git add data/events.json docs reports
           git commit -m "chore(calendar): update generated ICS feeds"
           git push origin HEAD:main

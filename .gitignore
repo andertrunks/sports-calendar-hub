@@ -31,3 +31,9 @@ htmlcov/
 data/import/*.csv
 tmp/
 *.tmp
+*.response.json
+*.snapshot.json
+.env
+.env.*
+secrets/
+tmp/gateway-*

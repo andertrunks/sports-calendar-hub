@@ -32,3 +32,6 @@ jobs:
 
       - name: Validate ICS feeds
         run: python -m src.validate_ics
+
+      - name: Scan public artifacts for credentials and private data
+        run: python -m src.privacy_scan
