@@ -10,21 +10,22 @@ SUMMARY:Futebol feminino — Vasco x São Paulo | Copa do Brasil — 4ª f
  ase
 DTSTART;TZID=America/Sao_Paulo:20260721T214500
 DTEND;TZID=America/Sao_Paulo:20260722T001500
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:017df6a58ed0968204b33d5b382e36a4ea08ec9b24d48eceb11936c948ee05f7@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV\n🏆 Competição: Copa d
  o Brasil Feminina 2026\n📍 Fase/Rodada: 4ª fase — jogo único — 4ª
   fase — jogo único — 4ª fase — jogo único — 4ª fase — jogo 
- único\n🏟️ Local: Estádio Raulino de Oliveira\n🌎 Cidade/País: Vo
- lta Redonda — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofici
- al: https://www.cbf.com.br/futebol-brasileiro/jogos/copa-do-brasil/feminin
- o/2026/vasco-da-gama-saf-x-sao-paulo/834961\n🕒 Última verificação: 2
- 1/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ único — 4ª fase — jogo único — 4ª fase — jogo único — 4ª f
+ ase — jogo único — 4ª fase — jogo único\n🏟️ Local: Estádio 
+ Raulino de Oliveira\n🌎 Cidade/País: Volta Redonda — RJ — Brasil\n
+ ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/fute
+ bol-brasileiro/jogos/copa-do-brasil/feminino/2026/vasco-da-gama-saf-x-sao-
+ paulo/834961\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Estádio Raulino de Oliveira
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -36,20 +37,22 @@ SUMMARY:Futebol masculino sub-17 — São Paulo x Atlético-MG | Brasileir
  o Sub-17
 DTSTART;TZID=America/Sao_Paulo:20260722T150000
 DTEND;TZID=America/Sao_Paulo:20260722T173000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:c23829f03e536581c5a564057bb8b6472bd03ee8bd966c0681cc1202f8fda2e2@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino sub-17,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Sub-17 2026\n📍 Fase/Rodada: fase classif
  icatória — fase classificatória — fase classificatória — fase cla
- ssificatória\n🏟️ Local: Estádio Bruno José Daniel\n🌎 Cidade/Pa
- ís: Santo André — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte
-  oficial: https://www.saopaulofc.net/calendario-de-jogos-base-masculino/\n
- 🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ ssificatória — fase classificatória — fase classificatória — fase
+  classificatória — fase classificatória\n🏟️ Local: Estádio Bruno
+  José Daniel\n🌎 Cidade/País: Santo André — SP — Brasil\nℹ️ S
+ tatus: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/calendar
+ io-de-jogos-base-masculino/\n🕒 Última verificação: 21/07/2026 12:02 
+ -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Estádio Bruno José Daniel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59,21 +62,23 @@ BEGIN:VEVENT
 SUMMARY:Futebol — São Paulo x Athletico-PR | Brasileirão — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260722T213000
 DTEND;TZID=America/Sao_Paulo:20260722T233000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:48bd7c54d24807941aa92856109d5f066264d6b4073bb59b9bb28ea116c74f03@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: GE TV\, Globo e Premiere\n🏆 Co
  mpetição: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase ú
  nica — rodada 19 — fase única — rodada 19 — fase única — rodad
- a 19 — fase única — rodada 19\n🏟️ Local: Estádio Cícero de Sou
- za Marques\n🌎 Cidade/País: Bragança Paulista — SP — Brasil\nℹ
- ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol
- -brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20
- Detalhada\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ a 19 — fase única — rodada 19 — fase única — rodada 19 — fase 
+ única — rodada 19 — fase única — rodada 19 — fase única — rod
+ ada 19\n🏟️ Local: Estádio Cícero de Souza Marques\n🌎 Cidade/Paí
+ s: Bragança Paulista — SP — Brasil\nℹ️ Status: Confirmado\n🔗 F
+ onte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato
+ -brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verifi
+ cação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Estádio Cícero de Souza Marques
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -85,20 +90,22 @@ SUMMARY:Futebol feminino — Cruzeiro x São Paulo | Brasileirão A1 — R
  odada 13
 DTSTART;TZID=America/Sao_Paulo:20260724T213000
 DTEND;TZID=America/Sao_Paulo:20260725T000000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:ed1e2861041e673373d2081d46cdb66b22172204a1bdf8139c3436740192b44d@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV\n🏆 Competição: Campeo
  nato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: 1ª fase — rodada 13
   — 1ª fase — rodada 13 — 1ª fase — rodada 13 — 1ª fase — ro
- dada 13\n🏟️ Local: Arena do Jacaré\n🌎 Cidade/País: Sete Lagoas 
- — MG — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://
- www.cbf.com.br/futebol-brasileiro/jogos/brasileiro-feminino/a-1/2026/cruze
- iro-x-sao-paulo/832386\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ dada 13 — 1ª fase — rodada 13 — 1ª fase — rodada 13 — 1ª fase
+  — rodada 13 — 1ª fase — rodada 13\n🏟️ Local: Arena do Jacaré
+ \n🌎 Cidade/País: Sete Lagoas — MG — Brasil\nℹ️ Status: Confirm
+ ado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/jogos/b
+ rasileiro-feminino/a-1/2026/cruzeiro-x-sao-paulo/832386\n🕒 Última veri
+ ficação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Arena do Jacaré
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -110,19 +117,20 @@ SUMMARY:Futebol masculino sub-20 — São Paulo x Osasco Sporting | Paulis
  tão Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260726T150000
 DTEND;TZID=America/Sao_Paulo:20260726T173000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:0ee2a6e7fc34ca0818c778ac6d126a3947715c7914477b35320a9236a63bd15b@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase 
+ — primeira fase — primeira fase — primeira fase — primeira fase 
  — primeira fase — primeira fase — primeira fase\n🏟️ Local: CFA 
  Laudo Natel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Co
  nfirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/fpf-divulga-tabel
- a-do-paulista-sub-20/\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ a-do-paulista-sub-20/\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -132,21 +140,22 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Flamengo x São Paulo | Brasileirão — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260726T183000
 DTEND;TZID=America/Sao_Paulo:20260726T210000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:d2870c8e9532db717cc7bc8fd340c6f46024ea527abe2c67708c0a2153cd62fc@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
  20 — fase única — rodada 20 — fase única — rodada 20 — fase ú
- nica — rodada 20\n🏟️ Local: Maracanã\n🌎 Cidade/País: Rio de Ja
- neiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
- tps://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/seri
- e-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21/07/2
- 026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ nica — rodada 20 — fase única — rodada 20 — fase única — rodad
+ a 20 — fase única — rodada 20 — fase única — rodada 20\n🏟️ 
+ Local: Maracanã\n🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ
+ ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol
+ -brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20
+ Detalhada\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Maracanã
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -157,19 +166,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — São Paulo x Mirassol | Paulistão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260727T190000
 DTEND;TZID=America/Sao_Paulo:20260727T213000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:f5d212ca3350db930d94c9c09dc6c071fd2e458cc1388830712ae5c668dc0296@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: CazéTV\, HBO Max e Record News\n
  🏆 Competição: Campeonato Paulista Feminino 2026\n📍 Fase/Rodada: ro
- dada 5 — rodada 5 — rodada 5 — rodada 5\n🏟️ Local: CFA Laudo Na
- tel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Confirmado
- \n🔗 Fonte oficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx
- ?Noticia=32803\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ dada 5 — rodada 5 — rodada 5 — rodada 5 — rodada 5 — rodada 5 
+ — rodada 5 — rodada 5\n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/Pa
+ ís: Cotia — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficia
+ l: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32803\n
+ 🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -180,19 +190,20 @@ SUMMARY:Futebol masculino sub-20 — São Paulo x Botafogo-SP | Paulistão
   Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260801T150000
 DTEND;TZID=America/Sao_Paulo:20260801T173000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:6372480ea928fcffe5dcc5627a97e0096da6ca8da55ce08ec1ce81a89c59d8b1@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase 
+ — primeira fase — primeira fase — primeira fase — primeira fase 
  — primeira fase — primeira fase — primeira fase\n🏟️ Local: CFA 
  Laudo Natel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Co
  nfirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/fpf-divulga-tabel
- a-do-paulista-sub-20/\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ a-do-paulista-sub-20/\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -202,21 +213,24 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — Vitória x São Paulo | Brasileirão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260801T210000
 DTEND;TZID=America/Sao_Paulo:20260801T233000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:97686456f16422ea6cf12e9f99274a5de41879d6d8fb3e0e6dce7dabae64053d@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: fase in
  icial — rodada não informada na fonte — fase inicial — rodada não 
  informada na fonte — fase inicial — rodada não informada na fonte —
-  fase inicial — rodada não informada na fonte\n🏟️ Local: Estádio 
- Manoel Barradas\n🌎 Cidade/País: Salvador — BA — Brasil\nℹ️ Sta
- tus: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/calendario
- -de-jogos-femininos/\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+  fase inicial — rodada não informada na fonte — fase inicial — roda
+ da não informada na fonte — fase inicial — rodada não informada na f
+ onte — fase inicial — rodada não informada na fonte — fase inicial 
+ — rodada não informada na fonte\n🏟️ Local: Estádio Manoel Barrada
+ s\n🌎 Cidade/País: Salvador — BA — Brasil\nℹ️ Status: Confirmad
+ o\n🔗 Fonte oficial: https://www.saopaulofc.net/calendario-de-jogos-femi
+ ninos/\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Estádio Manoel Barradas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -227,20 +241,21 @@ SUMMARY:Futebol masculino sub-17 — Botafogo x São Paulo | Brasileiro Su
  b-17
 DTSTART;TZID=America/Sao_Paulo:20260804T160000
 DTEND;TZID=America/Sao_Paulo:20260804T183000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:688529ef69b3edf77af92491083dabd10c48e446cfa3c1d23ceaa076c35b121e@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino sub-17,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Sub-17 2026\n📍 Fase/Rodada: fase classif
  icatória — fase classificatória — fase classificatória — fase cla
- ssificatória\n🏟️ Local: Estádio Nilton Santos\n🌎 Cidade/País: R
- io de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
- cial: https://www.saopaulofc.net/calendario-de-jogos-base-masculino/\n🕒
-  Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ ssificatória — fase classificatória — fase classificatória — fase
+  classificatória — fase classificatória\n🏟️ Local: Estádio Nilto
+ n Santos\n🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️ Stat
+ us: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/calendario-
+ de-jogos-base-masculino/\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Estádio Nilton Santos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -251,20 +266,21 @@ SUMMARY:Futebol masculino sub-20 — SC Aguaí x São Paulo | Paulistão S
  ub-20
 DTSTART;TZID=America/Sao_Paulo:20260807T150000
 DTEND;TZID=America/Sao_Paulo:20260807T173000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:92f544d87378150b54d7fa354b7c273ecb19be89aaf82842a2b0b1149fee3815@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase 
+ — primeira fase — primeira fase — primeira fase — primeira fase 
  — primeira fase — primeira fase — primeira fase\n🏟️ Local: Est
  ádio Leonardo Guaranha\n🌎 Cidade/País: Aguaí — SP — Brasil\nℹ
  ️ Status: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/fpf
  -divulga-tabela-do-paulista-sub-20/\n🕒 Última verificação: 21/07/202
- 6 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ 6 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Estádio Leonardo Guaranha
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -274,21 +290,22 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Grêmio x São Paulo | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260808T160000
 DTEND;TZID=America/Sao_Paulo:20260808T180000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:45fbc25e3739070a0cbdb53aa7a0d8c8742ce012b659aa5f28ec4ef0aa5ee7bb@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
  22 — fase única — rodada 22 — fase única — rodada 22 — fase ú
- nica — rodada 22\n🏟️ Local: Arena do Grêmio\n🌎 Cidade/País: Po
- rto Alegre — RS — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficia
- l: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro
- /serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21
- /07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ nica — rodada 22 — fase única — rodada 22 — fase única — rodad
+ a 22 — fase única — rodada 22 — fase única — rodada 22\n🏟️ 
+ Local: Arena do Grêmio\n🌎 Cidade/País: Porto Alegre — RS — Brasil
+ \nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/fu
+ tebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabe
+ la%20Detalhada\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Arena do Grêmio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -300,21 +317,24 @@ SUMMARY:Futebol feminino — São Paulo x Red Bull Bragantino | Brasileir
  ão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260809T180000
 DTEND;TZID=America/Sao_Paulo:20260809T203000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:a4c9027a5131d6bd24e3848f37da7e1d34c4349b5e14bb967dfad862efc94e83@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: fase in
  icial — rodada não informada na fonte — fase inicial — rodada não 
  informada na fonte — fase inicial — rodada não informada na fonte —
-  fase inicial — rodada não informada na fonte\n🏟️ Local: CFA Laudo
-  Natel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Confirm
- ado\n🔗 Fonte oficial: https://www.saopaulofc.net/calendario-de-jogos-fe
- mininos/\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+  fase inicial — rodada não informada na fonte — fase inicial — roda
+ da não informada na fonte — fase inicial — rodada não informada na f
+ onte — fase inicial — rodada não informada na fonte — fase inicial 
+ — rodada não informada na fonte\n🏟️ Local: CFA Laudo Natel\n🌎 C
+ idade/País: Cotia — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Font
+ e oficial: https://www.saopaulofc.net/calendario-de-jogos-femininos/\n🕒
+  Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -325,20 +345,21 @@ SUMMARY:Futebol masculino sub-20 — Novorizontino x São Paulo | Paulist
  ão Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260811T150000
 DTEND;TZID=America/Sao_Paulo:20260811T173000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:1a69cb0feecdc96989396e780ef0fa357ac4762a5be940ccb9628864940b9403@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase 
+ — primeira fase — primeira fase — primeira fase — primeira fase 
  — primeira fase — primeira fase — primeira fase\n🏟️ Local: Est
  ádio Dr. Jorge Ismael de Biasi\n🌎 Cidade/País: Novo Horizonte — SP 
  — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.sao
  paulofc.net/fpf-divulga-tabela-do-paulista-sub-20/\n🕒 Última verifica
- ção: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ ção: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Estádio Dr. Jorge Ismael de Biasi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -348,19 +369,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — São Paulo x Santos | Paulistão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260813T190000
 DTEND;TZID=America/Sao_Paulo:20260813T213000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:91e2ec786a1c4b3d6f1f965c384cd0532da51eebe3ecbc743a199e8fe14cbe7a@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: CazéTV\, HBO Max e Record News\n
  🏆 Competição: Campeonato Paulista Feminino 2026\n📍 Fase/Rodada: ro
- dada 6 — rodada 6 — rodada 6 — rodada 6\n🏟️ Local: CFA Laudo Na
- tel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Confirmado
- \n🔗 Fonte oficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx
- ?Noticia=32803\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ dada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 
+ — rodada 6 — rodada 6\n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/Pa
+ ís: Cotia — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficia
+ l: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32803\n
+ 🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -371,19 +393,20 @@ SUMMARY:Futebol masculino sub-20 — São Paulo x Ibrachina | Paulistão S
  ub-20
 DTSTART;TZID=America/Sao_Paulo:20260814T150000
 DTEND;TZID=America/Sao_Paulo:20260814T173000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:725814426905049391ae4afe5aed09f6c24996c0f895dcfbf1c21de17cc1c680@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase 
+ — primeira fase — primeira fase — primeira fase — primeira fase 
  — primeira fase — primeira fase — primeira fase\n🏟️ Local: CFA 
  Laudo Natel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Co
  nfirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/fpf-divulga-tabel
- a-do-paulista-sub-20/\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ a-do-paulista-sub-20/\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -393,21 +416,22 @@ BEGIN:VEVENT
 SUMMARY:Futebol — São Paulo x Coritiba | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260815T210000
 DTEND;TZID=America/Sao_Paulo:20260815T230000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:af428c2d5483e8d55dd3c133bc85e3a54925148311fc6d71849de95e9d503c2d@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 23 — fase única — rodada 23 — fase única — rodada 23 
- — fase única — rodada 23\n🏟️ Local: MorumBIS\n🌎 Cidade/País:
-  São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofici
- al: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
- o/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 2
- 1/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ — fase única — rodada 23 — fase única — rodada 23 — fase únic
+ a — rodada 23 — fase única — rodada 23 — fase única — rodada 2
+ 3\n🏟️ Local: MorumBIS\n🌎 Cidade/País: São Paulo — SP — Brasi
+ l\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/f
+ utebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tab
+ ela%20Detalhada\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:MorumBIS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -418,21 +442,24 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — Botafogo x São Paulo | Brasileirão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260816T110000
 DTEND;TZID=America/Sao_Paulo:20260816T133000
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:5eba105663c0482b56b5142ac7f7ad97c1b1c6f86d44c24a74ef93885d092d2c@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: fase in
  icial — rodada não informada na fonte — fase inicial — rodada não 
  informada na fonte — fase inicial — rodada não informada na fonte —
-  fase inicial — rodada não informada na fonte\n🏟️ Local: Estádio 
- Nilton Santos\n🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️
-  Status: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/calend
- ario-de-jogos-femininos/\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+  fase inicial — rodada não informada na fonte — fase inicial — roda
+ da não informada na fonte — fase inicial — rodada não informada na f
+ onte — fase inicial — rodada não informada na fonte — fase inicial 
+ — rodada não informada na fonte\n🏟️ Local: Estádio Nilton Santos\
+ n🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️ Status: Confi
+ rmado\n🔗 Fonte oficial: https://www.saopaulofc.net/calendario-de-jogos-
+ femininos/\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Estádio Nilton Santos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

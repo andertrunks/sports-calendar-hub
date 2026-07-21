@@ -1,73 +1,74 @@
 {
   "schema_version": "2.0",
-  "source_hash": "2ba78d797609e358516269147820383360699d8d51a6d3157b2bfeb296b66dea",
-  "events": 86,
+  "source_hash": "bd79eac5116893c0b1d26d656fc54bcf9750b3590af3b5e1cd261dc50d87b0bb",
+  "events": 90,
   "by_group": {
     "automobilismo": 4,
     "brasileirao": 35,
     "clubes-regionais": 16,
-    "red-bull": 12,
+    "continentais": 3,
+    "red-bull": 13,
     "sao-paulo": 18,
     "selecao-brasileira": 1
   },
   "import": {
-    "source_rows": 100,
-    "in_scope": 86,
-    "unique_events": 86,
+    "source_rows": 104,
+    "in_scope": 90,
+    "unique_events": 90,
     "deduplicated": 0,
     "changes": {
-      "created": 3,
-      "updated": 83,
+      "created": 4,
+      "updated": 86,
       "unchanged": 0
     }
   },
   "dry_run": {
-    "execution_id": "dry-20260721103557-1039f48dbe56",
+    "execution_id": "dry-20260721155851-626033758779",
     "plan": {
       "create": 0,
-      "update": 86,
+      "update": 90,
       "unchanged": 0,
-      "delete": 0,
+      "delete": 1,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
-      "scope_delete": 0,
-      "existing_future": 176,
+      "scope_delete": 1,
+      "existing_future": 181,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
     "primary_duplicate_reviews": 0
   },
   "apply": {
-    "execution_id": "apply-20260721103602-1039f48dbe56",
+    "execution_id": "apply-20260721155858-626033758779",
     "plan": {
       "create": 0,
       "update": 0,
-      "unchanged": 86,
+      "unchanged": 90,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 176,
+      "existing_future": 180,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
     "result": {
       "created": 0,
-      "updated": 86,
+      "updated": 90,
       "unchanged": 0,
-      "deleted": 0,
+      "deleted": 1,
       "post_validation": {
         "create": 0,
         "update": 0,
-        "unchanged": 86,
+        "unchanged": 90,
         "delete": 0,
         "primary_delete": 0,
         "missing_uid": 0,
         "duplicate_delete": 0,
         "scope_delete": 0,
-        "existing_future": 176,
+        "existing_future": 180,
         "privacy_violations": 0,
         "duplicate_reviews": 0
       }

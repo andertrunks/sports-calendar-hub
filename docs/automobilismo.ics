@@ -9,23 +9,26 @@ BEGIN:VEVENT
 SUMMARY:F4 Italiana — Mugello | Corrida 1 — Grupos B–C
 DTSTART;TZID=America/Sao_Paulo:20260725T061000
 DTEND;TZID=America/Sao_Paulo:20260725T064500
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:c5da113f978f7aa6584925e9598036bf2dbd44a5a50e3dbdc620b0561aa42ff1@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Automobilismo,F4 Italiana,automobilismo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: canal oficial Italian F4 | E4 Cha
  mpionship no YouTube\n🏆 Competição: Italian F.4 Championship 2026\n
  📍 Fase/Rodada: rodada 4 — Corrida 1 — grupos B–C — rodada 4 —
   Corrida 1 — grupos B–C — rodada 4 — Corrida 1 — grupos B–C 
- — rodada 4 — Corrida 1 — grupos B–C\n🏟️ Local: Mugello Circui
- t\n🌎 Cidade/País: Scarperia e San Piero — Itália\nℹ️ Status: Co
- nfirmado\n🔗 Fonte oficial: https://www.acisport.it/it/F4/calendario-e-r
- isultati/2026/8294/mugello/elenco-iscritti-tabella-tempi-e-distanze-mappe-
- cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-u
- fficiali\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ — rodada 4 — Corrida 1 — grupos B–C — rodada 4 — Corrida 1 —
+  grupos B–C — rodada 4 — Corrida 1 — grupos B–C — rodada 4 —
+  Corrida 1 — grupos B–C — rodada 4 — Corrida 1 — grupos B–C\n
+ 🏟️ Local: Mugello Circuit\n🌎 Cidade/País: Scarperia e San Piero 
+ — Itália\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.ac
+ isport.it/it/F4/calendario-e-risultati/2026/8294/mugello/elenco-iscritti-t
+ abella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-perc
+ orso-programma-e-classifiche-ufficiali\n🕒 Última verificação: 21/07/
+ 2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Mugello Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -37,23 +40,26 @@ BEGIN:VEVENT
 SUMMARY:F4 Italiana — Mugello | Corrida 2 — Grupos A–B
 DTSTART;TZID=America/Sao_Paulo:20260725T121000
 DTEND;TZID=America/Sao_Paulo:20260725T124500
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:d6c597e3d157eeb18e018363d99896d3734395230ad451975480dc5342e9eb22@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Automobilismo,F4 Italiana,automobilismo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: canal oficial Italian F4 | E4 Cha
  mpionship no YouTube\n🏆 Competição: Italian F.4 Championship 2026\n
  📍 Fase/Rodada: rodada 4 — Corrida 2 — grupos A–B — rodada 4 —
   Corrida 2 — grupos A–B — rodada 4 — Corrida 2 — grupos A–B 
- — rodada 4 — Corrida 2 — grupos A–B\n🏟️ Local: Mugello Circui
- t\n🌎 Cidade/País: Scarperia e San Piero — Itália\nℹ️ Status: Co
- nfirmado\n🔗 Fonte oficial: https://www.acisport.it/it/F4/calendario-e-r
- isultati/2026/8294/mugello/elenco-iscritti-tabella-tempi-e-distanze-mappe-
- cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-u
- fficiali\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ — rodada 4 — Corrida 2 — grupos A–B — rodada 4 — Corrida 2 —
+  grupos A–B — rodada 4 — Corrida 2 — grupos A–B — rodada 4 —
+  Corrida 2 — grupos A–B — rodada 4 — Corrida 2 — grupos A–B\n
+ 🏟️ Local: Mugello Circuit\n🌎 Cidade/País: Scarperia e San Piero 
+ — Itália\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.ac
+ isport.it/it/F4/calendario-e-risultati/2026/8294/mugello/elenco-iscritti-t
+ abella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-perc
+ orso-programma-e-classifiche-ufficiali\n🕒 Última verificação: 21/07/
+ 2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Mugello Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -65,23 +71,26 @@ BEGIN:VEVENT
 SUMMARY:F4 Italiana — Mugello | Corrida 3 — Grupos A–C
 DTSTART;TZID=America/Sao_Paulo:20260726T040000
 DTEND;TZID=America/Sao_Paulo:20260726T043500
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:77c39683dc27058a94e4b486714c557b3b5d42299c5121e4046c24130761f51f@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Automobilismo,F4 Italiana,automobilismo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: canal oficial Italian F4 | E4 Cha
  mpionship no YouTube\n🏆 Competição: Italian F.4 Championship 2026\n
  📍 Fase/Rodada: rodada 4 — Corrida 3 — grupos A–C — rodada 4 —
   Corrida 3 — grupos A–C — rodada 4 — Corrida 3 — grupos A–C 
- — rodada 4 — Corrida 3 — grupos A–C\n🏟️ Local: Mugello Circui
- t\n🌎 Cidade/País: Scarperia e San Piero — Itália\nℹ️ Status: Co
- nfirmado\n🔗 Fonte oficial: https://www.acisport.it/it/F4/calendario-e-r
- isultati/2026/8294/mugello/elenco-iscritti-tabella-tempi-e-distanze-mappe-
- cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-u
- fficiali\n🕒 Última verificação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ — rodada 4 — Corrida 3 — grupos A–C — rodada 4 — Corrida 3 —
+  grupos A–C — rodada 4 — Corrida 3 — grupos A–C — rodada 4 —
+  Corrida 3 — grupos A–C — rodada 4 — Corrida 3 — grupos A–C\n
+ 🏟️ Local: Mugello Circuit\n🌎 Cidade/País: Scarperia e San Piero 
+ — Itália\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.ac
+ isport.it/it/F4/calendario-e-risultati/2026/8294/mugello/elenco-iscritti-t
+ abella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-perc
+ orso-programma-e-classifiche-ufficiali\n🕒 Última verificação: 21/07/
+ 2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Mugello Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -93,23 +102,25 @@ BEGIN:VEVENT
 SUMMARY:F4 Italiana — Mugello | Corrida 4 — Final
 DTSTART;TZID=America/Sao_Paulo:20260726T105000
 DTEND;TZID=America/Sao_Paulo:20260726T112500
-DTSTAMP:20260721T090713Z
+DTSTAMP:20260721T150203Z
 UID:24915d9e3ce6a8b03f12231b3a7b27aa39ada06d4e0f9c1d3ae1539e423eb739@sport
  s-calendar-hub
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Automobilismo,F4 Italiana,automobilismo
-CREATED:20260721T090713Z
+CREATED:20260721T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: canal oficial Italian F4 | E4 Cha
  mpionship no YouTube\n🏆 Competição: Italian F.4 Championship 2026\n
  📍 Fase/Rodada: rodada 4 — Corrida 4 — Final — rodada 4 — Corrid
+ a 4 — Final — rodada 4 — Corrida 4 — Final — rodada 4 — Corrid
+ a 4 — Final — rodada 4 — Corrida 4 — Final — rodada 4 — Corrid
  a 4 — Final — rodada 4 — Corrida 4 — Final — rodada 4 — Corrid
  a 4 — Final\n🏟️ Local: Mugello Circuit\n🌎 Cidade/País: Scarperi
  a e San Piero — Itália\nℹ️ Status: Confirmado\n🔗 Fonte oficial: 
  https://www.acisport.it/it/F4/calendario-e-risultati/2026/8294/mugello/ele
  nco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusu
  ra-strade-percorso-programma-e-classifiche-ufficiali\n🕒 Última verific
- ação: 21/07/2026 06:07 -03
-LAST-MODIFIED:20260721T090713Z
+ ação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
 LOCATION:Mugello Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

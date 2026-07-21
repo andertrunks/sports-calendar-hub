@@ -5,4 +5,73 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Competições continentais
 X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Futebol — Universidad Central x Santos | Copa Sul-Americana — 
+ Playoffs — Ida
+DTSTART;TZID=America/Sao_Paulo:20260721T213000
+DTEND;TZID=America/Sao_Paulo:20260722T000000
+DTSTAMP:20260721T150203Z
+UID:083896234e06305fdd503b3fac7a4623d0c024050db507771776d39355731e67@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,continentais
+CREATED:20260721T150203Z
+DESCRIPTION:📺 Transmissão no Brasil: SBT\, ESPN e Disney+\n🏆 Compet
+ ição: CONMEBOL Copa Sul-Americana 2026\n📍 Fase/Rodada: playoffs das o
+ itavas de final — jogo de ida\n🏟️ Local: Estádio Polideportivo Mis
+ ael Delgado\n🌎 Cidade/País: Valencia\, Venezuela\nℹ️ Status: Confi
+ rmado\n🔗 Fonte oficial: https://www.santosfc.com.br/\n🕒 Última veri
+ ficação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
+LOCATION:Estádio Polideportivo Misael Delgado
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.santosfc.com.br/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Independiente Medellín x Vasco | Copa Sul-Americana 
+ — Playoffs — Ida
+DTSTART;TZID=America/Sao_Paulo:20260722T190000
+DTEND;TZID=America/Sao_Paulo:20260722T213000
+DTSTAMP:20260721T150203Z
+UID:655b3a2561ace141de903bb9639f767e3755006912b053c69cab9841c18ea774@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,continentais
+CREATED:20260721T150203Z
+DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+ Premium\n🏆 Comp
+ etição: CONMEBOL Copa Sul-Americana 2026\n📍 Fase/Rodada: playoffs das
+  oitavas de final — jogo de ida\n🏟️ Local: Estádio Atanasio Girard
+ ot\n🌎 Cidade/País: Medellín\, Colômbia\nℹ️ Status: Confirmado\n
+ 🔗 Fonte oficial: https://gol.conmebol.com/sudamericana/es/fixture/view/
+ 1539\n🕒 Última verificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
+LOCATION:Estádio Atanasio Girardot
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://gol.conmebol.com/sudamericana/es/fixture/view/1539
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Bolívar x Grêmio | Copa Sul-Americana — Playoffs 
+ — Ida
+DTSTART;TZID=America/Sao_Paulo:20260723T190000
+DTEND;TZID=America/Sao_Paulo:20260723T213000
+DTSTAMP:20260721T150203Z
+UID:04ad587106c8c2a668e094e7c04470b4f5d90d0c7b86726069e454ae3d2bae6c@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,continentais
+CREATED:20260721T150203Z
+DESCRIPTION:📺 Transmissão no Brasil: Paramount+\n🏆 Competição: CO
+ NMEBOL Copa Sul-Americana 2026\n📍 Fase/Rodada: playoffs das oitavas de 
+ final — jogo de ida\n🏟️ Local: Estádio Hernando Siles\n🌎 Cidade
+ /País: La Paz\, Bolívia\nℹ️ Status: Confirmado\n🔗 Fonte oficial: 
+ https://gol.conmebol.com/sudamericana/es/fixture/view/1545\n🕒 Última v
+ erificação: 21/07/2026 12:02 -03
+LAST-MODIFIED:20260721T150203Z
+LOCATION:Estádio Hernando Siles
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://gol.conmebol.com/sudamericana/es/fixture/view/1545
+END:VEVENT
 END:VCALENDAR
