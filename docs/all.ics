@@ -9,20 +9,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Atlético-MG x Bahia | Brasileirão — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260721T193000
 DTEND;TZID=America/Sao_Paulo:20260721T220000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:8aff5b3c38bb5cd1113516eac0f9092899b2aa938859f61e31781e3da6c4342a@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 19 — fase única — rodada 19\n🏟️ Local: Arena MRV\n
- 🌎 Cidade/País: Belo Horizonte — MG — Brasil\nℹ️ Status: Confir
- mado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabela
- s/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Ú
- ltima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 19 — fase única — rodada 19 — fase única — rodada 19 
+ — fase única — rodada 19\n🏟️ Local: Arena MRV\n🌎 Cidade/País
+ : Belo Horizonte — MG — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte 
+ oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bras
+ ileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena MRV
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -34,20 +35,21 @@ SUMMARY:Futebol feminino — Vasco x São Paulo | Copa do Brasil — 4ª f
  ase
 DTSTART;TZID=America/Sao_Paulo:20260721T214500
 DTEND;TZID=America/Sao_Paulo:20260722T001500
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:017df6a58ed0968204b33d5b382e36a4ea08ec9b24d48eceb11936c948ee05f7@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV\n🏆 Competição: Copa d
  o Brasil Feminina 2026\n📍 Fase/Rodada: 4ª fase — jogo único — 4ª
-  fase — jogo único\n🏟️ Local: Estádio Raulino de Oliveira\n🌎 C
- idade/País: Volta Redonda — RJ — Brasil\nℹ️ Status: Confirmado\n
- 🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/jogos/copa-d
- o-brasil/feminino/2026/vasco-da-gama-saf-x-sao-paulo/834961\n🕒 Última 
- verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+  fase — jogo único — 4ª fase — jogo único — 4ª fase — jogo 
+ único\n🏟️ Local: Estádio Raulino de Oliveira\n🌎 Cidade/País: Vo
+ lta Redonda — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofici
+ al: https://www.cbf.com.br/futebol-brasileiro/jogos/copa-do-brasil/feminin
+ o/2026/vasco-da-gama-saf-x-sao-paulo/834961\n🕒 Última verificação: 2
+ 1/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Raulino de Oliveira
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59,20 +61,20 @@ SUMMARY:Vôlei feminino — Brasil x Japão | Liga das Nações — Quarta
  s de final
 DTSTART;TZID=America/Sao_Paulo:20260722T083000
 DTEND;TZID=America/Sao_Paulo:20260722T110000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:9cbc0d3f8e13cdd412fc224113f5301eafe25335d8fe853fdbd5150b4442901f@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Vôlei,Feminino profissional,selecao-brasileira
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: sportv 2\, ge tv e VBTV\n🏆 Com
  petição: Liga das Nações de Vôlei Feminina 2026\n📍 Fase/Rodada: qu
- artas de final — jogo único\n🏟️ Local: Macau East Asian Games Dome
- \n🌎 Cidade/País: Macau\, China\nℹ️ Status: Confirmado\n🔗 Fonte 
- oficial: https://br.volleyballworld.com/volleyball/competitions/volleyball
- -nations-league/news/tabela-das-finais-da-vnl-confirmada\n🕒 Última ver
- ificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ artas de final — jogo único — quartas de final — jogo único\n🏟
+ ️ Local: Macau East Asian Games Dome\n🌎 Cidade/País: Macau — China
+ \nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://br.volleyballworl
+ d.com/volleyball/competitions/volleyball-nations-league/news/tabela-das-fi
+ nais-da-vnl-confirmada\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Macau East Asian Games Dome
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -84,19 +86,20 @@ SUMMARY:Futebol masculino sub-17 — São Paulo x Atlético-MG | Brasileir
  o Sub-17
 DTSTART;TZID=America/Sao_Paulo:20260722T150000
 DTEND;TZID=America/Sao_Paulo:20260722T173000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:c23829f03e536581c5a564057bb8b6472bd03ee8bd966c0681cc1202f8fda2e2@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino sub-17,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Sub-17 2026\n📍 Fase/Rodada: fase classif
- icatória — fase classificatória\n🏟️ Local: Estádio Bruno José D
- aniel\n🌎 Cidade/País: Santo André — SP — Brasil\nℹ️ Status: C
- onfirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/calendario-de-jo
- gos-base-masculino/\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ icatória — fase classificatória — fase classificatória — fase cla
+ ssificatória\n🏟️ Local: Estádio Bruno José Daniel\n🌎 Cidade/Pa
+ ís: Santo André — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte
+  oficial: https://www.saopaulofc.net/calendario-de-jogos-base-masculino/\n
+ 🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Bruno José Daniel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -106,20 +109,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Coritiba x Palmeiras | Brasileirão — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260722T193000
 DTEND;TZID=America/Sao_Paulo:20260722T220000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:db498fec0270c6d7eee929a4c7837641644de7c6e73231a3f824530c2e4b2645@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
  ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 19 — fase única — rodada 19\n🏟️ Local: Couto Pereira\
- n🌎 Cidade/País: Curitiba — PR — Brasil\nℹ️ Status: Confirmado\
- n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/jogos/campe
- onato-brasileiro/serie-a/2026/coritiba-saf-x-palmeiras/832077\n🕒 Últim
- a verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 19 — fase única — rodada 19 — fase única — rodada 19 
+ — fase única — rodada 19\n🏟️ Local: Couto Pereira\n🌎 Cidade/P
+ aís: Curitiba — PR — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte of
+ icial: https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasilei
+ ro/serie-a/2026/coritiba-saf-x-palmeiras/832077\n🕒 Última verificaçã
+ o: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Couto Pereira
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -130,20 +134,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Chapecoense x Flamengo | Brasileirão — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260722T213000
 DTEND;TZID=America/Sao_Paulo:20260723T000000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:c33722ba918dc16ffa0b3f1cba529ea8996e3ec52217f1242892457aff67b49d@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 19 — fase única — rodada 19\n🏟️ Local: Arena Condá\n
- 🌎 Cidade/País: Chapecó — SC — Brasil\nℹ️ Status: Confirmado\n
- 🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/camp
- eonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última 
- verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 19 — fase única — rodada 19 — fase única — rodada 19 
+ — fase única — rodada 19\n🏟️ Local: Arena Condá\n🌎 Cidade/Pa
+ ís: Chapecó — SC — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
+ cial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasile
+ iro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação:
+  21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena Condá
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -154,20 +159,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Internacional x Cruzeiro | Brasileirão — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260722T213000
 DTEND;TZID=America/Sao_Paulo:20260723T000000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:3fa05dd2187cc3a4c1296ee6dbe962e341bd10b36fb3d09bf25ecfdbed148e14@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 19 — fase única — rodada 19\n🏟️ Local: Beira-Rio\n
- 🌎 Cidade/País: Porto Alegre — RS — Brasil\nℹ️ Status: Confirma
- do\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/
- campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Últ
- ima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 19 — fase única — rodada 19 — fase única — rodada 19 
+ — fase única — rodada 19\n🏟️ Local: Beira-Rio\n🌎 Cidade/País
+ : Porto Alegre — RS — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte of
+ icial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasil
+ eiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação
+ : 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Beira-Rio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -178,20 +184,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — São Paulo x Athletico-PR | Brasileirão — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260722T213000
 DTEND;TZID=America/Sao_Paulo:20260722T233000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:48bd7c54d24807941aa92856109d5f066264d6b4073bb59b9bb28ea116c74f03@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: GE TV\, Globo e Premiere\n🏆 Co
  mpetição: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase ú
- nica — rodada 19 — fase única — rodada 19\n🏟️ Local: Estádio 
- Cícero de Souza Marques\n🌎 Cidade/País: Bragança Paulista — SP —
-  Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.co
- m.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documen
- to=Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ nica — rodada 19 — fase única — rodada 19 — fase única — rodad
+ a 19 — fase única — rodada 19\n🏟️ Local: Estádio Cícero de Sou
+ za Marques\n🌎 Cidade/País: Bragança Paulista — SP — Brasil\nℹ
+ ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol
+ -brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20
+ Detalhada\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Cícero de Souza Marques
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -202,20 +209,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Corinthians x Remo | Brasileirão — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260723T193000
 DTEND;TZID=America/Sao_Paulo:20260723T220000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:08e6e738e9eed060e4ab12c160030f05cc00725a0450baac737284de3908fd83@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 19 — fase única — rodada 19\n🏟️ Local: Neo Química A
- rena\n🌎 Cidade/País: São Paulo — SP — Brasil\nℹ️ Status: Conf
- irmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabe
- las/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 
- Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 19 — fase única — rodada 19 — fase única — rodada 19 
+ — fase única — rodada 19\n🏟️ Local: Neo Química Arena\n🌎 Cid
+ ade/País: São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 F
+ onte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato
+ -brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verifi
+ cação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Neo Química Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -226,19 +234,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Botafogo-SP x Juventude | Série B — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260723T213000
 DTEND;TZID=America/Sao_Paulo:20260724T000000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:f825524fb56290b95131de36081619b5b4985b103f98dd075692846683fcca56@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN\, Disney+\, SportyNet e Xspo
  rts\n🏆 Competição: Campeonato Brasileiro Série B 2026\n📍 Fase/Rod
- ada: fase única — rodada 19 — fase única — rodada 19\n🏟️ Loca
- l: Estádio Santa Cruz / Arena Nicnet\n🌎 Cidade/País: Ribeirão Preto 
- — SP — Brasil\nℹ️ Status: Confirmado\n🕒 Última verificação: 
- 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ ada: fase única — rodada 19 — fase única — rodada 19 — fase úni
+ ca — rodada 19 — fase única — rodada 19\n🏟️ Local: Estádio Sa
+ nta Cruz / Arena Nicnet\n🌎 Cidade/País: Ribeirão Preto — SP — Bra
+ sil\nℹ️ Status: Confirmado\n🕒 Última verificação: 21/07/2026 06:
+ 07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Santa Cruz / Arena Nicnet
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -248,20 +257,20 @@ SUMMARY:Futebol feminino — Cruzeiro x São Paulo | Brasileirão A1 — R
  odada 13
 DTSTART;TZID=America/Sao_Paulo:20260724T213000
 DTEND;TZID=America/Sao_Paulo:20260725T000000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:ed1e2861041e673373d2081d46cdb66b22172204a1bdf8139c3436740192b44d@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV\n🏆 Competição: Campeo
  nato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: 1ª fase — rodada 13
-  — 1ª fase — rodada 13\n🏟️ Local: Arena do Jacaré\n🌎 Cidade/
- País: Sete Lagoas — MG — Brasil\nℹ️ Status: Confirmado\n🔗 Font
- e oficial: https://www.cbf.com.br/futebol-brasileiro/jogos/brasileiro-femi
- nino/a-1/2026/cruzeiro-x-sao-paulo/832386\n🕒 Última verificação: 20/
- 07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+  — 1ª fase — rodada 13 — 1ª fase — rodada 13 — 1ª fase — ro
+ dada 13\n🏟️ Local: Arena do Jacaré\n🌎 Cidade/País: Sete Lagoas 
+ — MG — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://
+ www.cbf.com.br/futebol-brasileiro/jogos/brasileiro-feminino/a-1/2026/cruze
+ iro-x-sao-paulo/832386\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena do Jacaré
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -272,22 +281,23 @@ BEGIN:VEVENT
 SUMMARY:F4 Italiana — Mugello | Corrida 1 — Grupos B–C
 DTSTART;TZID=America/Sao_Paulo:20260725T061000
 DTEND;TZID=America/Sao_Paulo:20260725T064500
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:c5da113f978f7aa6584925e9598036bf2dbd44a5a50e3dbdc620b0561aa42ff1@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Automobilismo,F4 Italiana,automobilismo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: canal oficial Italian F4 | E4 Cha
  mpionship no YouTube\n🏆 Competição: Italian F.4 Championship 2026\n
  📍 Fase/Rodada: rodada 4 — Corrida 1 — grupos B–C — rodada 4 —
-  Corrida 1 — grupos B–C\n🏟️ Local: Mugello Circuit\n🌎 Cidade/P
- aís: Scarperia e San Piero — Itália\nℹ️ Status: Confirmado\n🔗 F
- onte oficial: https://www.acisport.it/it/F4/calendario-e-risultati/2026/82
- 94/mugello/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultat
- i-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali\n🕒 
- Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+  Corrida 1 — grupos B–C — rodada 4 — Corrida 1 — grupos B–C 
+ — rodada 4 — Corrida 1 — grupos B–C\n🏟️ Local: Mugello Circui
+ t\n🌎 Cidade/País: Scarperia e San Piero — Itália\nℹ️ Status: Co
+ nfirmado\n🔗 Fonte oficial: https://www.acisport.it/it/F4/calendario-e-r
+ isultati/2026/8294/mugello/elenco-iscritti-tabella-tempi-e-distanze-mappe-
+ cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-u
+ fficiali\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Mugello Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -299,22 +309,23 @@ BEGIN:VEVENT
 SUMMARY:F4 Italiana — Mugello | Corrida 2 — Grupos A–B
 DTSTART;TZID=America/Sao_Paulo:20260725T121000
 DTEND;TZID=America/Sao_Paulo:20260725T124500
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:d6c597e3d157eeb18e018363d99896d3734395230ad451975480dc5342e9eb22@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Automobilismo,F4 Italiana,automobilismo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: canal oficial Italian F4 | E4 Cha
  mpionship no YouTube\n🏆 Competição: Italian F.4 Championship 2026\n
  📍 Fase/Rodada: rodada 4 — Corrida 2 — grupos A–B — rodada 4 —
-  Corrida 2 — grupos A–B\n🏟️ Local: Mugello Circuit\n🌎 Cidade/P
- aís: Scarperia e San Piero — Itália\nℹ️ Status: Confirmado\n🔗 F
- onte oficial: https://www.acisport.it/it/F4/calendario-e-risultati/2026/82
- 94/mugello/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultat
- i-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali\n🕒 
- Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+  Corrida 2 — grupos A–B — rodada 4 — Corrida 2 — grupos A–B 
+ — rodada 4 — Corrida 2 — grupos A–B\n🏟️ Local: Mugello Circui
+ t\n🌎 Cidade/País: Scarperia e San Piero — Itália\nℹ️ Status: Co
+ nfirmado\n🔗 Fonte oficial: https://www.acisport.it/it/F4/calendario-e-r
+ isultati/2026/8294/mugello/elenco-iscritti-tabella-tempi-e-distanze-mappe-
+ cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-u
+ fficiali\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Mugello Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -327,18 +338,18 @@ SUMMARY:Futebol — SV Oberwart x Red Bull Salzburg | Copa da Áustria —
   1ª rodada
 DTSTART;TZID=America/Sao_Paulo:20260725T130000
 DTEND;TZID=America/Sao_Paulo:20260725T153000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:d8c949d5f139b586f8b6f93ab0410f726ea6acb102de25ea2357e1858ec0c8c4@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: UNIQA ÖFB Cup 2026/27\n📍 Fase/Rodada: 1ª rodada — 1ª roda
- da\n🏟️ Local: Informstadion\n🌎 Cidade/País: Oberwart — Áustria
- \nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 18:05 
- -03
-LAST-MODIFIED:20260720T210532Z
+ da — 1ª rodada — 1ª rodada\n🏟️ Local: Informstadion\n🌎 Cidad
+ e/País: Oberwart — Áustria\nℹ️ Status: Confirmado\n🕒 Última ve
+ rificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Informstadion
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -348,19 +359,20 @@ SUMMARY:Futebol — Portuguesa-SP x Uberlândia | Série D — Oitavas de
  final — Volta
 DTSTART;TZID=America/Sao_Paulo:20260725T160000
 DTEND;TZID=America/Sao_Paulo:20260725T183000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:d29558f19a4fa9c4a89e6a533ae84c864f46b3a4afc294371d166454f4cd828a@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série D 2026\n📍 Fase/Rodada: oitavas de
-  final — jogo de volta — oitavas de final — jogo de volta\n🏟️ L
- ocal: Estádio do Canindé\n🌎 Cidade/País: São Paulo — SP — Brasi
- l\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 18:05
-  -03
-LAST-MODIFIED:20260720T210532Z
+  final — jogo de volta — oitavas de final — jogo de volta — oitava
+ s de final — jogo de volta — oitavas de final — jogo de volta\n🏟
+ ️ Local: Estádio do Canindé\n🌎 Cidade/País: São Paulo — SP — 
+ Brasil\nℹ️ Status: Confirmado\n🕒 Última verificação: 21/07/2026 
+ 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio do Canindé
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -370,20 +382,21 @@ SUMMARY:Futebol — Athletico-PR x Internacional | Brasileirão — Rodada
   20
 DTSTART;TZID=America/Sao_Paulo:20260725T183000
 DTEND;TZID=America/Sao_Paulo:20260725T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:25d222c1236186c81262cc303489e23cfd0112881b40857e8d6bd4e4fe04cb69@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
  ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 20 — fase única — rodada 20\n🏟️ Local: Arena da Baixa
- da\n🌎 Cidade/País: Curitiba — PR — Brasil\nℹ️ Status: Confirma
- do\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/
- campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Últ
- ima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 20 — fase única — rodada 20 — fase única — rodada 20 
+ — fase única — rodada 20\n🏟️ Local: Arena da Baixada\n🌎 Cidad
+ e/País: Curitiba — PR — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte
+  oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bra
+ sileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena da Baixada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -394,20 +407,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Santos x Chapecoense | Brasileirão — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260725T183000
 DTEND;TZID=America/Sao_Paulo:20260725T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:1354d0b93bca195562399ca13804881124cb854ffa7a8d62a7306fa260f14b2d@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 20 — fase única — rodada 20\n🏟️ Local: Vila Belmiro\n
- 🌎 Cidade/País: Santos — SP — Brasil\nℹ️ Status: Confirmado\n
- 🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/camp
- eonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última 
- verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 20 — fase única — rodada 20 — fase única — rodada 20 
+ — fase única — rodada 20\n🏟️ Local: Vila Belmiro\n🌎 Cidade/Pa
+ ís: Santos — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofici
+ al: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 2
+ 1/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Vila Belmiro
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -418,18 +432,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — New York Red Bulls x Charlotte FC | MLS
 DTSTART;TZID=America/Sao_Paulo:20260725T203000
 DTEND;TZID=America/Sao_Paulo:20260725T230000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:f45675693c0e0e8b4cce4b6b9de9f5e4dc11071ec5e140a595ce1d7f6b6c09e1@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Apple TV\n🏆 Competição: Majo
  r League Soccer 2026\n📍 Fase/Rodada: temporada regular — temporada re
- gular\n🏟️ Local: Sports Illustrated Stadium\n🌎 Cidade/País: Harri
- son — NJ — Estados Unidos\nℹ️ Status: Confirmado\n🕒 Última ver
- ificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ gular — temporada regular — temporada regular\n🏟️ Local: Sports I
+ llustrated Stadium\n🌎 Cidade/País: Harrison — NJ — Estados Unidos\
+ nℹ️ Status: Confirmado\n🕒 Última verificação: 21/07/2026 06:07 -
+ 03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Sports Illustrated Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -438,20 +453,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Vasco x Mirassol | Brasileirão — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260725T203000
 DTEND;TZID=America/Sao_Paulo:20260725T230000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:e163a93b5c6bfc4e09fd86a061254c2e75cbbfc9d0e4acdd0c313bdc6ea2e45f@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Record\, CazéTV no YouTube e Pre
  miere\n🏆 Competição: Campeonato Brasileiro Série A 2026\n📍 Fase/R
- odada: fase única — rodada 20 — fase única — rodada 20\n🏟️ Lo
- cal: São Januário\n🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\n
- ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/fute
- bol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela
- %20Detalhada\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ odada: fase única — rodada 20 — fase única — rodada 20 — fase ú
+ nica — rodada 20 — fase única — rodada 20\n🏟️ Local: São Janu
+ ário\n🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️ Status:
+  Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro
+ /tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n
+ 🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:São Januário
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -462,22 +478,23 @@ BEGIN:VEVENT
 SUMMARY:F4 Italiana — Mugello | Corrida 3 — Grupos A–C
 DTSTART;TZID=America/Sao_Paulo:20260726T040000
 DTEND;TZID=America/Sao_Paulo:20260726T043500
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:77c39683dc27058a94e4b486714c557b3b5d42299c5121e4046c24130761f51f@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Automobilismo,F4 Italiana,automobilismo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: canal oficial Italian F4 | E4 Cha
  mpionship no YouTube\n🏆 Competição: Italian F.4 Championship 2026\n
  📍 Fase/Rodada: rodada 4 — Corrida 3 — grupos A–C — rodada 4 —
-  Corrida 3 — grupos A–C\n🏟️ Local: Mugello Circuit\n🌎 Cidade/P
- aís: Scarperia e San Piero — Itália\nℹ️ Status: Confirmado\n🔗 F
- onte oficial: https://www.acisport.it/it/F4/calendario-e-risultati/2026/82
- 94/mugello/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultat
- i-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali\n🕒 
- Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+  Corrida 3 — grupos A–C — rodada 4 — Corrida 3 — grupos A–C 
+ — rodada 4 — Corrida 3 — grupos A–C\n🏟️ Local: Mugello Circui
+ t\n🌎 Cidade/País: Scarperia e San Piero — Itália\nℹ️ Status: Co
+ nfirmado\n🔗 Fonte oficial: https://www.acisport.it/it/F4/calendario-e-r
+ isultati/2026/8294/mugello/elenco-iscritti-tabella-tempi-e-distanze-mappe-
+ cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-u
+ fficiali\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Mugello Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -489,19 +506,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Juventus-SP x Paulista | Copa Paulista — Rodada 2
 DTSTART;TZID=America/Sao_Paulo:20260726T100000
 DTEND;TZID=America/Sao_Paulo:20260726T123000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:316c13d1f1fe7986e69e3a3d45f2e4b1ae3538b1676078617a20b5ffefa0bbb5@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 2 
- — primeira fase — rodada 2\n🏟️ Local: Rua Javari\n🌎 Cidade/Pa
- ís: São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte o
- ficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647
- \n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — primeira fase — rodada 2 — primeira fase — rodada 2 — primeira
+  fase — rodada 2\n🏟️ Local: Rua Javari\n🌎 Cidade/País: São Pau
+ lo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https
+ ://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Últim
+ a verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Rua Javari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -511,22 +529,23 @@ BEGIN:VEVENT
 SUMMARY:F4 Italiana — Mugello | Corrida 4 — Final
 DTSTART;TZID=America/Sao_Paulo:20260726T105000
 DTEND;TZID=America/Sao_Paulo:20260726T112500
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:24915d9e3ce6a8b03f12231b3a7b27aa39ada06d4e0f9c1d3ae1539e423eb739@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Automobilismo,F4 Italiana,automobilismo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: canal oficial Italian F4 | E4 Cha
  mpionship no YouTube\n🏆 Competição: Italian F.4 Championship 2026\n
  📍 Fase/Rodada: rodada 4 — Corrida 4 — Final — rodada 4 — Corrid
+ a 4 — Final — rodada 4 — Corrida 4 — Final — rodada 4 — Corrid
  a 4 — Final\n🏟️ Local: Mugello Circuit\n🌎 Cidade/País: Scarperi
  a e San Piero — Itália\nℹ️ Status: Confirmado\n🔗 Fonte oficial: 
  https://www.acisport.it/it/F4/calendario-e-risultati/2026/8294/mugello/ele
  nco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusu
  ra-strade-percorso-programma-e-classifiche-ufficiali\n🕒 Última verific
- ação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ ação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Mugello Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -539,19 +558,19 @@ SUMMARY:Futebol masculino sub-20 — São Paulo x Osasco Sporting | Paulis
  tão Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260726T150000
 DTEND;TZID=America/Sao_Paulo:20260726T173000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:0ee2a6e7fc34ca0818c778ac6d126a3947715c7914477b35320a9236a63bd15b@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase 
- — primeira fase\n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Coti
- a — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:
- //www.saopaulofc.net/fpf-divulga-tabela-do-paulista-sub-20/\n🕒 Última 
- verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — primeira fase — primeira fase — primeira fase\n🏟️ Local: CFA 
+ Laudo Natel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Co
+ nfirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/fpf-divulga-tabel
+ a-do-paulista-sub-20/\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -561,20 +580,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Bahia x Corinthians | Brasileirão — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260726T160000
 DTEND;TZID=America/Sao_Paulo:20260726T183000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:3eaaa14dfa948d19efc0295478cbdc5391df3aef42731bc546d871a0d762f63f@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: GE TV\, Globo e Premiere\n🏆 Co
  mpetição: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase ú
- nica — rodada 20 — fase única — rodada 20\n🏟️ Local: Arena Fon
- te Nova\n🌎 Cidade/País: Salvador — BA — Brasil\nℹ️ Status: Con
- firmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tab
- elas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒
-  Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ nica — rodada 20 — fase única — rodada 20 — fase única — rodad
+ a 20 — fase única — rodada 20\n🏟️ Local: Arena Fonte Nova\n🌎 
+ Cidade/País: Salvador — BA — Brasil\nℹ️ Status: Confirmado\n🔗 
+ Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonat
+ o-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verif
+ icação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena Fonte Nova
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -585,20 +605,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Cruzeiro x Botafogo | Brasileirão — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260726T160000
 DTEND;TZID=America/Sao_Paulo:20260726T183000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:936753d4fc1b984b33ed49670726bc157ec698530c1c77ed8e8f972d06b25169@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 20 — fase única — rodada 20\n🏟️ Local: Mineirão\n
- 🌎 Cidade/País: Belo Horizonte — MG — Brasil\nℹ️ Status: Confir
- mado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabela
- s/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Ú
- ltima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 20 — fase única — rodada 20 — fase única — rodada 20 
+ — fase única — rodada 20\n🏟️ Local: Mineirão\n🌎 Cidade/País
+ : Belo Horizonte — MG — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte 
+ oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bras
+ ileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Mineirão
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -609,20 +630,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Flamengo x São Paulo | Brasileirão — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260726T183000
 DTEND;TZID=America/Sao_Paulo:20260726T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:d2870c8e9532db717cc7bc8fd340c6f46024ea527abe2c67708c0a2153cd62fc@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 20 — fase única — rodada 20\n🏟️ Local: Maracanã\n🌎 Cidade/Pa
- ís: Rio de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fon
- te oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-b
- rasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verifica
- ção: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 20 — fase única — rodada 20 — fase única — rodada 20 — fase ú
+ nica — rodada 20\n🏟️ Local: Maracanã\n🌎 Cidade/País: Rio de Ja
+ neiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
+ tps://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/seri
+ e-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21/07/2
+ 026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Maracanã
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -633,20 +655,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Grêmio x Fluminense | Brasileirão — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260726T183000
 DTEND;TZID=America/Sao_Paulo:20260726T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:4104d338a152004857e0c605abb76f52f9ce55cab6f7c019273f34a6d243ec90@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 20 — fase única — rodada 20\n🏟️ Local: Arena do Grêmio\n🌎 Ci
- dade/País: Porto Alegre — RS — Brasil\nℹ️ Status: Confirmado\n
- 🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/camp
- eonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última 
- verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 20 — fase única — rodada 20 — fase única — rodada 20 — fase ú
+ nica — rodada 20\n🏟️ Local: Arena do Grêmio\n🌎 Cidade/País: Po
+ rto Alegre — RS — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficia
+ l: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro
+ /serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21
+ /07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena do Grêmio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -658,20 +681,21 @@ SUMMARY:Futebol — Red Bull Bragantino x Coritiba | Brasileirão — Roda
  da 20
 DTSTART;TZID=America/Sao_Paulo:20260726T183000
 DTEND;TZID=America/Sao_Paulo:20260726T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:0627bee3e4c9ddbf31a8d9c7ef92b5c0913a54bd4041bc0a3c1b2494a0213422@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 20 — fase única — rodada 20\n🏟️ Local: Estádio Cícero de Souza
-  Marques\n🌎 Cidade/País: Bragança Paulista — SP — Brasil\nℹ️ 
- Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-bra
- sileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Deta
- lhada\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 20 — fase única — rodada 20 — fase única — rodada 20 — fase ú
+ nica — rodada 20\n🏟️ Local: Estádio Cícero de Souza Marques\n🌎
+  Cidade/País: Bragança Paulista — SP — Brasil\nℹ️ Status: Confir
+ mado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabela
+ s/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Ú
+ ltima verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Cícero de Souza Marques
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -682,20 +706,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Palmeiras x Atlético-MG | Brasileirão — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260726T193000
 DTEND;TZID=America/Sao_Paulo:20260726T220000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:0a78da7455c31782de99b354bb94817af1030ea2acf6edda9a6bc01148cf802c@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 20 — fase única — rodada 20\n🏟️ Local: Allianz Parque
- \n🌎 Cidade/País: São Paulo — SP — Brasil\nℹ️ Status: Confirma
- do\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/
- campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Últ
- ima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 20 — fase única — rodada 20 — fase única — rodada 20 
+ — fase única — rodada 20\n🏟️ Local: Allianz Parque\n🌎 Cidade/
+ País: São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte
+  oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bra
+ sileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Allianz Parque
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -706,20 +731,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Remo x Vitória | Brasileirão — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260726T193000
 DTEND;TZID=America/Sao_Paulo:20260726T220000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:787dfc819685c3319ce89460d011c58d5f049eeccf0f54b03c1c287533bb939d@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 20 — fase única — rodada 20\n🏟️ Local: Mangueirão\n🌎 Cidade/
- País: Belém — PA — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
- cial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasile
- iro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação:
-  20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 20 — fase única — rodada 20 — fase única — rodada 20 — fase ú
+ nica — rodada 20\n🏟️ Local: Mangueirão\n🌎 Cidade/País: Belém 
+ — PA — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://
+ www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/20
+ 26?documento=Tabela%20Detalhada\n🕒 Última verificação: 21/07/2026 06
+ :07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Mangueirão
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -730,19 +756,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — São Paulo x Mirassol | Paulistão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260727T190000
 DTEND;TZID=America/Sao_Paulo:20260727T213000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:f5d212ca3350db930d94c9c09dc6c071fd2e458cc1388830712ae5c668dc0296@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: CazéTV\, HBO Max e Record News\n
  🏆 Competição: Campeonato Paulista Feminino 2026\n📍 Fase/Rodada: ro
- dada 5 — rodada 5\n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Co
- tia — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: http
- s://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32803\n🕒 Últi
- ma verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ dada 5 — rodada 5 — rodada 5 — rodada 5\n🏟️ Local: CFA Laudo Na
+ tel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Confirmado
+ \n🔗 Fonte oficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx
+ ?Noticia=32803\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -752,18 +778,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Fortaleza x Botafogo-SP | Série B — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20260728T213500
 DTEND;TZID=America/Sao_Paulo:20260729T000500
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:e6043bf7a18c0097fcec6981bcfe8144c2213eccb9a0c0a37ea17f28bc531668@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: RedeTV!\, ESPN\, Disney+ e Sporty
  Net\n🏆 Competição: Campeonato Brasileiro Série B 2026\n📍 Fase/Rod
- ada: fase única — rodada 20 — fase única — rodada 20\n🏟️ Loca
- l: Arena Castelão\n🌎 Cidade/País: Fortaleza — CE — Brasil\nℹ️
-  Status: Confirmado\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ ada: fase única — rodada 20 — fase única — rodada 20 — fase úni
+ ca — rodada 20 — fase única — rodada 20\n🏟️ Local: Arena Caste
+ lão\n🌎 Cidade/País: Fortaleza — CE — Brasil\nℹ️ Status: Confi
+ rmado\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena Castelão
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -772,20 +799,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Internacional x Flamengo | Brasileirão — Rodada 21
 DTSTART;TZID=America/Sao_Paulo:20260729T193000
 DTEND;TZID=America/Sao_Paulo:20260729T220000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:1138449a95cb80f913364d3be3b261fdf5f193c482bda5820d3ddd2575701f79@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
  ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 21 — fase única — rodada 21\n🏟️ Local: Beira-Rio\n
- 🌎 Cidade/País: Porto Alegre — RS — Brasil\nℹ️ Status: Confirma
- do\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/
- campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Últ
- ima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 21 — fase única — rodada 21 — fase única — rodada 21 
+ — fase única — rodada 21\n🏟️ Local: Beira-Rio\n🌎 Cidade/País
+ : Porto Alegre — RS — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte of
+ icial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasil
+ eiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação
+ : 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Beira-Rio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -796,20 +824,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Mirassol x Remo | Brasileirão — Rodada 21
 DTSTART;TZID=America/Sao_Paulo:20260729T193000
 DTEND;TZID=America/Sao_Paulo:20260729T220000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:720d1dcd72c6415ef8004ba1edb88e2db750e1814c3c7a2a420915d54877eb2b@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 21 — fase única — rodada 21\n🏟️ Local: José Maria de Campos Mai
- a\n🌎 Cidade/País: Mirassol — SP — Brasil\nℹ️ Status: Confirmad
- o\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/c
- ampeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Últi
- ma verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 21 — fase única — rodada 21 — fase única — rodada 21 — fase ú
+ nica — rodada 21\n🏟️ Local: José Maria de Campos Maia\n🌎 Cidade
+ /País: Mirassol — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte 
+ oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bras
+ ileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:José Maria de Campos Maia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -821,18 +850,19 @@ SUMMARY:Futebol — XV de Piracicaba x Comercial-SP | Copa Paulista — Ro
  dada 2
 DTSTART;TZID=America/Sao_Paulo:20260729T200000
 DTEND;TZID=America/Sao_Paulo:20260729T223000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:723b3abc94792eb5dc085db8b2d36a77ab0f5ddfc0f680f85d4b437a3a918392@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Metrópoles Esportes no YouTube\n
  🏆 Competição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase —
-  rodada 2 — primeira fase — rodada 2\n🏟️ Local: Estádio Barão d
- e Serra Negra\n🌎 Cidade/País: Piracicaba — SP — Brasil\nℹ️ Sta
- tus: Confirmado\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+  rodada 2 — primeira fase — rodada 2 — primeira fase — rodada 2 
+ — primeira fase — rodada 2\n🏟️ Local: Estádio Barão de Serra Ne
+ gra\n🌎 Cidade/País: Piracicaba — SP — Brasil\nℹ️ Status: Confi
+ rmado\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Barão de Serra Negra
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -841,20 +871,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Fluminense x Bahia | Brasileirão — Rodada 21
 DTSTART;TZID=America/Sao_Paulo:20260729T213000
 DTEND;TZID=America/Sao_Paulo:20260730T000000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:49e375d1b468d5c8dcc1caab2016be8c276747e7f3638370eb095810b89ea744@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 21 — fase única — rodada 21\n🏟️ Local: Maracanã\n
- 🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️ Status: Confir
- mado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabela
- s/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Ú
- ltima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 21 — fase única — rodada 21 — fase única — rodada 21 
+ — fase única — rodada 21\n🏟️ Local: Maracanã\n🌎 Cidade/País
+ : Rio de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte 
+ oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bras
+ ileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Maracanã
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -865,20 +896,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Vitória x Palmeiras | Brasileirão — Rodada 21
 DTSTART;TZID=America/Sao_Paulo:20260729T213000
 DTEND;TZID=America/Sao_Paulo:20260730T000000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:e0759c085334d70133c2f1c7f9116daed3d0bca750ca6506e905b64d9f948092@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: GE TV\, Globo e Premiere\n🏆 Co
  mpetição: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase ú
- nica — rodada 21 — fase única — rodada 21\n🏟️ Local: Manoel Ba
- rradas\n🌎 Cidade/País: Salvador — BA — Brasil\nℹ️ Status: Conf
- irmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabe
- las/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 
- Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ nica — rodada 21 — fase única — rodada 21 — fase única — rodad
+ a 21 — fase única — rodada 21\n🏟️ Local: Manoel Barradas\n🌎 C
+ idade/País: Salvador — BA — Brasil\nℹ️ Status: Confirmado\n🔗 F
+ onte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato
+ -brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verifi
+ cação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Manoel Barradas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -890,20 +922,21 @@ SUMMARY:Futebol — Corinthians x Athletico-PR | Brasileirão — Rodada 2
  1
 DTSTART;TZID=America/Sao_Paulo:20260730T193000
 DTEND;TZID=America/Sao_Paulo:20260730T220000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:777d726005a02c85c9ba513fd22a8c66f2141f375f732d92ee43a75ed9b60e2d@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\, Record e CazéTV no Yo
  uTube\n🏆 Competição: Campeonato Brasileiro Série A 2026\n📍 Fase/R
- odada: fase única — rodada 21 — fase única — rodada 21\n🏟️ Lo
- cal: Neo Química Arena\n🌎 Cidade/País: São Paulo — SP — Brasil\n
- ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/fute
- bol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela
- %20Detalhada\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ odada: fase única — rodada 21 — fase única — rodada 21 — fase ú
+ nica — rodada 21 — fase única — rodada 21\n🏟️ Local: Neo Quím
+ ica Arena\n🌎 Cidade/País: São Paulo — SP — Brasil\nℹ️ Status:
+  Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro
+ /tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n
+ 🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Neo Química Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -914,20 +947,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Coritiba x Cruzeiro | Brasileirão — Rodada 21
 DTSTART;TZID=America/Sao_Paulo:20260730T213000
 DTEND;TZID=America/Sao_Paulo:20260731T000000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:9a7b1c069ce6f68e8b15ce0973e432c17048c61ecbeaffcfe022023cc4eefc95@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 21 — fase única — rodada 21\n🏟️ Local: Couto Pereira\
- n🌎 Cidade/País: Curitiba — PR — Brasil\nℹ️ Status: Confirmado\
- n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/jogos/campe
- onato-brasileiro/serie-a/2026/coritiba-saf-x-cruzeiro/832097\n🕒 Última
-  verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 21 — fase única — rodada 21 — fase única — rodada 21 
+ — fase única — rodada 21\n🏟️ Local: Couto Pereira\n🌎 Cidade/P
+ aís: Curitiba — PR — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte of
+ icial: https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasilei
+ ro/serie-a/2026/coritiba-saf-x-cruzeiro/832097\n🕒 Última verificação
+ : 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Couto Pereira
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -939,18 +973,18 @@ SUMMARY:Futebol — Red Bull Salzburg x Hartberg | Bundesliga Austríaca
  — Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260801T143000
 DTEND;TZID=America/Sao_Paulo:20260801T170000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:fd8fb9831d691e45ed899f84be06105dfffa2cfc014da6b0da20b11e355ec321@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 1 — rodada
-  1\n🏟️ Local: Red Bull Arena Salzburg\n🌎 Cidade/País: Wals-Siezen
- heim — Áustria\nℹ️ Status: Confirmado\n🕒 Última verificação: 
- 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+  1 — rodada 1 — rodada 1\n🏟️ Local: Red Bull Arena Salzburg\n🌎
+  Cidade/País: Wals-Siezenheim — Áustria\nℹ️ Status: Confirmado\n
+ 🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Red Bull Arena Salzburg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -960,19 +994,19 @@ SUMMARY:Futebol masculino sub-20 — São Paulo x Botafogo-SP | Paulistão
   Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260801T150000
 DTEND;TZID=America/Sao_Paulo:20260801T173000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:6372480ea928fcffe5dcc5627a97e0096da6ca8da55ce08ec1ce81a89c59d8b1@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase 
- — primeira fase\n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Coti
- a — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:
- //www.saopaulofc.net/fpf-divulga-tabela-do-paulista-sub-20/\n🕒 Última 
- verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — primeira fase — primeira fase — primeira fase\n🏟️ Local: CFA 
+ Laudo Natel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Co
+ nfirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/fpf-divulga-tabel
+ a-do-paulista-sub-20/\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -982,18 +1016,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — New York Red Bulls x Orlando City | MLS
 DTSTART;TZID=America/Sao_Paulo:20260801T203000
 DTEND;TZID=America/Sao_Paulo:20260801T230000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:4abcb3be04b778d5aebdf3dcd6dca0106ad7d1a92bc047e48a2841cfbf204e0d@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Apple TV\n🏆 Competição: Majo
  r League Soccer 2026\n📍 Fase/Rodada: temporada regular — temporada re
- gular\n🏟️ Local: Sports Illustrated Stadium\n🌎 Cidade/País: Harri
- son — NJ — Estados Unidos\nℹ️ Status: Confirmado\n🕒 Última ver
- ificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ gular — temporada regular — temporada regular\n🏟️ Local: Sports I
+ llustrated Stadium\n🌎 Cidade/País: Harrison — NJ — Estados Unidos\
+ nℹ️ Status: Confirmado\n🕒 Última verificação: 21/07/2026 06:07 -
+ 03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Sports Illustrated Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1002,20 +1037,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — Vitória x São Paulo | Brasileirão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260801T210000
 DTEND;TZID=America/Sao_Paulo:20260801T233000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:97686456f16422ea6cf12e9f99274a5de41879d6d8fb3e0e6dce7dabae64053d@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: fase in
  icial — rodada não informada na fonte — fase inicial — rodada não 
- informada na fonte\n🏟️ Local: Estádio Manoel Barradas\n🌎 Cidade/P
- aís: Salvador — BA — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte of
- icial: https://www.saopaulofc.net/calendario-de-jogos-femininos/\n🕒 Úl
- tima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ informada na fonte — fase inicial — rodada não informada na fonte —
+  fase inicial — rodada não informada na fonte\n🏟️ Local: Estádio 
+ Manoel Barradas\n🌎 Cidade/País: Salvador — BA — Brasil\nℹ️ Sta
+ tus: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/calendario
+ -de-jogos-femininos/\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Manoel Barradas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1025,19 +1061,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Juventus-SP x Primavera | Copa Paulista — Rodada 3
 DTSTART;TZID=America/Sao_Paulo:20260802T100000
 DTEND;TZID=America/Sao_Paulo:20260802T123000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:f9b97f5ba19e6e5ad9f172dd9a478c4c42bb856a39f9e5c69304bd24d05eac09@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 3 
- — primeira fase — rodada 3\n🏟️ Local: Rua Javari\n🌎 Cidade/Pa
- ís: São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte o
- ficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647
- \n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira
+  fase — rodada 3\n🏟️ Local: Rua Javari\n🌎 Cidade/País: São Pau
+ lo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https
+ ://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Últim
+ a verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Rua Javari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1048,18 +1085,19 @@ SUMMARY:Futebol — Comercial-SP x União São João | Copa Paulista — R
  odada 3
 DTSTART;TZID=America/Sao_Paulo:20260802T160000
 DTEND;TZID=America/Sao_Paulo:20260802T183000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:abd44c6f8cd221e92bfb46e4bfdeb840d23256bc3a7ba3a3b96b7731f34bbebb@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Metrópoles Esportes no YouTube\n
  🏆 Competição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase —
-  rodada 3 — primeira fase — rodada 3\n🏟️ Local: Estádio Palma Tr
- avassos\n🌎 Cidade/País: Ribeirão Preto — SP — Brasil\nℹ️ Stat
- us: Confirmado\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+  rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 
+ — primeira fase — rodada 3\n🏟️ Local: Estádio Palma Travassos\n
+ 🌎 Cidade/País: Ribeirão Preto — SP — Brasil\nℹ️ Status: Confi
+ rmado\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Palma Travassos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1069,19 +1107,20 @@ SUMMARY:Futebol masculino sub-17 — Botafogo x São Paulo | Brasileiro Su
  b-17
 DTSTART;TZID=America/Sao_Paulo:20260804T160000
 DTEND;TZID=America/Sao_Paulo:20260804T183000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:688529ef69b3edf77af92491083dabd10c48e446cfa3c1d23ceaa076c35b121e@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino sub-17,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Sub-17 2026\n📍 Fase/Rodada: fase classif
- icatória — fase classificatória\n🏟️ Local: Estádio Nilton Santos
- \n🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️ Status: Conf
- irmado\n🔗 Fonte oficial: https://www.saopaulofc.net/calendario-de-jogos
- -base-masculino/\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ icatória — fase classificatória — fase classificatória — fase cla
+ ssificatória\n🏟️ Local: Estádio Nilton Santos\n🌎 Cidade/País: R
+ io de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
+ cial: https://www.saopaulofc.net/calendario-de-jogos-base-masculino/\n🕒
+  Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Nilton Santos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1092,19 +1131,20 @@ SUMMARY:Futebol masculino sub-20 — SC Aguaí x São Paulo | Paulistão S
  ub-20
 DTSTART;TZID=America/Sao_Paulo:20260807T150000
 DTEND;TZID=America/Sao_Paulo:20260807T173000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:92f544d87378150b54d7fa354b7c273ecb19be89aaf82842a2b0b1149fee3815@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase 
- — primeira fase\n🏟️ Local: Estádio Leonardo Guaranha\n🌎 Cidade/
- País: Aguaí — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
- cial: https://www.saopaulofc.net/fpf-divulga-tabela-do-paulista-sub-20/\n
- 🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — primeira fase — primeira fase — primeira fase\n🏟️ Local: Est
+ ádio Leonardo Guaranha\n🌎 Cidade/País: Aguaí — SP — Brasil\nℹ
+ ️ Status: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/fpf
+ -divulga-tabela-do-paulista-sub-20/\n🕒 Última verificação: 21/07/202
+ 6 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Leonardo Guaranha
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1115,18 +1155,18 @@ SUMMARY:Futebol — RB Omiya Ardija x Albirex Niigata | J2 League — Roda
  da 1
 DTSTART;TZID=America/Sao_Paulo:20260808T070000
 DTEND;TZID=America/Sao_Paulo:20260808T093000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:91e97fb5b3b87bfbac2e0eb7186c6ee3c6370947b5241e5c44b2778313c859d1@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 1 — ro
- dada 1\n🏟️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama —
-  Japão\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026
-  18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ dada 1 — rodada 1 — rodada 1\n🏟️ Local: NACK5 Stadium Omiya\n🌎
+  Cidade/País: Saitama — Japão\nℹ️ Status: Confirmado\n🕒 Última
+  verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1135,20 +1175,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Grêmio x São Paulo | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260808T160000
 DTEND;TZID=America/Sao_Paulo:20260808T180000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:45fbc25e3739070a0cbdb53aa7a0d8c8742ce012b659aa5f28ec4ef0aa5ee7bb@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 22 — fase única — rodada 22\n🏟️ Local: Arena do Grêmio\n🌎 Ci
- dade/País: Porto Alegre — RS — Brasil\nℹ️ Status: Confirmado\n
- 🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/camp
- eonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última 
- verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 22 — fase única — rodada 22 — fase única — rodada 22 — fase ú
+ nica — rodada 22\n🏟️ Local: Arena do Grêmio\n🌎 Cidade/País: Po
+ rto Alegre — RS — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficia
+ l: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro
+ /serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21
+ /07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena do Grêmio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1159,21 +1200,22 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Figueirense x Ferroviária | Série C — Rodada 16
 DTSTART;TZID=America/Sao_Paulo:20260808T170000
 DTEND;TZID=America/Sao_Paulo:20260808T193000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:8c58794359be49d12f5caaf2dda04ef7d0740309e69ab536bb03654a95111d94@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
- ase — rodada 16 — primeira fase — rodada 16\n🏟️ Local: Estádio
-  Orlando Scarpelli\n🌎 Cidade/País: Florianópolis — SC — Brasil\n
- ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/fute
- bol-brasileiro/noticias/competicoes-campeonato-brasileiro-serie-c/a/cbf-di
- vulga-tabela-detalhada-das-rodadas-16-a-19-da-serie-c-do-campeonato-brasil
- eiro\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ ase — rodada 16 — primeira fase — rodada 16 — primeira fase — ro
+ dada 16 — primeira fase — rodada 16\n🏟️ Local: Estádio Orlando S
+ carpelli\n🌎 Cidade/País: Florianópolis — SC — Brasil\nℹ️ Stat
+ us: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasile
+ iro/noticias/competicoes-campeonato-brasileiro-serie-c/a/cbf-divulga-tabel
+ a-detalhada-das-rodadas-16-a-19-da-serie-c-do-campeonato-brasileiro\n🕒 
+ Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Orlando Scarpelli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1185,19 +1227,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Primavera x Juventus-SP | Copa Paulista — Rodada 4
 DTSTART;TZID=America/Sao_Paulo:20260808T170000
 DTEND;TZID=America/Sao_Paulo:20260808T193000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:51bc086d56b2731fd202acd5ccae185d987815161f909d992a395b4f56f3cd98@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4 
- — primeira fase — rodada 4\n🏟️ Local: Estádio Ítalo Mário Limo
- ngi\n🌎 Cidade/País: Indaiatuba — SP — Brasil\nℹ️ Status: Confi
- rmado\n🔗 Fonte oficial: https://futebolpaulista.com.br/Noticias/Detalhe
- .aspx?Noticia=32647\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira
+  fase — rodada 4\n🏟️ Local: Estádio Ítalo Mário Limongi\n🌎 Ci
+ dade/País: Indaiatuba — SP — Brasil\nℹ️ Status: Confirmado\n🔗 
+ Fonte oficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Notici
+ a=32647\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Ítalo Mário Limongi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1208,18 +1251,19 @@ SUMMARY:Futebol — União São João x Comercial-SP | Copa Paulista — R
  odada 4
 DTSTART;TZID=America/Sao_Paulo:20260808T170000
 DTEND;TZID=America/Sao_Paulo:20260808T193000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:e399b670972b74422240a89a97a80f1bded34d9a5afd0b181e0e25919fe8feab@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Paulistão no YouTube\n🏆 Compe
  tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4 
- — primeira fase — rodada 4\n🏟️ Local: Estádio Dr. Hermínio Omet
- to\n🌎 Cidade/País: Araras — SP — Brasil\nℹ️ Status: Confirmado
- \n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira
+  fase — rodada 4\n🏟️ Local: Estádio Dr. Hermínio Ometto\n🌎 Cid
+ ade/País: Araras — SP — Brasil\nℹ️ Status: Confirmado\n🕒 Últi
+ ma verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Dr. Hermínio Ometto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1228,18 +1272,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Botafogo-SP x América-MG | Série B — Rodada 21
 DTSTART;TZID=America/Sao_Paulo:20260808T183000
 DTEND;TZID=America/Sao_Paulo:20260808T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:91406a741a6a26db5e93decc2fd2abdac249d056f4584466b0b73235c84ba504@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
  : Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase única — r
- odada 21 — fase única — rodada 21\n🏟️ Local: Estádio Santa Cruz
-  / Arena Nicnet\n🌎 Cidade/País: Ribeirão Preto — SP — Brasil\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ odada 21 — fase única — rodada 21 — fase única — rodada 21 — f
+ ase única — rodada 21\n🏟️ Local: Estádio Santa Cruz / Arena Nicne
+ t\n🌎 Cidade/País: Ribeirão Preto — SP — Brasil\nℹ️ Status: Co
+ nfirmado\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Santa Cruz / Arena Nicnet
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1248,20 +1293,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Remo x Atlético-MG | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260808T183000
 DTEND;TZID=America/Sao_Paulo:20260808T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:304f84c9863f8fe0ac4bf2202d459eb199581e2135f0a2e89dc1ff34f5b17c23@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 22 — fase única — rodada 22\n🏟️ Local: Mangueirão\n🌎 Cidade/
- País: Belém — PA — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
- cial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasile
- iro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação:
-  20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 22 — fase única — rodada 22 — fase única — rodada 22 — fase ú
+ nica — rodada 22\n🏟️ Local: Mangueirão\n🌎 Cidade/País: Belém 
+ — PA — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://
+ www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/20
+ 26?documento=Tabela%20Detalhada\n🕒 Última verificação: 21/07/2026 06
+ :07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Mangueirão
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1272,20 +1318,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Coritiba x Chapecoense | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260808T203000
 DTEND;TZID=America/Sao_Paulo:20260808T230000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:7cec1545a933d28b73a0bcfb14ed2ff3ff9ece31d43a3d5ddd0b1d40368fe8c6@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\, Record e CazéTV no Yo
  uTube\n🏆 Competição: Campeonato Brasileiro Série A 2026\n📍 Fase/R
- odada: fase única — rodada 22 — fase única — rodada 22\n🏟️ Lo
- cal: Couto Pereira\n🌎 Cidade/País: Curitiba — PR — Brasil\nℹ️ 
- Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-bra
- sileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Deta
- lhada\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ odada: fase única — rodada 22 — fase única — rodada 22 — fase ú
+ nica — rodada 22 — fase única — rodada 22\n🏟️ Local: Couto Per
+ eira\n🌎 Cidade/País: Curitiba — PR — Brasil\nℹ️ Status: Confir
+ mado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabela
+ s/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Ú
+ ltima verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Couto Pereira
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1296,20 +1343,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Botafogo x Fluminense | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260808T210000
 DTEND;TZID=America/Sao_Paulo:20260808T233000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:98bb29228de38b5b214af44779804781754f76fd6251fd8a9a91363a53117976@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 22 — fase única — rodada 22\n🏟️ Local: Estádio Nilto
- n Santos\n🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️ Stat
- us: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasile
- iro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhad
- a\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 22 — fase única — rodada 22 — fase única — rodada 22 
+ — fase única — rodada 22\n🏟️ Local: Estádio Nilton Santos\n🌎
+  Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado
+ \n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/ca
+ mpeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Últim
+ a verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Nilton Santos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1320,20 +1368,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Cruzeiro x Mirassol | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260809T110000
 DTEND;TZID=America/Sao_Paulo:20260809T133000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:5c8781a4795546be4541fc9bf0fd8a9eeab78b8e017942c6e97c35266c71efde@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
  ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 22 — fase única — rodada 22\n🏟️ Local: Mineirão\n
- 🌎 Cidade/País: Belo Horizonte — MG — Brasil\nℹ️ Status: Confir
- mado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabela
- s/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Ú
- ltima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 22 — fase única — rodada 22 — fase única — rodada 22 
+ — fase única — rodada 22\n🏟️ Local: Mineirão\n🌎 Cidade/País
+ : Belo Horizonte — MG — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte 
+ oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bras
+ ileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Mineirão
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1345,18 +1394,18 @@ SUMMARY:Futebol — Wolfsberger AC x Red Bull Salzburg | Bundesliga Austr
  íaca — Rodada 2
 DTSTART;TZID=America/Sao_Paulo:20260809T120000
 DTEND;TZID=America/Sao_Paulo:20260809T143000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:6c742a3d199085c6f4439801cbb2e98c610b189963cf15d9627bb33a0e1fe29c@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 2 — rodada
-  2\n🏟️ Local: Lavanttal-Arena\n🌎 Cidade/País: Wolfsberg — Áust
- ria\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 18:
- 05 -03
-LAST-MODIFIED:20260720T210532Z
+  2 — rodada 2 — rodada 2\n🏟️ Local: Lavanttal-Arena\n🌎 Cidade/
+ País: Wolfsberg — Áustria\nℹ️ Status: Confirmado\n🕒 Última ver
+ ificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Lavanttal-Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1365,20 +1414,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Bahia x Vasco | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260809T160000
 DTEND;TZID=America/Sao_Paulo:20260809T183000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:fd89eb26a6ea5415dd35bba30744b7276c43f8501ae8d3444e26a5a1a06d9faf@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 22 — fase única — rodada 22\n🏟️ Local: Arena Fonte No
- va\n🌎 Cidade/País: Salvador — BA — Brasil\nℹ️ Status: Confirma
- do\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/
- campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Últ
- ima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 22 — fase única — rodada 22 — fase única — rodada 22 
+ — fase única — rodada 22\n🏟️ Local: Arena Fonte Nova\n🌎 Cidad
+ e/País: Salvador — BA — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte
+  oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bra
+ sileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena Fonte Nova
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1389,20 +1439,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Palmeiras x Internacional | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260809T160000
 DTEND;TZID=America/Sao_Paulo:20260809T183000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:5682eb2a7c4ddacc82053e61ecb06cf92f04bc3a932b71a1cd55260a82b7920e@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 22 — fase única — rodada 22\n🏟️ Local: Allianz Parque
- \n🌎 Cidade/País: São Paulo — SP — Brasil\nℹ️ Status: Confirma
- do\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/
- campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Últ
- ima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 22 — fase única — rodada 22 — fase única — rodada 22 
+ — fase única — rodada 22\n🏟️ Local: Allianz Parque\n🌎 Cidade/
+ País: São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte
+  oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bra
+ sileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Allianz Parque
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1414,20 +1465,21 @@ SUMMARY:Futebol feminino — São Paulo x Red Bull Bragantino | Brasileir
  ão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260809T180000
 DTEND;TZID=America/Sao_Paulo:20260809T203000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:a4c9027a5131d6bd24e3848f37da7e1d34c4349b5e14bb967dfad862efc94e83@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: fase in
  icial — rodada não informada na fonte — fase inicial — rodada não 
- informada na fonte\n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Cot
- ia — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https
- ://www.saopaulofc.net/calendario-de-jogos-femininos/\n🕒 Última verific
- ação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ informada na fonte — fase inicial — rodada não informada na fonte —
+  fase inicial — rodada não informada na fonte\n🏟️ Local: CFA Laudo
+  Natel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Confirm
+ ado\n🔗 Fonte oficial: https://www.saopaulofc.net/calendario-de-jogos-fe
+ mininos/\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1438,20 +1490,21 @@ SUMMARY:Futebol — Red Bull Bragantino x Corinthians | Brasileirão — R
  odada 22
 DTSTART;TZID=America/Sao_Paulo:20260809T183000
 DTEND;TZID=America/Sao_Paulo:20260809T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:0ea38d00c9c39565065ff797109752632a00c0f2ba5931366de2fae1e4568053@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 22 — fase única — rodada 22\n🏟️ Local: Estádio Cícero de Souza
-  Marques\n🌎 Cidade/País: Bragança Paulista — SP — Brasil\nℹ️ 
- Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-bra
- sileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Deta
- lhada\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 22 — fase única — rodada 22 — fase única — rodada 22 — fase ú
+ nica — rodada 22\n🏟️ Local: Estádio Cícero de Souza Marques\n🌎
+  Cidade/País: Bragança Paulista — SP — Brasil\nℹ️ Status: Confir
+ mado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabela
+ s/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Ú
+ ltima verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Cícero de Souza Marques
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1462,20 +1515,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Santos x Athletico-PR | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260809T183000
 DTEND;TZID=America/Sao_Paulo:20260809T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:2d30b2f23b5c2ad47c4a4819528f13151a641e4f09683100e16989a62b44073f@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 22 — fase única — rodada 22\n🏟️ Local: Vila Belmiro\n🌎 Cidade
- /País: Santos — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte of
- icial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasil
- eiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação
- : 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 22 — fase única — rodada 22 — fase única — rodada 22 — fase ú
+ nica — rodada 22\n🏟️ Local: Vila Belmiro\n🌎 Cidade/País: Santos
+  — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:/
+ /www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2
+ 026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21/07/2026 0
+ 6:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Vila Belmiro
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1486,20 +1540,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Flamengo x Vitória | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260809T193000
 DTEND;TZID=America/Sao_Paulo:20260809T220000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:e4aadd65c7e257bdb97303fa9a1570e48fe7c9caa57ed2a797f3c9a869a1dcf5@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 22 — fase única — rodada 22\n🏟️ Local: Maracanã\n
- 🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️ Status: Confir
- mado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabela
- s/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Ú
- ltima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 22 — fase única — rodada 22 — fase única — rodada 22 
+ — fase única — rodada 22\n🏟️ Local: Maracanã\n🌎 Cidade/País
+ : Rio de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte 
+ oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bras
+ ileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Maracanã
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1511,19 +1566,20 @@ SUMMARY:Futebol masculino sub-20 — Novorizontino x São Paulo | Paulist
  ão Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260811T150000
 DTEND;TZID=America/Sao_Paulo:20260811T173000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:1a69cb0feecdc96989396e780ef0fa357ac4762a5be940ccb9628864940b9403@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase 
- — primeira fase\n🏟️ Local: Estádio Dr. Jorge Ismael de Biasi\n🌎
-  Cidade/País: Novo Horizonte — SP — Brasil\nℹ️ Status: Confirmado
- \n🔗 Fonte oficial: https://www.saopaulofc.net/fpf-divulga-tabela-do-pau
- lista-sub-20/\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — primeira fase — primeira fase — primeira fase\n🏟️ Local: Est
+ ádio Dr. Jorge Ismael de Biasi\n🌎 Cidade/País: Novo Horizonte — SP 
+ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.sao
+ paulofc.net/fpf-divulga-tabela-do-paulista-sub-20/\n🕒 Última verifica
+ ção: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Dr. Jorge Ismael de Biasi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1533,19 +1589,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — São Paulo x Santos | Paulistão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260813T190000
 DTEND;TZID=America/Sao_Paulo:20260813T213000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:91e2ec786a1c4b3d6f1f965c384cd0532da51eebe3ecbc743a199e8fe14cbe7a@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: CazéTV\, HBO Max e Record News\n
  🏆 Competição: Campeonato Paulista Feminino 2026\n📍 Fase/Rodada: ro
- dada 6 — rodada 6\n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Co
- tia — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: http
- s://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32803\n🕒 Últi
- ma verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ dada 6 — rodada 6 — rodada 6 — rodada 6\n🏟️ Local: CFA Laudo Na
+ tel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Confirmado
+ \n🔗 Fonte oficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx
+ ?Noticia=32803\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1556,19 +1612,19 @@ SUMMARY:Futebol masculino sub-20 — São Paulo x Ibrachina | Paulistão S
  ub-20
 DTSTART;TZID=America/Sao_Paulo:20260814T150000
 DTEND;TZID=America/Sao_Paulo:20260814T173000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:725814426905049391ae4afe5aed09f6c24996c0f895dcfbf1c21de17cc1c680@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase 
- — primeira fase\n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Coti
- a — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:
- //www.saopaulofc.net/fpf-divulga-tabela-do-paulista-sub-20/\n🕒 Última 
- verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — primeira fase — primeira fase — primeira fase\n🏟️ Local: CFA 
+ Laudo Natel\n🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Co
+ nfirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/fpf-divulga-tabel
+ a-do-paulista-sub-20/\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1578,18 +1634,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — FC Imabari x RB Omiya Ardija | J2 League — Rodada 2
 DTSTART;TZID=America/Sao_Paulo:20260815T070000
 DTEND;TZID=America/Sao_Paulo:20260815T093000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:b4b0b5383b22ccc283d176e3570d3db8bf94c300fafa0aa8c815d95f2b848ace@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 2 — ro
- dada 2\n🏟️ Local: Asics Satoyama Stadium\n🌎 Cidade/País: Imabari 
- — Japão\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2
- 026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ dada 2 — rodada 2 — rodada 2\n🏟️ Local: Asics Satoyama Stadium\n
+ 🌎 Cidade/País: Imabari — Japão\nℹ️ Status: Confirmado\n🕒 Úl
+ tima verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Asics Satoyama Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1598,20 +1654,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Atlético-MG x Grêmio | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260815T163000
 DTEND;TZID=America/Sao_Paulo:20260815T190000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:0cc4181102fb902dd214a35df5a5ba3babd017cf5f0ac382950b4cc8928f65fb@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 23 — fase única — rodada 23\n🏟️ Local: Arena MRV\n🌎 Cidade/Pa
- ís: Belo Horizonte — MG — Brasil\nℹ️ Status: Confirmado\n🔗 Fon
- te oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-b
- rasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verifica
- ção: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 23 — fase única — rodada 23 — fase única — rodada 23 — fase ú
+ nica — rodada 23\n🏟️ Local: Arena MRV\n🌎 Cidade/País: Belo Hori
+ zonte — MG — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
+ tps://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/seri
+ e-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21/07/2
+ 026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena MRV
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1622,20 +1679,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Fluminense x Palmeiras | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260815T163000
 DTEND;TZID=America/Sao_Paulo:20260815T190000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:980b73082016cb858431eafadd4037c802d17db1a7937946149ff56d0db6efa8@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 23 — fase única — rodada 23\n🏟️ Local: Maracanã\n🌎 Cidade/Pa
- ís: Rio de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fon
- te oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-b
- rasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verifica
- ção: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 23 — fase única — rodada 23 — fase única — rodada 23 — fase ú
+ nica — rodada 23\n🏟️ Local: Maracanã\n🌎 Cidade/País: Rio de Ja
+ neiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
+ tps://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/seri
+ e-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21/07/2
+ 026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Maracanã
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1646,19 +1704,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Paulista x Juventus-SP | Copa Paulista — Rodada 5
 DTSTART;TZID=America/Sao_Paulo:20260815T170000
 DTEND;TZID=America/Sao_Paulo:20260815T193000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:dd1fefbd098ab44e7af1f885d6ef3d23b9ac16e9894c7a62b0a245e5cc5d60d6@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 5 
- — primeira fase — rodada 5\n🏟️ Local: Estádio Jayme Cintra\n🌎
-  Cidade/País: Jundiaí — SP — Brasil\nℹ️ Status: Confirmado\n🔗
-  Fonte oficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Notic
- ia=32647\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira
+  fase — rodada 5\n🏟️ Local: Estádio Jayme Cintra\n🌎 Cidade/Paí
+ s: Jundiaí — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofici
+ al: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647\n
+ 🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Jayme Cintra
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1669,20 +1728,21 @@ SUMMARY:Futebol — Athletico-PR x Red Bull Bragantino | Brasileirão —
  Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260815T183000
 DTEND;TZID=America/Sao_Paulo:20260815T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:6e9e638ad341cf8db7e062d37548096545796073c9d572a09d970fe9d199f15e@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 23 — fase única — rodada 23\n🏟️ Local: Arena da Baixada\n🌎 Ci
- dade/País: Curitiba — PR — Brasil\nℹ️ Status: Confirmado\n🔗 Fo
- nte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-
- brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verific
- ação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 23 — fase única — rodada 23 — fase única — rodada 23 — fase ú
+ nica — rodada 23\n🏟️ Local: Arena da Baixada\n🌎 Cidade/País: Cu
+ ritiba — PR — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: h
+ ttps://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/ser
+ ie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21/07/
+ 2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena da Baixada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1693,20 +1753,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — São Paulo x Coritiba | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260815T210000
 DTEND;TZID=America/Sao_Paulo:20260815T230000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:af428c2d5483e8d55dd3c133bc85e3a54925148311fc6d71849de95e9d503c2d@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 23 — fase única — rodada 23\n🏟️ Local: MorumBIS\n🌎
-  Cidade/País: São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n
- 🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/camp
- eonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última 
- verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 23 — fase única — rodada 23 — fase única — rodada 23 
+ — fase única — rodada 23\n🏟️ Local: MorumBIS\n🌎 Cidade/País:
+  São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofici
+ al: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
+ o/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 2
+ 1/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:MorumBIS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1717,20 +1778,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — Botafogo x São Paulo | Brasileirão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260816T110000
 DTEND;TZID=America/Sao_Paulo:20260816T133000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:5eba105663c0482b56b5142ac7f7ad97c1b1c6f86d44c24a74ef93885d092d2c@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: fase in
  icial — rodada não informada na fonte — fase inicial — rodada não 
- informada na fonte\n🏟️ Local: Estádio Nilton Santos\n🌎 Cidade/Pa
- ís: Rio de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fon
- te oficial: https://www.saopaulofc.net/calendario-de-jogos-femininos/\n
- 🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ informada na fonte — fase inicial — rodada não informada na fonte —
+  fase inicial — rodada não informada na fonte\n🏟️ Local: Estádio 
+ Nilton Santos\n🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️
+  Status: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/calend
+ ario-de-jogos-femininos/\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Nilton Santos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1740,20 +1802,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Chapecoense x Bahia | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260816T110000
 DTEND;TZID=America/Sao_Paulo:20260816T133000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:b7ce80f8417759d54b9b8eb4ecea7ddcb85aa445db3a89aa40bb49ae2aca0b97@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 23 — fase única — rodada 23\n🏟️ Local: Arena Condá\n🌎 Cidade
- /País: Chapecó — SC — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte 
- oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bras
- ileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
- ão: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 23 — fase única — rodada 23 — fase única — rodada 23 — fase ú
+ nica — rodada 23\n🏟️ Local: Arena Condá\n🌎 Cidade/País: Chapec
+ ó — SC — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https
+ ://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a
+ /2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21/07/2026
+  06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Arena Condá
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1765,18 +1828,18 @@ SUMMARY:Futebol — WSG Tirol x Red Bull Salzburg | Bundesliga Austríaca
  — Rodada 3
 DTSTART;TZID=America/Sao_Paulo:20260816T120000
 DTEND;TZID=America/Sao_Paulo:20260816T143000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:7e207fbd52b0fca0105ebe228bb99ed97ef79f12601c3e2beb28dff5fa6c1595@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 3 — rodada
-  3\n🏟️ Local: Tivoli Stadion Tirol\n🌎 Cidade/País: Innsbruck — 
- Áustria\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/202
- 6 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+  3 — rodada 3 — rodada 3\n🏟️ Local: Tivoli Stadion Tirol\n🌎 Ci
+ dade/País: Innsbruck — Áustria\nℹ️ Status: Confirmado\n🕒 Últim
+ a verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Tivoli Stadion Tirol
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1785,19 +1848,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — São Bernardo x Botafogo-SP | Série B — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260816T160000
 DTEND;TZID=America/Sao_Paulo:20260816T183000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:c037619a55f8b5fb713d803ba2fc3b55bcd09d90bf49598426bbf5de246d06b8@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo\, SporTV e Premiere\n🏆 C
  ompetição: Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase 
- única — rodada 22 — fase única — rodada 22\n🏟️ Local: Estádi
- o Primeiro de Maio\n🌎 Cidade/País: São Bernardo do Campo — SP — B
- rasil\nℹ️ Status: Confirmado\n🕒 Última verificação: 20/07/2026 1
- 8:05 -03
-LAST-MODIFIED:20260720T210532Z
+ única — rodada 22 — fase única — rodada 22 — fase única — rod
+ ada 22 — fase única — rodada 22\n🏟️ Local: Estádio Primeiro de 
+ Maio\n🌎 Cidade/País: São Bernardo do Campo — SP — Brasil\nℹ️ 
+ Status: Confirmado\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Estádio Primeiro de Maio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1806,20 +1869,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Vasco x Santos | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260816T160000
 DTEND;TZID=America/Sao_Paulo:20260816T183000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:d775c6e4e8c737b9dd149c5cefc868b0b1015a1b1a2234cf7610d7d331758740@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 23 — fase única — rodada 23\n🏟️ Local: São Januário\n🌎 Cida
- de/País: Rio de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n
- 🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/camp
- eonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última 
- verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 23 — fase única — rodada 23 — fase única — rodada 23 — fase ú
+ nica — rodada 23\n🏟️ Local: São Januário\n🌎 Cidade/País: Rio 
+ de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficia
+ l: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro
+ /serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21
+ /07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:São Januário
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1830,20 +1894,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Mirassol x Flamengo | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260816T183000
 DTEND;TZID=America/Sao_Paulo:20260816T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:f50b83740afcab996e9ce00e2488573e3f3efef0499d45409e492e52fd1e39da@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\, Record e CazéTV no Yo
  uTube\n🏆 Competição: Campeonato Brasileiro Série A 2026\n📍 Fase/R
- odada: fase única — rodada 23 — fase única — rodada 23\n🏟️ Lo
- cal: José Maria de Campos Maia\n🌎 Cidade/País: Mirassol — SP — Br
- asil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.b
- r/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=
- Tabela%20Detalhada\n🕒 Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ odada: fase única — rodada 23 — fase única — rodada 23 — fase ú
+ nica — rodada 23 — fase única — rodada 23\n🏟️ Local: José Mar
+ ia de Campos Maia\n🌎 Cidade/País: Mirassol — SP — Brasil\nℹ️ S
+ tatus: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-bras
+ ileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detal
+ hada\n🕒 Última verificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:José Maria de Campos Maia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1854,20 +1919,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Vitória x Botafogo | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260816T183000
 DTEND;TZID=America/Sao_Paulo:20260816T210000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:437badeccb1460c565ea7de33e4cb3d2bb53bc08a893107ae4170c0113fe6a0f@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
- 23 — fase única — rodada 23\n🏟️ Local: Manoel Barradas\n🌎 Cid
- ade/País: Salvador — BA — Brasil\nℹ️ Status: Confirmado\n🔗 Fon
- te oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-b
- rasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verifica
- ção: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ 23 — fase única — rodada 23 — fase única — rodada 23 — fase ú
+ nica — rodada 23\n🏟️ Local: Manoel Barradas\n🌎 Cidade/País: Sal
+ vador — BA — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
+ tps://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/seri
+ e-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 21/07/2
+ 026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Manoel Barradas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1878,20 +1944,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Corinthians x Cruzeiro | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260816T193000
 DTEND;TZID=America/Sao_Paulo:20260816T220000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:e519fed14370591cf965e323444d0b144c488239acac468ea0e939c28943bcdb@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
  ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 23 — fase única — rodada 23\n🏟️ Local: Neo Química A
- rena\n🌎 Cidade/País: São Paulo — SP — Brasil\nℹ️ Status: Conf
- irmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabe
- las/campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 
- Última verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 23 — fase única — rodada 23 — fase única — rodada 23 
+ — fase única — rodada 23\n🏟️ Local: Neo Química Arena\n🌎 Cid
+ ade/País: São Paulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 F
+ onte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato
+ -brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verifi
+ cação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Neo Química Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1902,21 +1969,22 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Ferroviária x Paysandu | Série C — Rodada 17
 DTSTART;TZID=America/Sao_Paulo:20260817T200000
 DTEND;TZID=America/Sao_Paulo:20260817T223000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:003cbb5eaab19013261c8830fd9163b1419930c05e7246f2eba221b7a961aeb4@sport
  s-calendar-hub
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
- ase — rodada 17 — primeira fase — rodada 17\n🏟️ Local: Fonte Lu
- minosa\n🌎 Cidade/País: Araraquara — SP — Brasil\nℹ️ Status: Co
- nfirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/no
- ticias/competicoes-campeonato-brasileiro-serie-c/a/cbf-divulga-tabela-deta
- lhada-das-rodadas-16-a-19-da-serie-c-do-campeonato-brasileiro\n🕒 Últim
- a verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ ase — rodada 17 — primeira fase — rodada 17 — primeira fase — ro
+ dada 17 — primeira fase — rodada 17\n🏟️ Local: Fonte Luminosa\n
+ 🌎 Cidade/País: Araraquara — SP — Brasil\nℹ️ Status: Confirmado
+ \n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/noticias/c
+ ompeticoes-campeonato-brasileiro-serie-c/a/cbf-divulga-tabela-detalhada-da
+ s-rodadas-16-a-19-da-serie-c-do-campeonato-brasileiro\n🕒 Última verifi
+ cação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Fonte Luminosa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1928,24 +1996,86 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Internacional x Remo | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260817T200000
 DTEND;TZID=America/Sao_Paulo:20260817T223000
-DTSTAMP:20260720T210532Z
+DTSTAMP:20260721T090713Z
 UID:b18be556d812ef7f0e41721499aacdff48cfddde37a82b0e544074ac518cbe56@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260720T210532Z
+CREATED:20260721T090713Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
- — rodada 23 — fase única — rodada 23\n🏟️ Local: Beira-Rio\n
- 🌎 Cidade/País: Porto Alegre — RS — Brasil\nℹ️ Status: Confirma
- do\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/
- campeonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Últ
- ima verificação: 20/07/2026 18:05 -03
-LAST-MODIFIED:20260720T210532Z
+ — rodada 23 — fase única — rodada 23 — fase única — rodada 23 
+ — fase única — rodada 23\n🏟️ Local: Beira-Rio\n🌎 Cidade/País
+ : Porto Alegre — RS — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte of
+ icial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasil
+ eiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação
+ : 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
 LOCATION:Beira-Rio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
  o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Comercial-SP x XV de Piracicaba | Copa Paulista — Ro
+ dada 5
+DTSTART;TZID=America/Sao_Paulo:20260819T200000
+DTEND;TZID=America/Sao_Paulo:20260819T223000
+DTSTAMP:20260721T090713Z
+UID:34bd82ac90a958d44f6950b6e5299f073f252c1863cefa5c5763dbd063f74c76@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,clubes-regionais
+CREATED:20260721T090713Z
+DESCRIPTION:📺 Transmissão no Brasil: Metrópoles Esportes no YouTube\n
+ 🏆 Competição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase —
+  rodada 5\n🏟️ Local: Estádio Palma Travassos\n🌎 Cidade/País: Rib
+ eirão Preto\, Brasil\nℹ️ Status: Confirmado\n🕒 Última verificaç
+ ão: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
+LOCATION:Estádio Palma Travassos
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — New York Red Bulls x Nashville SC | MLS
+DTSTART;TZID=America/Sao_Paulo:20260819T203000
+DTEND;TZID=America/Sao_Paulo:20260819T230000
+DTSTAMP:20260721T090713Z
+UID:a395a3ecdd479ebd17a782315929797128b5b4084f01a686e7b2717e7c400847@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,red-bull
+CREATED:20260721T090713Z
+DESCRIPTION:📺 Transmissão no Brasil: Apple TV\n🏆 Competição: Majo
+ r League Soccer 2026\n📍 Fase/Rodada: temporada regular\n🏟️ Local: 
+ Sports Illustrated Stadium\n🌎 Cidade/País: Harrison\, Estados Unidos\n
+ ℹ️ Status: Confirmado\n🕒 Última verificação: 21/07/2026 06:07 -0
+ 3
+LAST-MODIFIED:20260721T090713Z
+LOCATION:Sports Illustrated Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — Botafogo-SP x Criciúma | Série B — Rodada 23
+DTSTART;TZID=America/Sao_Paulo:20260819T213000
+DTEND;TZID=America/Sao_Paulo:20260820T000000
+DTSTAMP:20260721T090713Z
+UID:151f196dcbe68b9ea60d49616035e6cec7e1d3627bd99e22078f734d0007c647@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,clubes-regionais
+CREATED:20260721T090713Z
+DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
+ : Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase única — r
+ odada 23\n🏟️ Local: Estádio Santa Cruz / Arena Nicnet\n🌎 Cidade/P
+ aís: Ribeirão Preto\, Brasil\nℹ️ Status: Confirmado\n🕒 Última ve
+ rificação: 21/07/2026 06:07 -03
+LAST-MODIFIED:20260721T090713Z
+LOCATION:Estádio Santa Cruz / Arena Nicnet
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
