@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import pytest
+
 from src.scope_rules import (
     determine_color_group,
     identify_team,
@@ -159,3 +161,40 @@ def test_scope_json_contem_contrato_minimo() -> None:
     assert rules["group_priority"][0] == "sao-paulo"
     assert "prohibited_data_fields" in rules
 
+
+
+def test_premier_league_inclui_clubes_fora_da_lista_estatica() -> None:
+    event = _football(
+        competition="Premier League 2026/27",
+        phase="Rodada 1",
+        participant_1="Everton",
+        participant_2="Crystal Palace",
+    )
+    assert is_event_in_scope(event)
+    assert determine_color_group(event) == "premier-league"
+
+
+@pytest.mark.parametrize(
+    "competition",
+    [
+        "Formula Regional Americas Championship 2026",
+        "IMSA WeatherTech SportsCar Championship 2026",
+        "USF2000 Presented by Continental Tire 2026",
+        "USF Pro 2000 Presented by Continental Tire 2026",
+        "ABB FIA Formula E World Championship 2025–26",
+    ],
+)
+def test_categorias_de_automobilismo_autorizadas_entram_no_escopo(
+    competition: str,
+) -> None:
+    event = make_event(
+        title=f"{competition} — Corrida 1",
+        sport="Automobilismo",
+        category=competition,
+        competition=competition,
+        phase="Corrida 1",
+        participant_1="Circuito",
+        participant_2="",
+    )
+    assert is_event_in_scope(event)
+    assert determine_color_group(event) == "automobilismo"
