@@ -50,6 +50,27 @@ TRANSP:TRANSPARENT
 URL:https://www.saopaulofc.net/fpf-divulga-tabela-do-paulista-sub-20/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Formula Regional Americas — New Jersey | Corrida 1 — Rodada 12
+DTSTART;TZID=America/Sao_Paulo:20260801T152500
+DTEND;TZID=America/Sao_Paulo:20260801T160000
+DTSTAMP:20260801T115245Z
+UID:e31f9b726dc9248174bbe3d442806cfd20ff204655b8bb5e605bf464b6ca07b7@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Automobilismo,Formula Regional Americas,automobilismo
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: RacingAmerica.TV e canal RacingAm
+ ericaTV no YouTube\n🏆 Competição: Formula Regional Americas Champions
+ hip 2026\n📍 Fase/Rodada: New Jersey Motorsports Park — Corrida 1\, ro
+ dada 12\n🏟️ Local: New Jersey Motorsports Park\n🌎 Cidade/País: Mi
+ llville\, Nova Jersey\, Estados Unidos\nℹ️ Status: Confirmado\n🕒 Ú
+ ltima verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:New Jersey Motorsports Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Futebol — New York Red Bulls x Orlando City | MLS
 DTSTART;TZID=America/Sao_Paulo:20260801T203000
 DTEND;TZID=America/Sao_Paulo:20260801T230000
@@ -112,6 +133,71 @@ LOCATION:Rua Javari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Formula Regional Americas — New Jersey | Corrida 2 — Rodada 13
+DTSTART;TZID=America/Sao_Paulo:20260802T103000
+DTEND;TZID=America/Sao_Paulo:20260802T110500
+DTSTAMP:20260801T115245Z
+UID:db5d39f09dd55ca67e8204f104c19f82bf77bfbcd05361877a79b9b49f6f9d66@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Automobilismo,Formula Regional Americas,automobilismo
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: RacingAmerica.TV e canal RacingAm
+ ericaTV no YouTube\n🏆 Competição: Formula Regional Americas Champions
+ hip 2026\n📍 Fase/Rodada: New Jersey Motorsports Park — Corrida 2\, ro
+ dada 13\n🏟️ Local: New Jersey Motorsports Park\n🌎 Cidade/País: Mi
+ llville\, Nova Jersey\, Estados Unidos\nℹ️ Status: Confirmado\n🕒 Ú
+ ltima verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:New Jersey Motorsports Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMSA — Road America | Motul SportsCar Endurance Grand Prix
+DTSTART;TZID=America/Sao_Paulo:20260802T124000
+DTEND;TZID=America/Sao_Paulo:20260802T184000
+DTSTAMP:20260801T115245Z
+UID:7377db7f0cd5124ece6f78c8634912d8400f2d233aadeeeb1f5c5014434ae1ea@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Automobilismo,IMSA,automobilismo
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: IMSA.TV e canal oficial IMSA no Y
+ ouTube\n🏆 Competição: IMSA WeatherTech SportsCar Championship 2026\n
+ 📍 Fase/Rodada: Motul SportsCar Endurance Grand Prix — corrida princip
+ al de 6 horas\n🏟️ Local: Road America\n🌎 Cidade/País: Elkhart Lak
+ e\, Wisconsin\, Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte ofic
+ ial: https://www.imsa.com/events/2026-road-america/\n🕒 Última verifica
+ ção: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:Road America
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.imsa.com/events/2026-road-america/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Formula Regional Americas — New Jersey | Corrida 3 — Rodada 14
+DTSTART;TZID=America/Sao_Paulo:20260802T144000
+DTEND;TZID=America/Sao_Paulo:20260802T151500
+DTSTAMP:20260801T115245Z
+UID:54de164cafae3a791951adeaa52605d88c49a9a504d6ee8e66eceda27f01e655@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Automobilismo,Formula Regional Americas,automobilismo
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: RacingAmerica.TV e canal RacingAm
+ ericaTV no YouTube\n🏆 Competição: Formula Regional Americas Champions
+ hip 2026\n📍 Fase/Rodada: New Jersey Motorsports Park — Corrida 3\, ro
+ dada 14\n🏟️ Local: New Jersey Motorsports Park\n🌎 Cidade/País: Mi
+ llville\, Nova Jersey\, Estados Unidos\nℹ️ Status: Confirmado\n🕒 Ú
+ ltima verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:New Jersey Motorsports Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Futebol — Comercial-SP x União São João | Copa Paulista — R
@@ -181,6 +267,50 @@ TRANSP:TRANSPARENT
 URL:https://www.saopaulofc.net/fpf-divulga-tabela-do-paulista-sub-20/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:USF2000 — Portland | Corrida 1 — Rodada 12
+DTSTART;TZID=America/Sao_Paulo:20260807T201000
+DTEND;TZID=America/Sao_Paulo:20260807T205000
+DTSTAMP:20260801T115245Z
+UID:e7233c9b6303397a42f7ac5df17c9a3bf7f228bf8599fc2fefdaf2b77c49af15@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Automobilismo,USF2000,automobilismo
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: USF Pro Championships TV\n🏆 Co
+ mpetição: USF2000 Presented by Continental Tire 2026\n📍 Fase/Rodada: 
+ Rodada 12 — Corrida 1\n🏟️ Local: Portland International Raceway\n
+ 🌎 Cidade/País: Portland\, Oregon\, Estados Unidos\nℹ️ Status: Conf
+ irmado\n🔗 Fonte oficial: https://www.usf2000.com/results/live-timing\n
+ 🕒 Última verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:Portland International Raceway
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.usf2000.com/results/live-timing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USF Pro 2000 — Portland | Corrida 1 — Rodada 11
+DTSTART;TZID=America/Sao_Paulo:20260807T210500
+DTEND;TZID=America/Sao_Paulo:20260807T215000
+DTSTAMP:20260801T115245Z
+UID:2ee95255a04103134f553382aabaa7c91aa1628901d6f4a35411de87122c0bc7@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Automobilismo,USF Pro 2000,automobilismo
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: USF Pro Championships TV\n🏆 Co
+ mpetição: USF Pro 2000 Presented by Continental Tire 2026\n📍 Fase/Rod
+ ada: Rodada 11 — Corrida 1\n🏟️ Local: Portland International Racewa
+ y\n🌎 Cidade/País: Portland\, Oregon\, Estados Unidos\nℹ️ Status: C
+ onfirmado\n🔗 Fonte oficial: https://www.usfpro2000.com/results/live-tim
+ ing\n🕒 Última verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:Portland International Raceway
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.usfpro2000.com/results/live-timing
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Futebol — RB Omiya Ardija x Albirex Niigata | J2 League — Roda
  da 1
 DTSTART;TZID=America/Sao_Paulo:20260808T070000
@@ -223,6 +353,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
  o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USF2000 — Portland | Corrida 2 — Rodada 13
+DTSTART;TZID=America/Sao_Paulo:20260808T165000
+DTEND;TZID=America/Sao_Paulo:20260808T173000
+DTSTAMP:20260801T115245Z
+UID:6adc6e14a2e108c0cd0612eb6f76751b01908a4485376c9adac1de79cca49030@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Automobilismo,USF2000,automobilismo
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: USF Pro Championships TV\n🏆 Co
+ mpetição: USF2000 Presented by Continental Tire 2026\n📍 Fase/Rodada: 
+ Rodada 13 — Corrida 2\n🏟️ Local: Portland International Raceway\n
+ 🌎 Cidade/País: Portland\, Oregon\, Estados Unidos\nℹ️ Status: Conf
+ irmado\n🔗 Fonte oficial: https://www.usf2000.com/results/live-timing\n
+ 🕒 Última verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:Portland International Raceway
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.usf2000.com/results/live-timing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Futebol — Figueirense x Ferroviária | Série C — Rodada 16
@@ -335,6 +487,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
  o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USF Pro 2000 — Portland | Corrida 2 — Rodada 12
+DTSTART;TZID=America/Sao_Paulo:20260808T183000
+DTEND;TZID=America/Sao_Paulo:20260808T191500
+DTSTAMP:20260801T115245Z
+UID:cc5dbcad8456ef8ac4a7abcb68d76c93e55617eff5d8b8411dcb481eaefbe6cf@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Automobilismo,USF Pro 2000,automobilismo
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: USF Pro Championships TV\n🏆 Co
+ mpetição: USF Pro 2000 Presented by Continental Tire 2026\n📍 Fase/Rod
+ ada: Rodada 12 — Corrida 2\n🏟️ Local: Portland International Racewa
+ y\n🌎 Cidade/País: Portland\, Oregon\, Estados Unidos\nℹ️ Status: C
+ onfirmado\n🔗 Fonte oficial: https://www.usfpro2000.com/results/live-tim
+ ing\n🕒 Última verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:Portland International Raceway
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.usfpro2000.com/results/live-timing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Futebol — Coritiba x Chapecoense | Brasileirão — Rodada 22
@@ -660,6 +834,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fórmula E — Londres | Corrida 1 — Rodada 16
+DTSTART;TZID=America/Sao_Paulo:20260815T110500
+DTEND;TZID=America/Sao_Paulo:20260815T120000
+DTSTAMP:20260801T115245Z
+UID:21d856b6fdac8e9d4f6416221c82e7115048e3ca87c6da95d6f89d0e65282651@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Automobilismo,Fórmula E,automobilismo
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: ABB FIA Formula E World Championship 2025–26\n📍 Fase/Rodada:
+  Rodada 16 — Corrida 1 do London E-Prix\n🏟️ Local: London Excel Cir
+ cuit\n🌎 Cidade/País: Londres\, Reino Unido\nℹ️ Status: Confirmado\
+ n🔗 Fonte oficial: https://www.fiaformulae.com/en/calendar/2025-26/r16-l
+ ondon\n🕒 Última verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:London Excel Circuit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.fiaformulae.com/en/calendar/2025-26/r16-london
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Futebol — Atlético-MG x Grêmio | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260815T163000
 DTEND;TZID=America/Sao_Paulo:20260815T190000
@@ -819,6 +1015,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileir
  o/serie-a/2026?documento=Tabela%20Detalhada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fórmula E — Londres | Corrida 2 — Rodada 17
+DTSTART;TZID=America/Sao_Paulo:20260816T110500
+DTEND;TZID=America/Sao_Paulo:20260816T120000
+DTSTAMP:20260801T115245Z
+UID:674355643a5c4dc282d98bebf4fa58c0e51131027682ec68c367e0c207288452@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Automobilismo,Fórmula E,automobilismo
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: ABB FIA Formula E World Championship 2025–26\n📍 Fase/Rodada:
+  Rodada 17 — Corrida 2 do London E-Prix\n🏟️ Local: London Excel Cir
+ cuit\n🌎 Cidade/País: Londres\, Reino Unido\nℹ️ Status: Confirmado\
+ n🔗 Fonte oficial: https://www.fiaformulae.com/en/calendar/2025-26/r17-l
+ ondon\n🕒 Última verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:London Excel Circuit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.fiaformulae.com/en/calendar/2025-26/r17-london
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Futebol — WSG Tirol x Red Bull Salzburg | Bundesliga Austríaca 
@@ -1157,6 +1375,75 @@ URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
  627-premier-league-season/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Premier League — Everton x Crystal Palace | Rodada 1
+DTSTART;TZID=America/Sao_Paulo:20260822T110000
+DTEND;TZID=America/Sao_Paulo:20260822T133000
+DTSTAMP:20260801T115245Z
+UID:450efb229f73ed616bce4d8aaac0085f64b35d1531b05bb00a5069d920c725ca@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,premier-league
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
+ : Hill Dickinson Stadium\n🌎 Cidade/País: Liverpool\, Inglaterra\nℹ
+ ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/
+ en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n🕒 
+ Última verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:Hill Dickinson Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
+ 627-premier-league-season/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Premier League — Ipswich Town x Sunderland | Rodada 1
+DTSTART;TZID=America/Sao_Paulo:20260822T110000
+DTEND;TZID=America/Sao_Paulo:20260822T133000
+DTSTAMP:20260801T115245Z
+UID:0ce82ae5822acbd71291d6113353e1f3cfa68fdd42c03981bb2e2940c7b19315@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,premier-league
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
+ : Portman Road\n🌎 Cidade/País: Ipswich\, Inglaterra\nℹ️ Status: Co
+ nfirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news/467509
+ 7/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última verific
+ ação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:Portman Road
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
+ 627-premier-league-season/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Premier League — Nottingham Forest x Leeds United | Rodada 1
+DTSTART;TZID=America/Sao_Paulo:20260822T110000
+DTEND;TZID=America/Sao_Paulo:20260822T133000
+DTSTAMP:20260801T115245Z
+UID:d17d6a139bbc628b1ba1bc56bd3c0613224cf90241a52dae3fbe9dd66bccd5e3@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,premier-league
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
+ : City Ground\n🌎 Cidade/País: Nottingham\, Inglaterra\nℹ️ Status: 
+ Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news/4675
+ 097/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última verif
+ icação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:City Ground
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
+ 627-premier-league-season/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Futebol — Eintracht Trier x RB Leipzig | Copa da Alemanha — 1
  ª rodada
 DTSTART;TZID=America/Sao_Paulo:20260822T130000
@@ -1355,6 +1642,29 @@ LAST-MODIFIED:20260801T115245Z
 LOCATION:Sports Illustrated Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Premier League — Brighton x Aston Villa | Rodada 1
+DTSTART;TZID=America/Sao_Paulo:20260823T100000
+DTEND;TZID=America/Sao_Paulo:20260823T123000
+DTSTAMP:20260801T115245Z
+UID:760502728d0d2e7daa677c2bc3ac4c06923a196a4130d6e021eaa9dde4313c1b@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,premier-league
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
+ : American Express Stadium\n🌎 Cidade/País: Brighton\, Inglaterra\nℹ
+ ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/
+ en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n🕒 
+ Última verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:American Express Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
+ 627-premier-league-season/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Premier League — Manchester City x Bournemouth | Rodada 1

@@ -52,6 +52,75 @@ URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
  627-premier-league-season/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Premier League — Everton x Crystal Palace | Rodada 1
+DTSTART;TZID=America/Sao_Paulo:20260822T110000
+DTEND;TZID=America/Sao_Paulo:20260822T133000
+DTSTAMP:20260801T115245Z
+UID:450efb229f73ed616bce4d8aaac0085f64b35d1531b05bb00a5069d920c725ca@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,premier-league
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
+ : Hill Dickinson Stadium\n🌎 Cidade/País: Liverpool\, Inglaterra\nℹ
+ ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/
+ en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n🕒 
+ Última verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:Hill Dickinson Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
+ 627-premier-league-season/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Premier League — Ipswich Town x Sunderland | Rodada 1
+DTSTART;TZID=America/Sao_Paulo:20260822T110000
+DTEND;TZID=America/Sao_Paulo:20260822T133000
+DTSTAMP:20260801T115245Z
+UID:0ce82ae5822acbd71291d6113353e1f3cfa68fdd42c03981bb2e2940c7b19315@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,premier-league
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
+ : Portman Road\n🌎 Cidade/País: Ipswich\, Inglaterra\nℹ️ Status: Co
+ nfirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news/467509
+ 7/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última verific
+ ação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:Portman Road
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
+ 627-premier-league-season/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Premier League — Nottingham Forest x Leeds United | Rodada 1
+DTSTART;TZID=America/Sao_Paulo:20260822T110000
+DTEND;TZID=America/Sao_Paulo:20260822T133000
+DTSTAMP:20260801T115245Z
+UID:d17d6a139bbc628b1ba1bc56bd3c0613224cf90241a52dae3fbe9dd66bccd5e3@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,premier-league
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
+ : City Ground\n🌎 Cidade/País: Nottingham\, Inglaterra\nℹ️ Status: 
+ Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news/4675
+ 097/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última verif
+ icação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:City Ground
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
+ 627-premier-league-season/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Premier League — Brentford x Tottenham Hotspur | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260822T133000
 DTEND;TZID=America/Sao_Paulo:20260822T160000
@@ -69,6 +138,29 @@ DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  Última verificação: 01/08/2026 08:52 -03
 LAST-MODIFIED:20260801T115245Z
 LOCATION:Gtech Community Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
+ 627-premier-league-season/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Premier League — Brighton x Aston Villa | Rodada 1
+DTSTART;TZID=America/Sao_Paulo:20260823T100000
+DTEND;TZID=America/Sao_Paulo:20260823T123000
+DTSTAMP:20260801T115245Z
+UID:760502728d0d2e7daa677c2bc3ac4c06923a196a4130d6e021eaa9dde4313c1b@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,premier-league
+CREATED:20260801T115245Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
+ : American Express Stadium\n🌎 Cidade/País: Brighton\, Inglaterra\nℹ
+ ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/
+ en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n🕒 
+ Última verificação: 01/08/2026 08:52 -03
+LAST-MODIFIED:20260801T115245Z
+LOCATION:American Express Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202
