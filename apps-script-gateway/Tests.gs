@@ -63,6 +63,22 @@ function testRollbackSnapshotRetention_() {
   assertGateway_(values.UNRELATED_PROPERTY === 'keep', 'unrelated_property_retained');
 }
 
+function testPhaseRoundCompaction_() {
+  assertGateway_(
+    compactPhaseRound_('rodada 1 — rodada 1 — rodada 1') === 'rodada 1',
+    'identical_phase_segments_collapsed'
+  );
+  assertGateway_(
+    compactPhaseRound_('fase inicial — rodada não informada — fase inicial — rodada não informada') ===
+      'fase inicial — rodada não informada',
+    'repeated_phase_round_pair_collapsed'
+  );
+  assertGateway_(
+    compactPhaseRound_('Corrida 1 — Etapa 5') === 'Corrida 1 — Etapa 5',
+    'distinct_phase_round_preserved'
+  );
+}
+
 function testExportSafe_() {
   const exported = exportSanitizedEvents_();
   assertGateway_(exported.event_count === exported.events.length, 'export_count');
@@ -77,6 +93,7 @@ function runGatewayTests() {
   testCalendarSequence_();
   testDeletedTombstone_();
   testRollbackSnapshotRetention_();
+  testPhaseRoundCompaction_();
   testExportSafe_();
-  return {ok: true, tests: 7, calendar_writes: 0};
+  return {ok: true, tests: 8, calendar_writes: 0};
 }
