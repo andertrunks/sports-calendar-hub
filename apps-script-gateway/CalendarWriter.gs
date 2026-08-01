@@ -193,17 +193,53 @@ function snapshotRecord_(operation, item) {
   }};
 }
 
+const SCH_ROLLBACK_RETENTION = 1;
+const SCH_ROLLBACK_CHUNK_SIZE = 7000;
+
+function rollbackExecutionIds_(propertyMap) {
+  return Object.keys(propertyMap)
+    .filter(function (key) { return key.indexOf('ROLLBACK_') === 0 && /_COUNT$/.test(key); })
+    .map(function (key) { return key.slice('ROLLBACK_'.length, -'_COUNT'.length); })
+    .sort()
+    .reverse();
+}
+
+function deleteRollbackSnapshot_(executionId, props) {
+  const prefix = 'ROLLBACK_' + executionId + '_';
+  const propertyMap = props.getProperties();
+  Object.keys(propertyMap).forEach(function (key) {
+    if (key.indexOf(prefix) === 0) props.deleteProperty(key);
+  });
+}
+
+function pruneRollbackSnapshots_(props, keepCount) {
+  rollbackExecutionIds_(props.getProperties())
+    .slice(Math.max(0, keepCount))
+    .forEach(function (executionId) { deleteRollbackSnapshot_(executionId, props); });
+}
+
 function saveRollbackSnapshot_(executionId, plan) {
   const records = [];
   plan.create.forEach(function (item) { records.push(snapshotRecord_('create', item)); });
   plan.update.forEach(function (item) { records.push(snapshotRecord_('update', item)); });
   plan.delete.forEach(function (item) { records.push(snapshotRecord_('delete', item)); });
-  const text = JSON.stringify(records);
   const props = PropertiesService.getScriptProperties();
-  const size = 7000;
-  const parts = Math.ceil(text.length / size);
-  props.setProperty('ROLLBACK_' + executionId + '_COUNT', String(parts));
-  for (let i = 0; i < parts; i += 1) props.setProperty('ROLLBACK_' + executionId + '_' + i, text.slice(i * size, (i + 1) * size));
+
+  // A new apply supersedes older recovery points. Pruning first is essential
+  // because Script Properties has a small project-wide storage quota.
+  pruneRollbackSnapshots_(props, SCH_ROLLBACK_RETENTION - 1);
+  deleteRollbackSnapshot_(executionId, props);
+  if (!records.length) return;
+
+  const text = JSON.stringify(records);
+  const parts = Math.ceil(text.length / SCH_ROLLBACK_CHUNK_SIZE);
+  const values = {};
+  values['ROLLBACK_' + executionId + '_COUNT'] = String(parts);
+  for (let i = 0; i < parts; i += 1) {
+    values['ROLLBACK_' + executionId + '_' + i] =
+      text.slice(i * SCH_ROLLBACK_CHUNK_SIZE, (i + 1) * SCH_ROLLBACK_CHUNK_SIZE);
+  }
+  props.setProperties(values, false);
 }
 
 function loadRollbackSnapshot_(executionId) {
