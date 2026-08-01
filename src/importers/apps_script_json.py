@@ -15,7 +15,7 @@ from ..calendar_payload import SCHEMA_VERSION, data_hash, preserve_uid_and_seque
 from ..config import DATA_DIR, DEFAULT_TIMEZONE, PROJECT_ROOT
 from ..deduplicate import deduplicate_events
 from ..models import SportsEvent
-from ..normalize import normalize_event, permanent_uid
+from ..normalize import normalize_event, normalize_phase_round, permanent_uid
 from ..scope_rules import determine_priority, is_event_in_scope
 
 FORBIDDEN_EXPORT_FIELDS = {
@@ -78,6 +78,9 @@ def _event_from_export(raw: dict[str, Any]) -> SportsEvent:
         end = isoparse(raw_end) if raw_end else start + timedelta(hours=2, minutes=30)
         if end.tzinfo is None:
             end = end.replace(tzinfo=zone)
+    phase, round_ = normalize_phase_round(
+        str(raw.get("phase") or ""), str(raw.get("round") or "")
+    )
     verified_raw = raw.get("last_verified") or raw.get("generated_at")
     verified = isoparse(str(verified_raw)) if verified_raw else start.astimezone(UTC)
     if verified.tzinfo is None:
@@ -94,8 +97,8 @@ def _event_from_export(raw: dict[str, Any]) -> SportsEvent:
         age_group=str(raw.get("age_group") or ""),
         gender=str(raw.get("gender") or ""),
         competition=str(raw.get("competition") or ""),
-        phase=str(raw.get("phase") or ""),
-        round=str(raw.get("round") or ""),
+        phase=phase,
+        round=round_,
         participant_1=str(raw.get("participant_1") or ""),
         participant_2=str(raw.get("participant_2") or ""),
         start=start,
@@ -156,13 +159,21 @@ def import_export(
     unique = deduplicate_events(converted)
     preserved, changes = preserve_uid_and_sequence(unique, _read_existing(events_path))
     preserved.sort(key=lambda event: (event.start, event.title, permanent_uid(event)))
+    previous_snapshot: dict[str, Any] = {}
+    if events_path.exists():
+        previous_document = json.loads(events_path.read_text(encoding="utf-8"))
+        if isinstance(previous_document, dict) and isinstance(previous_document.get("snapshot"), dict):
+            previous_snapshot = previous_document["snapshot"]
+    imported_at = payload["generated_at"]
+    if previous_snapshot.get("source_hash") == payload["data_hash"]:
+        imported_at = previous_snapshot.get("imported_at") or imported_at
     document = {
         "schema_version": SCHEMA_VERSION,
         "snapshot": {
             "source": "Sports Calendar Hub Gateway",
             "sheet": "Eventos",
             "source_hash": payload["data_hash"],
-            "imported_at": payload["generated_at"],
+            "imported_at": imported_at,
             "privacy": "IDs de origem somente como hashes SHA-256; sem credenciais ou participantes.",
         },
         "events": [event.to_dict() for event in preserved],

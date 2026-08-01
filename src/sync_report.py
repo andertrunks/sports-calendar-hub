@@ -24,12 +24,10 @@ def build_report(
         "by_group": dict(sorted(Counter(event.color_group for event in rows).items())),
         "import": {k: import_summary[k] for k in ("source_rows", "in_scope", "unique_events", "deduplicated", "changes")},
         "dry_run": {
-            "execution_id": dry_run_response.get("execution_id"),
             "plan": dry_run_response.get("plan", {}),
             "primary_duplicate_reviews": len(dry_run_response.get("primary_duplicate_reviews") or []),
         },
         "apply": {
-            "execution_id": apply_response.get("execution_id"),
             "plan": apply_response.get("plan", {}),
             "result": apply_response.get("result", {}),
         },

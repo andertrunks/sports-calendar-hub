@@ -15,6 +15,7 @@ from .scope_rules import determine_color_group, normalize_team_name
 _HTML_TAG = re.compile(r"<[^>]+>")
 _SPACE = re.compile(r"\s+")
 _MATCHUP_SEPARATOR = re.compile(r"\s+(?:x|vs\.?|versus|×)\s+", re.IGNORECASE)
+_PHASE_SEPARATOR = re.compile(r"\s+[—–]\s+")
 
 
 def remove_html(value: str) -> str:
@@ -35,6 +36,21 @@ def normalize_for_comparison(value: str) -> str:
     without_accents = "".join(ch for ch in decomposed if not unicodedata.combining(ch))
     without_punctuation = re.sub(r"[^a-z0-9]+", " ", without_accents)
     return collapse_spaces(without_punctuation)
+
+
+def normalize_phase_round(phase: str, round_: str) -> tuple[str, str]:
+    """Merge a combined phase/round source without repeating equivalent segments."""
+
+    unique: list[str] = []
+    seen: set[str] = set()
+    for value in (phase, round_):
+        for segment in _PHASE_SEPARATOR.split(clean_display_text(value)):
+            cleaned = clean_display_text(segment)
+            key = normalize_for_comparison(cleaned)
+            if key and key not in seen:
+                seen.add(key)
+                unique.append(cleaned)
+    return " — ".join(unique), ""
 
 
 def normalize_participant(value: str) -> str:
