@@ -1,74 +1,72 @@
 {
   "schema_version": "2.0",
-  "source_hash": "bd79eac5116893c0b1d26d656fc54bcf9750b3590af3b5e1cd261dc50d87b0bb",
-  "events": 90,
+  "source_hash": "06df3374efa615523b6f66c68adc7099a36b50defa7a92840bb9f5ac7f05b49a",
+  "events": 79,
   "by_group": {
-    "automobilismo": 4,
-    "brasileirao": 35,
+    "brasileirao": 24,
     "clubes-regionais": 16,
-    "continentais": 3,
-    "red-bull": 13,
-    "sao-paulo": 18,
-    "selecao-brasileira": 1
+    "premier-league": 6,
+    "red-bull": 19,
+    "sao-paulo": 14
   },
   "import": {
-    "source_rows": 104,
-    "in_scope": 90,
-    "unique_events": 90,
+    "source_rows": 93,
+    "in_scope": 79,
+    "unique_events": 79,
     "deduplicated": 0,
     "changes": {
-      "created": 4,
-      "updated": 86,
+      "created": 32,
+      "updated": 47,
       "unchanged": 0
     }
   },
   "dry_run": {
-    "execution_id": "dry-20260721155851-626033758779",
+    "execution_id": "dry-20260801112915-6b64dcddd6f8",
     "plan": {
       "create": 0,
-      "update": 90,
+      "update": 79,
       "unchanged": 0,
-      "delete": 1,
+      "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
-      "scope_delete": 1,
-      "existing_future": 181,
+      "scope_delete": 0,
+      "existing_future": 133,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
     "primary_duplicate_reviews": 0
   },
   "apply": {
-    "execution_id": "apply-20260721155858-626033758779",
+    "execution_id": "apply-20260801112925-6b64dcddd6f8",
     "plan": {
       "create": 0,
       "update": 0,
-      "unchanged": 90,
+      "unchanged": 79,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 180,
+      "existing_future": 133,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
     "result": {
       "created": 0,
-      "updated": 90,
+      "updated": 79,
       "unchanged": 0,
-      "deleted": 1,
+      "deleted": 0,
       "post_validation": {
         "create": 0,
         "update": 0,
-        "unchanged": 90,
+        "unchanged": 79,
         "delete": 0,
         "primary_delete": 0,
         "missing_uid": 0,
         "duplicate_delete": 0,
         "scope_delete": 0,
-        "existing_future": 180,
+        "existing_future": 133,
         "privacy_violations": 0,
         "duplicate_reviews": 0
       }
