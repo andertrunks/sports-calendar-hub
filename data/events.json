@@ -3,8 +3,8 @@
   "snapshot": {
     "source": "Sports Calendar Hub Gateway",
     "sheet": "Eventos",
-    "source_hash": "06df3374efa615523b6f66c68adc7099a36b50defa7a92840bb9f5ac7f05b49a",
-    "imported_at": "2026-08-01T08:31:06-03:00",
+    "source_hash": "ab06dac7a30d21338c4e2ff8e85ae1d433cd8f034fe44f7e85034e8860912914",
+    "imported_at": "2026-08-01T08:48:11-03:00",
     "privacy": "IDs de origem somente como hashes SHA-256; sem credenciais ou participantes."
   },
   "events": [
@@ -20,8 +20,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "ADMIRAL Bundesliga 2026/27",
-      "phase": "rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1",
-      "round": "rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1",
+      "phase": "rodada 1",
+      "round": "",
       "participant_1": "Red Bull Salzburg",
       "participant_2": "Hartberg",
       "start": "2026-08-01T14:30:00-03:00",
@@ -45,7 +45,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "6372480ea928fcffe5dcc5627a97e0096da6ca8da55ce08ec1ce81a89c59d8b1@sports-calendar-hub",
@@ -59,8 +59,8 @@
       "age_group": "u20",
       "gender": "masculino",
       "competition": "Campeonato Paulista Sub-20 2026",
-      "phase": "primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase",
-      "round": "primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase",
+      "phase": "primeira fase",
+      "round": "",
       "participant_1": "São Paulo",
       "participant_2": "Botafogo-SP",
       "start": "2026-08-01T15:00:00-03:00",
@@ -84,7 +84,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "4abcb3be04b778d5aebdf3dcd6dca0106ad7d1a92bc047e48a2841cfbf204e0d@sports-calendar-hub",
@@ -98,8 +98,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Major League Soccer 2026",
-      "phase": "temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular",
-      "round": "temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular — temporada regular",
+      "phase": "temporada regular",
+      "round": "",
       "participant_1": "New York Red Bulls",
       "participant_2": "Orlando City",
       "start": "2026-08-01T20:30:00-03:00",
@@ -123,7 +123,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "97686456f16422ea6cf12e9f99274a5de41879d6d8fb3e0e6dce7dabae64053d@sports-calendar-hub",
@@ -137,8 +137,8 @@
       "age_group": "senior",
       "gender": "feminino",
       "competition": "Campeonato Brasileiro Feminino A1 2026",
-      "phase": "fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte",
-      "round": "fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte",
+      "phase": "fase inicial — rodada não informada na fonte",
+      "round": "",
       "participant_1": "Vitória",
       "participant_2": "São Paulo",
       "start": "2026-08-01T21:00:00-03:00",
@@ -162,7 +162,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "f9b97f5ba19e6e5ad9f172dd9a478c4c42bb856a39f9e5c69304bd24d05eac09@sports-calendar-hub",
@@ -176,8 +176,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Copa Paulista 2026",
-      "phase": "primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3",
-      "round": "primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3",
+      "phase": "primeira fase — rodada 3",
+      "round": "",
       "participant_1": "Juventus-SP",
       "participant_2": "Primavera",
       "start": "2026-08-02T10:00:00-03:00",
@@ -201,7 +201,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "abd44c6f8cd221e92bfb46e4bfdeb840d23256bc3a7ba3a3b96b7731f34bbebb@sports-calendar-hub",
@@ -215,8 +215,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Copa Paulista 2026",
-      "phase": "primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3",
-      "round": "primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3",
+      "phase": "primeira fase — rodada 3",
+      "round": "",
       "participant_1": "Comercial-SP",
       "participant_2": "União São João",
       "start": "2026-08-02T16:00:00-03:00",
@@ -240,7 +240,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "688529ef69b3edf77af92491083dabd10c48e446cfa3c1d23ceaa076c35b121e@sports-calendar-hub",
@@ -254,8 +254,8 @@
       "age_group": "u17",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Sub-17 2026",
-      "phase": "fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória",
-      "round": "fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória — fase classificatória",
+      "phase": "fase classificatória",
+      "round": "",
       "participant_1": "Botafogo",
       "participant_2": "São Paulo",
       "start": "2026-08-04T16:00:00-03:00",
@@ -279,7 +279,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "92f544d87378150b54d7fa354b7c273ecb19be89aaf82842a2b0b1149fee3815@sports-calendar-hub",
@@ -293,8 +293,8 @@
       "age_group": "u20",
       "gender": "masculino",
       "competition": "Campeonato Paulista Sub-20 2026",
-      "phase": "primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase",
-      "round": "primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase",
+      "phase": "primeira fase",
+      "round": "",
       "participant_1": "SC Aguaí",
       "participant_2": "São Paulo",
       "start": "2026-08-07T15:00:00-03:00",
@@ -318,7 +318,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "91e97fb5b3b87bfbac2e0eb7186c6ee3c6370947b5241e5c44b2778313c859d1@sports-calendar-hub",
@@ -332,8 +332,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Meiji Yasuda J2 League 2026/27",
-      "phase": "rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1",
-      "round": "rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1 — rodada 1",
+      "phase": "rodada 1",
+      "round": "",
       "participant_1": "RB Omiya Ardija",
       "participant_2": "Albirex Niigata",
       "start": "2026-08-08T07:00:00-03:00",
@@ -357,7 +357,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "45fbc25e3739070a0cbdb53aa7a0d8c8742ce012b659aa5f28ec4ef0aa5ee7bb@sports-calendar-hub",
@@ -371,8 +371,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "Grêmio",
       "participant_2": "São Paulo",
       "start": "2026-08-08T16:00:00-03:00",
@@ -396,7 +396,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "8c58794359be49d12f5caaf2dda04ef7d0740309e69ab536bb03654a95111d94@sports-calendar-hub",
@@ -410,8 +410,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série C 2026",
-      "phase": "primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16",
-      "round": "primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada 16",
+      "phase": "primeira fase — rodada 16",
+      "round": "",
       "participant_1": "Figueirense",
       "participant_2": "Ferroviária",
       "start": "2026-08-08T17:00:00-03:00",
@@ -435,7 +435,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "51bc086d56b2731fd202acd5ccae185d987815161f909d992a395b4f56f3cd98@sports-calendar-hub",
@@ -449,8 +449,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Copa Paulista 2026",
-      "phase": "primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4",
-      "round": "primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4",
+      "phase": "primeira fase — rodada 4",
+      "round": "",
       "participant_1": "Primavera",
       "participant_2": "Juventus-SP",
       "start": "2026-08-08T17:00:00-03:00",
@@ -474,7 +474,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "e399b670972b74422240a89a97a80f1bded34d9a5afd0b181e0e25919fe8feab@sports-calendar-hub",
@@ -488,8 +488,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Copa Paulista 2026",
-      "phase": "primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4",
-      "round": "primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 4",
+      "phase": "primeira fase — rodada 4",
+      "round": "",
       "participant_1": "União São João",
       "participant_2": "Comercial-SP",
       "start": "2026-08-08T17:00:00-03:00",
@@ -513,7 +513,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "91406a741a6a26db5e93decc2fd2abdac249d056f4584466b0b73235c84ba504@sports-calendar-hub",
@@ -527,8 +527,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série B 2026",
-      "phase": "fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21",
-      "round": "fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21 — fase única — rodada 21",
+      "phase": "fase única — rodada 21",
+      "round": "",
       "participant_1": "Botafogo-SP",
       "participant_2": "América-MG",
       "start": "2026-08-08T18:30:00-03:00",
@@ -552,7 +552,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "304f84c9863f8fe0ac4bf2202d459eb199581e2135f0a2e89dc1ff34f5b17c23@sports-calendar-hub",
@@ -566,8 +566,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "Remo",
       "participant_2": "Atlético-MG",
       "start": "2026-08-08T18:30:00-03:00",
@@ -591,7 +591,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "7cec1545a933d28b73a0bcfb14ed2ff3ff9ece31d43a3d5ddd0b1d40368fe8c6@sports-calendar-hub",
@@ -605,8 +605,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "Coritiba",
       "participant_2": "Chapecoense",
       "start": "2026-08-08T20:30:00-03:00",
@@ -630,7 +630,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "98bb29228de38b5b214af44779804781754f76fd6251fd8a9a91363a53117976@sports-calendar-hub",
@@ -644,8 +644,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "Botafogo",
       "participant_2": "Fluminense",
       "start": "2026-08-08T21:00:00-03:00",
@@ -669,7 +669,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "5c8781a4795546be4541fc9bf0fd8a9eeab78b8e017942c6e97c35266c71efde@sports-calendar-hub",
@@ -683,8 +683,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "Cruzeiro",
       "participant_2": "Mirassol",
       "start": "2026-08-09T11:00:00-03:00",
@@ -708,7 +708,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "6c742a3d199085c6f4439801cbb2e98c610b189963cf15d9627bb33a0e1fe29c@sports-calendar-hub",
@@ -722,8 +722,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "ADMIRAL Bundesliga 2026/27",
-      "phase": "rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2",
-      "round": "rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2",
+      "phase": "rodada 2",
+      "round": "",
       "participant_1": "Wolfsberger AC",
       "participant_2": "Red Bull Salzburg",
       "start": "2026-08-09T12:00:00-03:00",
@@ -747,7 +747,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "fd89eb26a6ea5415dd35bba30744b7276c43f8501ae8d3444e26a5a1a06d9faf@sports-calendar-hub",
@@ -761,8 +761,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "Bahia",
       "participant_2": "Vasco",
       "start": "2026-08-09T16:00:00-03:00",
@@ -786,7 +786,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "5682eb2a7c4ddacc82053e61ecb06cf92f04bc3a932b71a1cd55260a82b7920e@sports-calendar-hub",
@@ -800,8 +800,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "Palmeiras",
       "participant_2": "Internacional",
       "start": "2026-08-09T16:00:00-03:00",
@@ -825,7 +825,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "a4c9027a5131d6bd24e3848f37da7e1d34c4349b5e14bb967dfad862efc94e83@sports-calendar-hub",
@@ -839,8 +839,8 @@
       "age_group": "senior",
       "gender": "feminino",
       "competition": "Campeonato Brasileiro Feminino A1 2026",
-      "phase": "fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte",
-      "round": "fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte",
+      "phase": "fase inicial — rodada não informada na fonte",
+      "round": "",
       "participant_1": "São Paulo",
       "participant_2": "Red Bull Bragantino",
       "start": "2026-08-09T18:00:00-03:00",
@@ -864,7 +864,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "0ea38d00c9c39565065ff797109752632a00c0f2ba5931366de2fae1e4568053@sports-calendar-hub",
@@ -878,8 +878,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "Red Bull Bragantino",
       "participant_2": "Corinthians",
       "start": "2026-08-09T18:30:00-03:00",
@@ -903,7 +903,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "2d30b2f23b5c2ad47c4a4819528f13151a641e4f09683100e16989a62b44073f@sports-calendar-hub",
@@ -917,8 +917,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "Santos",
       "participant_2": "Athletico-PR",
       "start": "2026-08-09T18:30:00-03:00",
@@ -942,7 +942,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "e4aadd65c7e257bdb97303fa9a1570e48fe7c9caa57ed2a797f3c9a869a1dcf5@sports-calendar-hub",
@@ -956,8 +956,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "Flamengo",
       "participant_2": "Vitória",
       "start": "2026-08-09T19:30:00-03:00",
@@ -981,7 +981,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "1a69cb0feecdc96989396e780ef0fa357ac4762a5be940ccb9628864940b9403@sports-calendar-hub",
@@ -995,8 +995,8 @@
       "age_group": "u20",
       "gender": "masculino",
       "competition": "Campeonato Paulista Sub-20 2026",
-      "phase": "primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase",
-      "round": "primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase",
+      "phase": "primeira fase",
+      "round": "",
       "participant_1": "Novorizontino",
       "participant_2": "São Paulo",
       "start": "2026-08-11T15:00:00-03:00",
@@ -1020,7 +1020,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "91e2ec786a1c4b3d6f1f965c384cd0532da51eebe3ecbc743a199e8fe14cbe7a@sports-calendar-hub",
@@ -1034,8 +1034,8 @@
       "age_group": "senior",
       "gender": "feminino",
       "competition": "Campeonato Paulista Feminino 2026",
-      "phase": "rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6",
-      "round": "rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6 — rodada 6",
+      "phase": "rodada 6",
+      "round": "",
       "participant_1": "São Paulo",
       "participant_2": "Santos",
       "start": "2026-08-13T19:00:00-03:00",
@@ -1059,7 +1059,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "725814426905049391ae4afe5aed09f6c24996c0f895dcfbf1c21de17cc1c680@sports-calendar-hub",
@@ -1073,8 +1073,8 @@
       "age_group": "u20",
       "gender": "masculino",
       "competition": "Campeonato Paulista Sub-20 2026",
-      "phase": "primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase",
-      "round": "primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase — primeira fase",
+      "phase": "primeira fase",
+      "round": "",
       "participant_1": "São Paulo",
       "participant_2": "Ibrachina",
       "start": "2026-08-14T15:00:00-03:00",
@@ -1098,7 +1098,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "b4b0b5383b22ccc283d176e3570d3db8bf94c300fafa0aa8c815d95f2b848ace@sports-calendar-hub",
@@ -1112,8 +1112,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Meiji Yasuda J2 League 2026/27",
-      "phase": "rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2",
-      "round": "rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2 — rodada 2",
+      "phase": "rodada 2",
+      "round": "",
       "participant_1": "FC Imabari",
       "participant_2": "RB Omiya Ardija",
       "start": "2026-08-15T07:00:00-03:00",
@@ -1137,7 +1137,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "0cc4181102fb902dd214a35df5a5ba3babd017cf5f0ac382950b4cc8928f65fb@sports-calendar-hub",
@@ -1151,8 +1151,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "Atlético-MG",
       "participant_2": "Grêmio",
       "start": "2026-08-15T16:30:00-03:00",
@@ -1176,7 +1176,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "980b73082016cb858431eafadd4037c802d17db1a7937946149ff56d0db6efa8@sports-calendar-hub",
@@ -1190,8 +1190,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "Fluminense",
       "participant_2": "Palmeiras",
       "start": "2026-08-15T16:30:00-03:00",
@@ -1215,7 +1215,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "dd1fefbd098ab44e7af1f885d6ef3d23b9ac16e9894c7a62b0a245e5cc5d60d6@sports-calendar-hub",
@@ -1229,8 +1229,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Copa Paulista 2026",
-      "phase": "primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5",
-      "round": "primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5",
+      "phase": "primeira fase — rodada 5",
+      "round": "",
       "participant_1": "Paulista",
       "participant_2": "Juventus-SP",
       "start": "2026-08-15T17:00:00-03:00",
@@ -1254,7 +1254,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "6e9e638ad341cf8db7e062d37548096545796073c9d572a09d970fe9d199f15e@sports-calendar-hub",
@@ -1268,8 +1268,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "Athletico-PR",
       "participant_2": "Red Bull Bragantino",
       "start": "2026-08-15T18:30:00-03:00",
@@ -1293,7 +1293,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "af428c2d5483e8d55dd3c133bc85e3a54925148311fc6d71849de95e9d503c2d@sports-calendar-hub",
@@ -1307,8 +1307,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "São Paulo",
       "participant_2": "Coritiba",
       "start": "2026-08-15T21:00:00-03:00",
@@ -1332,7 +1332,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "5eba105663c0482b56b5142ac7f7ad97c1b1c6f86d44c24a74ef93885d092d2c@sports-calendar-hub",
@@ -1346,8 +1346,8 @@
       "age_group": "senior",
       "gender": "feminino",
       "competition": "Campeonato Brasileiro Feminino A1 2026",
-      "phase": "fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte",
-      "round": "fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte — fase inicial — rodada não informada na fonte",
+      "phase": "fase inicial — rodada não informada na fonte",
+      "round": "",
       "participant_1": "Botafogo",
       "participant_2": "São Paulo",
       "start": "2026-08-16T11:00:00-03:00",
@@ -1371,7 +1371,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "b7ce80f8417759d54b9b8eb4ecea7ddcb85aa445db3a89aa40bb49ae2aca0b97@sports-calendar-hub",
@@ -1385,8 +1385,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "Chapecoense",
       "participant_2": "Bahia",
       "start": "2026-08-16T11:00:00-03:00",
@@ -1410,7 +1410,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "7e207fbd52b0fca0105ebe228bb99ed97ef79f12601c3e2beb28dff5fa6c1595@sports-calendar-hub",
@@ -1424,8 +1424,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "ADMIRAL Bundesliga 2026/27",
-      "phase": "rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3",
-      "round": "rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3 — rodada 3",
+      "phase": "rodada 3",
+      "round": "",
       "participant_1": "WSG Tirol",
       "participant_2": "Red Bull Salzburg",
       "start": "2026-08-16T12:00:00-03:00",
@@ -1449,7 +1449,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "c037619a55f8b5fb713d803ba2fc3b55bcd09d90bf49598426bbf5de246d06b8@sports-calendar-hub",
@@ -1463,8 +1463,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série B 2026",
-      "phase": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
-      "round": "fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22 — fase única — rodada 22",
+      "phase": "fase única — rodada 22",
+      "round": "",
       "participant_1": "São Bernardo",
       "participant_2": "Botafogo-SP",
       "start": "2026-08-16T16:00:00-03:00",
@@ -1488,7 +1488,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "d775c6e4e8c737b9dd149c5cefc868b0b1015a1b1a2234cf7610d7d331758740@sports-calendar-hub",
@@ -1502,8 +1502,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "Vasco",
       "participant_2": "Santos",
       "start": "2026-08-16T16:00:00-03:00",
@@ -1527,7 +1527,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "f50b83740afcab996e9ce00e2488573e3f3efef0499d45409e492e52fd1e39da@sports-calendar-hub",
@@ -1541,8 +1541,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "Mirassol",
       "participant_2": "Flamengo",
       "start": "2026-08-16T18:30:00-03:00",
@@ -1566,7 +1566,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "437badeccb1460c565ea7de33e4cb3d2bb53bc08a893107ae4170c0113fe6a0f@sports-calendar-hub",
@@ -1580,8 +1580,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "Vitória",
       "participant_2": "Botafogo",
       "start": "2026-08-16T18:30:00-03:00",
@@ -1605,7 +1605,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "e519fed14370591cf965e323444d0b144c488239acac468ea0e939c28943bcdb@sports-calendar-hub",
@@ -1619,8 +1619,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "Corinthians",
       "participant_2": "Cruzeiro",
       "start": "2026-08-16T19:30:00-03:00",
@@ -1644,7 +1644,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "003cbb5eaab19013261c8830fd9163b1419930c05e7246f2eba221b7a961aeb4@sports-calendar-hub",
@@ -1658,8 +1658,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série C 2026",
-      "phase": "primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17",
-      "round": "primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada 17",
+      "phase": "primeira fase — rodada 17",
+      "round": "",
       "participant_1": "Ferroviária",
       "participant_2": "Paysandu",
       "start": "2026-08-17T20:00:00-03:00",
@@ -1683,7 +1683,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 4
+      "sequence": 5
     },
     {
       "uid": "b18be556d812ef7f0e41721499aacdff48cfddde37a82b0e544074ac518cbe56@sports-calendar-hub",
@@ -1697,8 +1697,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "Internacional",
       "participant_2": "Remo",
       "start": "2026-08-17T20:00:00-03:00",
@@ -1722,7 +1722,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 5
+      "sequence": 6
     },
     {
       "uid": "34bd82ac90a958d44f6950b6e5299f073f252c1863cefa5c5763dbd063f74c76@sports-calendar-hub",
@@ -1736,8 +1736,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Copa Paulista 2026",
-      "phase": "primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5",
-      "round": "primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5",
+      "phase": "primeira fase — rodada 5",
+      "round": "",
       "participant_1": "Comercial-SP",
       "participant_2": "XV de Piracicaba",
       "start": "2026-08-19T20:00:00-03:00",
@@ -1761,7 +1761,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 2
+      "sequence": 3
     },
     {
       "uid": "a395a3ecdd479ebd17a782315929797128b5b4084f01a686e7b2717e7c400847@sports-calendar-hub",
@@ -1775,8 +1775,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Major League Soccer 2026",
-      "phase": "temporada regular — temporada regular — temporada regular — temporada regular",
-      "round": "temporada regular — temporada regular — temporada regular — temporada regular",
+      "phase": "temporada regular",
+      "round": "",
       "participant_1": "New York Red Bulls",
       "participant_2": "Nashville SC",
       "start": "2026-08-19T20:30:00-03:00",
@@ -1800,7 +1800,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 2
+      "sequence": 3
     },
     {
       "uid": "151f196dcbe68b9ea60d49616035e6cec7e1d3627bd99e22078f734d0007c647@sports-calendar-hub",
@@ -1814,8 +1814,8 @@
       "age_group": "senior",
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série B 2026",
-      "phase": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
-      "round": "fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23 — fase única — rodada 23",
+      "phase": "fase única — rodada 23",
+      "round": "",
       "participant_1": "Botafogo-SP",
       "participant_2": "Criciúma",
       "start": "2026-08-19T21:30:00-03:00",
@@ -1839,7 +1839,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 2
+      "sequence": 3
     },
     {
       "uid": "de1f160bf4c42b2eb67abc787f455549bb7bdca7c7426a01383b563722a3a18d@sports-calendar-hub",
@@ -1854,7 +1854,7 @@
       "gender": "masculino",
       "competition": "Campeonato Paulista Sub-20 2026",
       "phase": "primeira fase",
-      "round": "primeira fase",
+      "round": "",
       "participant_1": "São Paulo",
       "participant_2": "Paulinense",
       "start": "2026-08-21T15:00:00-03:00",
@@ -1878,7 +1878,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "45b84aa2e2d04ebc22ad63826277b6d3043654f8150b714a5d5079c0e6e608cb@sports-calendar-hub",
@@ -1893,7 +1893,7 @@
       "gender": "masculino",
       "competition": "Premier League 2026/27",
       "phase": "rodada 1",
-      "round": "rodada 1",
+      "round": "",
       "participant_1": "Arsenal",
       "participant_2": "Coventry City",
       "start": "2026-08-21T16:00:00-03:00",
@@ -1917,7 +1917,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "8432888283c437f2253808823e4aaaa4ee2619add5cdfd425d2278db10a357d7@sports-calendar-hub",
@@ -1932,7 +1932,7 @@
       "gender": "masculino",
       "competition": "Meiji Yasuda J2 League 2026/27",
       "phase": "rodada 3",
-      "round": "rodada 3",
+      "round": "",
       "participant_1": "Hokkaido Consadole Sapporo",
       "participant_2": "RB Omiya Ardija",
       "start": "2026-08-22T03:00:00-03:00",
@@ -1956,7 +1956,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "db5b30b68e7934fb9231a7a842fd97c829e993f37cb62a4138edef2afdd8d63b@sports-calendar-hub",
@@ -1971,7 +1971,7 @@
       "gender": "masculino",
       "competition": "Premier League 2026/27",
       "phase": "rodada 1",
-      "round": "rodada 1",
+      "round": "",
       "participant_1": "Hull City",
       "participant_2": "Manchester United",
       "start": "2026-08-22T08:30:00-03:00",
@@ -1995,7 +1995,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "b66df984b173da4713dcc662fc8d33300ae5ff4877a112784c6eb8d3874dc901@sports-calendar-hub",
@@ -2010,7 +2010,7 @@
       "gender": "masculino",
       "competition": "DFB-Pokal 2026/27",
       "phase": "1ª rodada",
-      "round": "1ª rodada",
+      "round": "",
       "participant_1": "Eintracht Trier",
       "participant_2": "RB Leipzig",
       "start": "2026-08-22T13:00:00-03:00",
@@ -2034,7 +2034,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "d225900b8334abfdce321e3dab704347844bc1f80406096e574c4d9d99a4f009@sports-calendar-hub",
@@ -2049,7 +2049,7 @@
       "gender": "masculino",
       "competition": "Premier League 2026/27",
       "phase": "rodada 1",
-      "round": "rodada 1",
+      "round": "",
       "participant_1": "Brentford",
       "participant_2": "Tottenham Hotspur",
       "start": "2026-08-22T13:30:00-03:00",
@@ -2073,7 +2073,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "70d2725134b788372a0d4ebeb2f80f32f60843747d9bc84901bafe722c9e660e@sports-calendar-hub",
@@ -2088,7 +2088,7 @@
       "gender": "masculino",
       "competition": "Copa Paulista 2026",
       "phase": "primeira fase — rodada 6",
-      "round": "primeira fase — rodada 6",
+      "round": "",
       "participant_1": "Juventus-SP",
       "participant_2": "Osasco Sporting",
       "start": "2026-08-22T15:00:00-03:00",
@@ -2112,7 +2112,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "83a9419c533c036b9aae69e3f5503cc5b43fb627300f2a8ff27b5d9cd5b7af37@sports-calendar-hub",
@@ -2127,7 +2127,7 @@
       "gender": "masculino",
       "competition": "Copa Paulista 2026",
       "phase": "primeira fase — rodada 6",
-      "round": "primeira fase — rodada 6",
+      "round": "",
       "participant_1": "Noroeste",
       "participant_2": "Comercial-SP",
       "start": "2026-08-22T15:00:00-03:00",
@@ -2151,7 +2151,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "ac3a92226c2e53f26c788948fe2b0877cf02f2e58cbf596c8d67ab991f46274e@sports-calendar-hub",
@@ -2166,7 +2166,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Fluminense",
       "participant_2": "Remo",
       "start": "2026-08-22T16:00:00-03:00",
@@ -2190,7 +2190,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "2a814d0a5b731b2124ed2c3e13a74e6217403137d18d75bd1127b956c6902d45@sports-calendar-hub",
@@ -2205,7 +2205,7 @@
       "gender": "feminino",
       "competition": "Campeonato Brasileiro Feminino A1 2026",
       "phase": "fase inicial — rodada não informada na fonte",
-      "round": "fase inicial — rodada não informada na fonte",
+      "round": "",
       "participant_1": "São Paulo",
       "participant_2": "Mixto",
       "start": "2026-08-22T18:00:00-03:00",
@@ -2229,7 +2229,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "af54574d27c64ed838da0cef258499adb49feab65bb5dae0f8d47814e6d4e830@sports-calendar-hub",
@@ -2244,7 +2244,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Internacional",
       "participant_2": "Atlético-MG",
       "start": "2026-08-22T18:30:00-03:00",
@@ -2268,7 +2268,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "6801b84ea22c765e168847df9ea33ad416123238feb8708e993472370eb927c3@sports-calendar-hub",
@@ -2283,7 +2283,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Cruzeiro",
       "participant_2": "Flamengo",
       "start": "2026-08-22T20:30:00-03:00",
@@ -2307,7 +2307,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "2ff9a5268abfe9aec30120209d4a1c5248c3403b52a05eb460f1a20f2c5f8b98@sports-calendar-hub",
@@ -2322,7 +2322,7 @@
       "gender": "masculino",
       "competition": "Major League Soccer 2026",
       "phase": "temporada regular",
-      "round": "temporada regular",
+      "round": "",
       "participant_1": "New York Red Bulls",
       "participant_2": "Chicago Fire",
       "start": "2026-08-22T20:30:00-03:00",
@@ -2346,7 +2346,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "b8327c433c55bb99a5b108172cb2c86722e1f3b1180955cb2f74f667ab2a5b2b@sports-calendar-hub",
@@ -2361,7 +2361,7 @@
       "gender": "masculino",
       "competition": "Premier League 2026/27",
       "phase": "rodada 1",
-      "round": "rodada 1",
+      "round": "",
       "participant_1": "Manchester City",
       "participant_2": "Bournemouth",
       "start": "2026-08-23T10:00:00-03:00",
@@ -2385,7 +2385,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "e4870c888c54c917551569b3e1540de051d5c5ce6a0bd7d784e002e12f5365b2@sports-calendar-hub",
@@ -2400,7 +2400,7 @@
       "gender": "masculino",
       "competition": "Premier League 2026/27",
       "phase": "rodada 1",
-      "round": "rodada 1",
+      "round": "",
       "participant_1": "Newcastle United",
       "participant_2": "Liverpool",
       "start": "2026-08-23T12:30:00-03:00",
@@ -2424,7 +2424,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "a5a38502195aaa74358d29455cbd85dd4fed46029e8ac4dffe3db6e475e70c7b@sports-calendar-hub",
@@ -2439,7 +2439,7 @@
       "gender": "masculino",
       "competition": "ADMIRAL Bundesliga 2026/27",
       "phase": "rodada 4",
-      "round": "rodada 4",
+      "round": "",
       "participant_1": "Red Bull Salzburg",
       "participant_2": "Rapid Wien",
       "start": "2026-08-23T14:00:00-03:00",
@@ -2463,7 +2463,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "02c24c493dac3a1073f0f44789aa351738ae30353dfc8c05916cf1e2760017bf@sports-calendar-hub",
@@ -2478,7 +2478,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Palmeiras",
       "participant_2": "Vasco",
       "start": "2026-08-23T16:00:00-03:00",
@@ -2502,7 +2502,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "4ce992d44d5d394167edcd194b178354f4aa55216065a417d146b9f40b9547ce@sports-calendar-hub",
@@ -2517,7 +2517,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Red Bull Bragantino",
       "participant_2": "Grêmio",
       "start": "2026-08-23T16:00:00-03:00",
@@ -2541,7 +2541,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "3d1443bed9c2e452cfbd4f3dbf5de24b72cbb5390018ed209733cee867a44c1b@sports-calendar-hub",
@@ -2556,7 +2556,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Vitória",
       "participant_2": "Bahia",
       "start": "2026-08-23T16:00:00-03:00",
@@ -2580,7 +2580,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "6af69f48ade7952cb6ffea8def6a66d315a80bc8f72c7ac7aa5490597451b89b@sports-calendar-hub",
@@ -2595,7 +2595,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Chapecoense",
       "participant_2": "São Paulo",
       "start": "2026-08-23T18:30:00-03:00",
@@ -2619,7 +2619,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "db0535bca289d343d5fb229db74cea8b279d75381f6cdc200bd3e4843327d6e3@sports-calendar-hub",
@@ -2634,7 +2634,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Santos",
       "participant_2": "Mirassol",
       "start": "2026-08-23T18:30:00-03:00",
@@ -2658,7 +2658,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "c26ef7391e005544381ea59391b3be13389f7c029318e0062e9834dbb95873bf@sports-calendar-hub",
@@ -2673,7 +2673,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série C 2026",
       "phase": "primeira fase — rodada 18",
-      "round": "primeira fase — rodada 18",
+      "round": "",
       "participant_1": "Ypiranga-RS",
       "participant_2": "Ferroviária",
       "start": "2026-08-23T18:30:00-03:00",
@@ -2697,7 +2697,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "94b9a9a7f83d325db9088a7b95f85d5ded9c4c99db1a84e6566579fedb37a4ee@sports-calendar-hub",
@@ -2712,7 +2712,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Coritiba",
       "participant_2": "Corinthians",
       "start": "2026-08-23T19:30:00-03:00",
@@ -2736,7 +2736,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "9384364cebbea1480b577ed2a6693a92e254a9b77944bcece1a5e69bc46d2d8a@sports-calendar-hub",
@@ -2751,7 +2751,7 @@
       "gender": "masculino",
       "competition": "Premier League 2026/27",
       "phase": "rodada 1",
-      "round": "rodada 1",
+      "round": "",
       "participant_1": "Fulham",
       "participant_2": "Chelsea",
       "start": "2026-08-24T16:00:00-03:00",
@@ -2775,7 +2775,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "baa4743195cf5ca4636e3f732ca35c878df04693e36fa633d4b7dcbcf49ca422@sports-calendar-hub",
@@ -2790,7 +2790,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série A 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Botafogo",
       "participant_2": "Athletico-PR",
       "start": "2026-08-24T20:00:00-03:00",
@@ -2814,7 +2814,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "1584730df6778efe24e46c037c43a5e8d88a6681dc761e87e90932022dacfb90@sports-calendar-hub",
@@ -2829,7 +2829,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série B 2026",
       "phase": "fase única — rodada 24",
-      "round": "fase única — rodada 24",
+      "round": "",
       "participant_1": "Atlético-GO",
       "participant_2": "Botafogo-SP",
       "start": "2026-08-25T19:30:00-03:00",
@@ -2853,7 +2853,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "0c143a49f28419857343d5e6725a0d90620ecc9b4f37ccf1d67366268dc13d6e@sports-calendar-hub",
@@ -2868,7 +2868,7 @@
       "gender": "masculino",
       "competition": "Copa do Imperador 2026",
       "phase": "2ª rodada",
-      "round": "2ª rodada",
+      "round": "",
       "participant_1": "RB Omiya Ardija",
       "participant_2": "Vanraure Hachinohe",
       "start": "2026-08-26T07:00:00-03:00",
@@ -2892,7 +2892,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "4568556caf143a016db277329474ceba93e1cfc630f12776a83a664a118378ae@sports-calendar-hub",
@@ -2907,7 +2907,7 @@
       "gender": "masculino",
       "competition": "Meiji Yasuda J2 League 2026/27",
       "phase": "rodada 4",
-      "round": "rodada 4",
+      "round": "",
       "participant_1": "RB Omiya Ardija",
       "participant_2": "Shonan Bellmare",
       "start": "2026-08-29T07:00:00-03:00",
@@ -2931,7 +2931,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "da009b3ad7702a8c6a0097d88fe6e9baf7fcb837ee97293f7fe2592de30296b6@sports-calendar-hub",
@@ -2946,7 +2946,7 @@
       "gender": "masculino",
       "competition": "Bundesliga 2026/27",
       "phase": "rodada 1",
-      "round": "rodada 1",
+      "round": "",
       "participant_1": "RB Leipzig",
       "participant_2": "Borussia Mönchengladbach",
       "start": "2026-08-29T10:30:00-03:00",
@@ -2970,7 +2970,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "16a72e6b344ff709488862ee811a258fc5332b2f1cb8cda33064a4b19314ebcc@sports-calendar-hub",
@@ -2985,7 +2985,7 @@
       "gender": "masculino",
       "competition": "Campeonato Brasileiro Série C 2026",
       "phase": "primeira fase — rodada 19",
-      "round": "primeira fase — rodada 19",
+      "round": "",
       "participant_1": "Ferroviária",
       "participant_2": "Confiança",
       "start": "2026-08-29T17:00:00-03:00",
@@ -3009,7 +3009,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "f6b8750498e39faebfdcdbf78dcaaae0912773f7a4bd0d86b109e9f0115a4809@sports-calendar-hub",
@@ -3024,7 +3024,7 @@
       "gender": "masculino",
       "competition": "Major League Soccer 2026",
       "phase": "temporada regular",
-      "round": "temporada regular",
+      "round": "",
       "participant_1": "New York Red Bulls",
       "participant_2": "Philadelphia Union",
       "start": "2026-08-29T20:30:00-03:00",
@@ -3048,7 +3048,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     },
     {
       "uid": "72651eb78af6de12f8e1db57208572cc5c04e8bec4b176ac4093852fff0a0542@sports-calendar-hub",
@@ -3063,7 +3063,7 @@
       "gender": "masculino",
       "competition": "ADMIRAL Bundesliga 2026/27",
       "phase": "rodada 5",
-      "round": "rodada 5",
+      "round": "",
       "participant_1": "Red Bull Salzburg",
       "participant_2": "Austria Wien",
       "start": "2026-08-30T14:00:00-03:00",
@@ -3087,7 +3087,7 @@
       "highlight_reason": "",
       "managed_by": "sports-calendar-hub",
       "scope_version": "2.0",
-      "sequence": 0
+      "sequence": 1
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "source_hash": "06df3374efa615523b6f66c68adc7099a36b50defa7a92840bb9f5ac7f05b49a",
+  "source_hash": "ab06dac7a30d21338c4e2ff8e85ae1d433cd8f034fe44f7e85034e8860912914",
   "events": 79,
   "by_group": {
     "brasileirao": 24,
@@ -16,16 +16,15 @@
     "deduplicated": 0,
     "changes": {
       "created": 0,
-      "updated": 0,
-      "unchanged": 79
+      "updated": 79,
+      "unchanged": 0
     }
   },
   "dry_run": {
-    "execution_id": "dry-20260801113110-6b64dcddd6f8",
     "plan": {
       "create": 0,
-      "update": 0,
-      "unchanged": 79,
+      "update": 79,
+      "unchanged": 0,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
@@ -38,7 +37,6 @@
     "primary_duplicate_reviews": 0
   },
   "apply": {
-    "execution_id": "apply-20260801113118-6b64dcddd6f8",
     "plan": {
       "create": 0,
       "update": 0,
@@ -54,8 +52,8 @@
     },
     "result": {
       "created": 0,
-      "updated": 0,
-      "unchanged": 79,
+      "updated": 79,
+      "unchanged": 0,
       "deleted": 0,
       "post_validation": {
         "create": 0,

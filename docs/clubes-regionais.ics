@@ -12,21 +12,15 @@ DTEND;TZID=America/Sao_Paulo:20260802T123000
 DTSTAMP:20260801T090715Z
 UID:f9b97f5ba19e6e5ad9f172dd9a478c4c42bb856a39f9e5c69304bd24d05eac09@sport
  s-calendar-hub
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 3 
- — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira
-  fase — rodada 3 — primeira fase — rodada 3 — primeira fase — ro
- dada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — p
- rimeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase
-  — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 
- 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — primei
- ra fase — rodada 3\n🏟️ Local: Rua Javari\n🌎 Cidade/País: São P
- aulo — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: htt
- ps://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Últ
- ima verificação: 01/08/2026 06:07 -03
+ tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 3\
+ n🏟️ Local: Rua Javari\n🌎 Cidade/País: São Paulo — SP — Brasi
+ l\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://futebolpaulista.
+ com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Última verificação: 01
+ /08/2026 06:07 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Rua Javari
 STATUS:CONFIRMED
@@ -41,20 +35,14 @@ DTEND;TZID=America/Sao_Paulo:20260802T183000
 DTSTAMP:20260801T090715Z
 UID:abd44c6f8cd221e92bfb46e4bfdeb840d23256bc3a7ba3a3b96b7731f34bbebb@sport
  s-calendar-hub
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: Metrópoles Esportes no YouTube\n
  🏆 Competição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase —
-  rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 
- — primeira fase — rodada 3 — primeira fase — rodada 3 — primeira
-  fase — rodada 3 — primeira fase — rodada 3 — primeira fase — ro
- dada 3 — primeira fase — rodada 3 — primeira fase — rodada 3 — p
- rimeira fase — rodada 3 — primeira fase — rodada 3 — primeira fase
-  — rodada 3 — primeira fase — rodada 3 — primeira fase — rodada 
- 3 — primeira fase — rodada 3\n🏟️ Local: Estádio Palma Travassos\
- n🌎 Cidade/País: Ribeirão Preto — SP — Brasil\nℹ️ Status: Conf
- irmado\n🕒 Última verificação: 01/08/2026 06:07 -03
+  rodada 3\n🏟️ Local: Estádio Palma Travassos\n🌎 Cidade/País: Rib
+ eirão Preto — SP — Brasil\nℹ️ Status: Confirmado\n🕒 Última ve
+ rificação: 01/08/2026 06:07 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Estádio Palma Travassos
 STATUS:CONFIRMED
@@ -67,23 +55,17 @@ DTEND;TZID=America/Sao_Paulo:20260808T193000
 DTSTAMP:20260801T090715Z
 UID:8c58794359be49d12f5caaf2dda04ef7d0740309e69ab536bb03654a95111d94@sport
  s-calendar-hub
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
- ase — rodada 16 — primeira fase — rodada 16 — primeira fase — ro
- dada 16 — primeira fase — rodada 16 — primeira fase — rodada 16 
- — primeira fase — rodada 16 — primeira fase — rodada 16 — primei
- ra fase — rodada 16 — primeira fase — rodada 16 — primeira fase 
- — rodada 16 — primeira fase — rodada 16 — primeira fase — rodada
-  16 — primeira fase — rodada 16 — primeira fase — rodada 16 — pr
- imeira fase — rodada 16 — primeira fase — rodada 16\n🏟️ Local: 
- Estádio Orlando Scarpelli\n🌎 Cidade/País: Florianópolis — SC — B
- rasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.
- br/futebol-brasileiro/noticias/competicoes-campeonato-brasileiro-serie-c/a
- /cbf-divulga-tabela-detalhada-das-rodadas-16-a-19-da-serie-c-do-campeonato
- -brasileiro\n🕒 Última verificação: 01/08/2026 06:07 -03
+ ase — rodada 16\n🏟️ Local: Estádio Orlando Scarpelli\n🌎 Cidade/
+ País: Florianópolis — SC — Brasil\nℹ️ Status: Confirmado\n🔗 F
+ onte oficial: https://www.cbf.com.br/futebol-brasileiro/noticias/competico
+ es-campeonato-brasileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodada
+ s-16-a-19-da-serie-c-do-campeonato-brasileiro\n🕒 Última verificação:
+  01/08/2026 06:07 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Estádio Orlando Scarpelli
 STATUS:CONFIRMED
@@ -99,21 +81,15 @@ DTEND;TZID=America/Sao_Paulo:20260808T193000
 DTSTAMP:20260801T090715Z
 UID:51bc086d56b2731fd202acd5ccae185d987815161f909d992a395b4f56f3cd98@sport
  s-calendar-hub
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4 
- — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira
-  fase — rodada 4 — primeira fase — rodada 4 — primeira fase — ro
- dada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — p
- rimeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase
-  — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 
- 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primei
- ra fase — rodada 4\n🏟️ Local: Estádio Ítalo Mário Limongi\n🌎 
- Cidade/País: Indaiatuba — SP — Brasil\nℹ️ Status: Confirmado\n
- 🔗 Fonte oficial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?N
- oticia=32647\n🕒 Última verificação: 01/08/2026 06:07 -03
+ tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4\
+ n🏟️ Local: Estádio Ítalo Mário Limongi\n🌎 Cidade/País: Indaiat
+ uba — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: http
+ s://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Últi
+ ma verificação: 01/08/2026 06:07 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Estádio Ítalo Mário Limongi
 STATUS:CONFIRMED
@@ -128,20 +104,14 @@ DTEND;TZID=America/Sao_Paulo:20260808T193000
 DTSTAMP:20260801T090715Z
 UID:e399b670972b74422240a89a97a80f1bded34d9a5afd0b181e0e25919fe8feab@sport
  s-calendar-hub
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: Paulistão no YouTube\n🏆 Compe
- tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4 
- — primeira fase — rodada 4 — primeira fase — rodada 4 — primeira
-  fase — rodada 4 — primeira fase — rodada 4 — primeira fase — ro
- dada 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — p
- rimeira fase — rodada 4 — primeira fase — rodada 4 — primeira fase
-  — rodada 4 — primeira fase — rodada 4 — primeira fase — rodada 
- 4 — primeira fase — rodada 4 — primeira fase — rodada 4 — primei
- ra fase — rodada 4\n🏟️ Local: Estádio Dr. Hermínio Ometto\n🌎 C
- idade/País: Araras — SP — Brasil\nℹ️ Status: Confirmado\n🕒 Úl
- tima verificação: 01/08/2026 06:07 -03
+ tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4\
+ n🏟️ Local: Estádio Dr. Hermínio Ometto\n🌎 Cidade/País: Araras 
+ — SP — Brasil\nℹ️ Status: Confirmado\n🕒 Última verificação: 
+ 01/08/2026 06:07 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Estádio Dr. Hermínio Ometto
 STATUS:CONFIRMED
@@ -154,20 +124,14 @@ DTEND;TZID=America/Sao_Paulo:20260808T210000
 DTSTAMP:20260801T090715Z
 UID:91406a741a6a26db5e93decc2fd2abdac249d056f4584466b0b73235c84ba504@sport
  s-calendar-hub
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
  : Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase única — r
- odada 21 — fase única — rodada 21 — fase única — rodada 21 — f
- ase única — rodada 21 — fase única — rodada 21 — fase única —
-  rodada 21 — fase única — rodada 21 — fase única — rodada 21 —
-  fase única — rodada 21 — fase única — rodada 21 — fase única 
- — rodada 21 — fase única — rodada 21 — fase única — rodada 21 
- — fase única — rodada 21 — fase única — rodada 21 — fase únic
- a — rodada 21\n🏟️ Local: Estádio Santa Cruz / Arena Nicnet\n🌎 C
- idade/País: Ribeirão Preto — SP — Brasil\nℹ️ Status: Confirmado\
- n🕒 Última verificação: 01/08/2026 06:07 -03
+ odada 21\n🏟️ Local: Estádio Santa Cruz / Arena Nicnet\n🌎 Cidade/P
+ aís: Ribeirão Preto — SP — Brasil\nℹ️ Status: Confirmado\n🕒 
+ Última verificação: 01/08/2026 06:07 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Estádio Santa Cruz / Arena Nicnet
 STATUS:CONFIRMED
@@ -180,21 +144,15 @@ DTEND;TZID=America/Sao_Paulo:20260815T193000
 DTSTAMP:20260801T090715Z
 UID:dd1fefbd098ab44e7af1f885d6ef3d23b9ac16e9894c7a62b0a245e5cc5d60d6@sport
  s-calendar-hub
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 5 
- — primeira fase — rodada 5 — primeira fase — rodada 5 — primeira
-  fase — rodada 5 — primeira fase — rodada 5 — primeira fase — ro
- dada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — p
- rimeira fase — rodada 5 — primeira fase — rodada 5 — primeira fase
-  — rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 
- 5 — primeira fase — rodada 5 — primeira fase — rodada 5 — primei
- ra fase — rodada 5\n🏟️ Local: Estádio Jayme Cintra\n🌎 Cidade/Pa
- ís: Jundiaí — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
- cial: https://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647\n
- 🕒 Última verificação: 01/08/2026 06:07 -03
+ tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 5\
+ n🏟️ Local: Estádio Jayme Cintra\n🌎 Cidade/País: Jundiaí — SP 
+ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://futebol
+ paulista.com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Última verifica
+ ção: 01/08/2026 06:07 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Estádio Jayme Cintra
 STATUS:CONFIRMED
@@ -208,20 +166,14 @@ DTEND;TZID=America/Sao_Paulo:20260816T183000
 DTSTAMP:20260801T090715Z
 UID:c037619a55f8b5fb713d803ba2fc3b55bcd09d90bf49598426bbf5de246d06b8@sport
  s-calendar-hub
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo\, SporTV e Premiere\n🏆 C
  ompetição: Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase 
- única — rodada 22 — fase única — rodada 22 — fase única — rod
- ada 22 — fase única — rodada 22 — fase única — rodada 22 — fas
- e única — rodada 22 — fase única — rodada 22 — fase única — r
- odada 22 — fase única — rodada 22 — fase única — rodada 22 — f
- ase única — rodada 22 — fase única — rodada 22 — fase única —
-  rodada 22 — fase única — rodada 22 — fase única — rodada 22 —
-  fase única — rodada 22\n🏟️ Local: Estádio Primeiro de Maio\n🌎
-  Cidade/País: São Bernardo do Campo — SP — Brasil\nℹ️ Status: Co
- nfirmado\n🕒 Última verificação: 01/08/2026 06:07 -03
+ única — rodada 22\n🏟️ Local: Estádio Primeiro de Maio\n🌎 Cidad
+ e/País: São Bernardo do Campo — SP — Brasil\nℹ️ Status: Confirma
+ do\n🕒 Última verificação: 01/08/2026 06:07 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Estádio Primeiro de Maio
 STATUS:CONFIRMED
@@ -234,23 +186,17 @@ DTEND;TZID=America/Sao_Paulo:20260817T223000
 DTSTAMP:20260801T090715Z
 UID:003cbb5eaab19013261c8830fd9163b1419930c05e7246f2eba221b7a961aeb4@sport
  s-calendar-hub
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
- ase — rodada 17 — primeira fase — rodada 17 — primeira fase — ro
- dada 17 — primeira fase — rodada 17 — primeira fase — rodada 17 
- — primeira fase — rodada 17 — primeira fase — rodada 17 — primei
- ra fase — rodada 17 — primeira fase — rodada 17 — primeira fase 
- — rodada 17 — primeira fase — rodada 17 — primeira fase — rodada
-  17 — primeira fase — rodada 17 — primeira fase — rodada 17 — pr
- imeira fase — rodada 17 — primeira fase — rodada 17\n🏟️ Local: 
- Fonte Luminosa\n🌎 Cidade/País: Araraquara — SP — Brasil\nℹ️ St
- atus: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasi
- leiro/noticias/competicoes-campeonato-brasileiro-serie-c/a/cbf-divulga-tab
- ela-detalhada-das-rodadas-16-a-19-da-serie-c-do-campeonato-brasileiro\n
- 🕒 Última verificação: 01/08/2026 06:07 -03
+ ase — rodada 17\n🏟️ Local: Fonte Luminosa\n🌎 Cidade/País: Arara
+ quara — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
+ tps://www.cbf.com.br/futebol-brasileiro/noticias/competicoes-campeonato-br
+ asileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodadas-16-a-19-da-ser
+ ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 01/08/2026 06:0
+ 7 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Fonte Luminosa
 STATUS:CONFIRMED
@@ -267,15 +213,14 @@ DTEND;TZID=America/Sao_Paulo:20260819T223000
 DTSTAMP:20260801T090715Z
 UID:34bd82ac90a958d44f6950b6e5299f073f252c1863cefa5c5763dbd063f74c76@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: Metrópoles Esportes no YouTube\n
  🏆 Competição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase —
-  rodada 5 — primeira fase — rodada 5 — primeira fase — rodada 5 
- — primeira fase — rodada 5\n🏟️ Local: Estádio Palma Travassos\n
- 🌎 Cidade/País: Ribeirão Preto — SP — Brasil\nℹ️ Status: Confi
- rmado\n🕒 Última verificação: 01/08/2026 06:07 -03
+  rodada 5\n🏟️ Local: Estádio Palma Travassos\n🌎 Cidade/País: Rib
+ eirão Preto — SP — Brasil\nℹ️ Status: Confirmado\n🕒 Última ve
+ rificação: 01/08/2026 06:07 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Estádio Palma Travassos
 STATUS:CONFIRMED
@@ -288,15 +233,14 @@ DTEND;TZID=America/Sao_Paulo:20260820T000000
 DTSTAMP:20260801T090715Z
 UID:151f196dcbe68b9ea60d49616035e6cec7e1d3627bd99e22078f734d0007c647@sport
  s-calendar-hub
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
  : Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase única — r
- odada 23 — fase única — rodada 23 — fase única — rodada 23 — f
- ase única — rodada 23\n🏟️ Local: Estádio Santa Cruz / Arena Nicne
- t\n🌎 Cidade/País: Ribeirão Preto — SP — Brasil\nℹ️ Status: Co
- nfirmado\n🕒 Última verificação: 01/08/2026 06:07 -03
+ odada 23\n🏟️ Local: Estádio Santa Cruz / Arena Nicnet\n🌎 Cidade/P
+ aís: Ribeirão Preto — SP — Brasil\nℹ️ Status: Confirmado\n🕒 
+ Última verificação: 01/08/2026 06:07 -03
 LAST-MODIFIED:20260801T090715Z
 LOCATION:Estádio Santa Cruz / Arena Nicnet
 STATUS:CONFIRMED
@@ -310,7 +254,7 @@ DTEND;TZID=America/Sao_Paulo:20260822T173000
 DTSTAMP:20260801T090715Z
 UID:70d2725134b788372a0d4ebeb2f80f32f60843747d9bc84901bafe722c9e660e@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
@@ -332,7 +276,7 @@ DTEND;TZID=America/Sao_Paulo:20260822T173000
 DTSTAMP:20260801T090715Z
 UID:83a9419c533c036b9aae69e3f5503cc5b43fb627300f2a8ff27b5d9cd5b7af37@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: Metrópoles Esportes no YouTube\n
@@ -352,7 +296,7 @@ DTEND;TZID=America/Sao_Paulo:20260823T210000
 DTSTAMP:20260801T090715Z
 UID:c26ef7391e005544381ea59391b3be13389f7c029318e0062e9834dbb95873bf@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
@@ -378,7 +322,7 @@ DTEND;TZID=America/Sao_Paulo:20260825T220000
 DTSTAMP:20260801T090715Z
 UID:1584730df6778efe24e46c037c43a5e8d88a6681dc761e87e90932022dacfb90@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
@@ -398,7 +342,7 @@ DTEND;TZID=America/Sao_Paulo:20260829T193000
 DTSTAMP:20260801T090715Z
 UID:16a72e6b344ff709488862ee811a258fc5332b2f1cb8cda33064a4b19314ebcc@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
 CREATED:20260801T090715Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
