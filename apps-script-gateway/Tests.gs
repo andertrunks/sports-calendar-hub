@@ -40,6 +40,29 @@ function testDeletedTombstone_() {
   }), 'managed_cancelled_is_event');
 }
 
+function testRollbackSnapshotRetention_() {
+  const values = {
+    'ROLLBACK_apply-20260720100000-aaaaaaaaaaaa_COUNT': '2',
+    'ROLLBACK_apply-20260720100000-aaaaaaaaaaaa_0': 'old-0',
+    'ROLLBACK_apply-20260720100000-aaaaaaaaaaaa_1': 'old-1',
+    'ROLLBACK_apply-20260721100000-bbbbbbbbbbbb_COUNT': '1',
+    'ROLLBACK_apply-20260721100000-bbbbbbbbbbbb_0': 'new-0',
+    'UNRELATED_PROPERTY': 'keep'
+  };
+  const mockProps = {
+    getProperties: function () { return Object.assign({}, values); },
+    deleteProperty: function (key) { delete values[key]; }
+  };
+  const ids = rollbackExecutionIds_(values);
+  assertGateway_(ids.length === 2, 'rollback_ids_found');
+  assertGateway_(ids[0] === 'apply-20260721100000-bbbbbbbbbbbb', 'rollback_ids_newest_first');
+  pruneRollbackSnapshots_(mockProps, 1);
+  assertGateway_(!values['ROLLBACK_apply-20260720100000-aaaaaaaaaaaa_COUNT'], 'old_snapshot_count_removed');
+  assertGateway_(!values['ROLLBACK_apply-20260720100000-aaaaaaaaaaaa_0'], 'old_snapshot_chunks_removed');
+  assertGateway_(values['ROLLBACK_apply-20260721100000-bbbbbbbbbbbb_COUNT'] === '1', 'new_snapshot_retained');
+  assertGateway_(values.UNRELATED_PROPERTY === 'keep', 'unrelated_property_retained');
+}
+
 function testExportSafe_() {
   const exported = exportSanitizedEvents_();
   assertGateway_(exported.event_count === exported.events.length, 'export_count');
@@ -53,6 +76,7 @@ function runGatewayTests() {
   testPermanentUid_();
   testCalendarSequence_();
   testDeletedTombstone_();
+  testRollbackSnapshotRetention_();
   testExportSafe_();
-  return {ok: true, tests: 6, calendar_writes: 0};
+  return {ok: true, tests: 7, calendar_writes: 0};
 }
