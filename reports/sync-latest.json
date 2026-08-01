@@ -15,17 +15,17 @@
     "unique_events": 79,
     "deduplicated": 0,
     "changes": {
-      "created": 32,
-      "updated": 47,
-      "unchanged": 0
+      "created": 0,
+      "updated": 0,
+      "unchanged": 79
     }
   },
   "dry_run": {
-    "execution_id": "dry-20260801112915-6b64dcddd6f8",
+    "execution_id": "dry-20260801113110-6b64dcddd6f8",
     "plan": {
       "create": 0,
-      "update": 79,
-      "unchanged": 0,
+      "update": 0,
+      "unchanged": 79,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
@@ -38,7 +38,7 @@
     "primary_duplicate_reviews": 0
   },
   "apply": {
-    "execution_id": "apply-20260801112925-6b64dcddd6f8",
+    "execution_id": "apply-20260801113118-6b64dcddd6f8",
     "plan": {
       "create": 0,
       "update": 0,
@@ -54,8 +54,8 @@
     },
     "result": {
       "created": 0,
-      "updated": 79,
-      "unchanged": 0,
+      "updated": 0,
+      "unchanged": 79,
       "deleted": 0,
       "post_validation": {
         "create": 0,
