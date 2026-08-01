@@ -243,7 +243,11 @@ def is_event_in_scope(event: SportsEvent, rules: dict[str, Any] | None = None) -
         return _is_tennis_in_scope(event, rules)
 
     if "futebol" in sport or "football" in sport:
-        if "brasileirao" in team_groups or "premier-league" in team_groups:
+        if (
+            "brasileirao" in team_groups
+            or "premier-league" in team_groups
+            or competition == "premier-league"
+        ):
             return category == "male-professional"
         if competition in {"mundial-clubes", "intercontinental", "copa-do-mundo"}:
             return True
