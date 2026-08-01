@@ -16,16 +16,16 @@
     "unique_events": 93,
     "deduplicated": 0,
     "changes": {
-      "created": 14,
+      "created": 0,
       "updated": 0,
-      "unchanged": 79
+      "unchanged": 93
     }
   },
   "dry_run": {
     "plan": {
       "create": 0,
-      "update": 14,
-      "unchanged": 79,
+      "update": 0,
+      "unchanged": 93,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
@@ -53,8 +53,8 @@
     },
     "result": {
       "created": 0,
-      "updated": 14,
-      "unchanged": 79,
+      "updated": 0,
+      "unchanged": 93,
       "deleted": 0,
       "post_validation": {
         "create": 0,
