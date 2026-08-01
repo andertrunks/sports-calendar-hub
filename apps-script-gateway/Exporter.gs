@@ -55,6 +55,20 @@ function ageAndGender_(category) {
   };
 }
 
+function compactPhaseRound_(value) {
+  const parts = cleanText_(value).split(/\s+—\s+/).filter(Boolean);
+  const seen = {};
+  const unique = [];
+  parts.forEach(function (part) {
+    const cleaned = cleanText_(part);
+    const key = normalizeText_(cleaned);
+    if (!key || seen[key]) return;
+    seen[key] = true;
+    unique.push(cleaned);
+  });
+  return unique.join(' — ');
+}
+
 function rowToExportEvent_(row, headers, cfg) {
   const date = parseDate_(cell_(row, headers, ['Data']));
   const startTime = parseTime_(cell_(row, headers, ['Hora de início', 'Início']));
@@ -80,6 +94,7 @@ function rowToExportEvent_(row, headers, cfg) {
   const ageGender = ageAndGender_(category);
   const cityRaw = cleanText_(cell_(row, headers, ['Cidade']));
   const stateMatch = cityRaw.match(/,\s*([A-Z]{2})$/);
+  const phaseRound = compactPhaseRound_(cell_(row, headers, ['Fase ou rodada', 'Fase', 'Rodada']));
   const event = {
     external_id_hash: externalIdHash_(cell_(row, headers, ['ID do evento']), cell_(row, headers, ['Chave de sincronização'])),
     title: cleanText_(cell_(row, headers, ['Título'])),
@@ -88,8 +103,10 @@ function rowToExportEvent_(row, headers, cfg) {
     age_group: ageGender.age_group,
     gender: ageGender.gender,
     competition: cleanText_(cell_(row, headers, ['Competição'])),
-    phase: cleanText_(cell_(row, headers, ['Fase ou rodada', 'Fase'])),
-    round: cleanText_(cell_(row, headers, ['Fase ou rodada', 'Rodada'])),
+    // The audit sheet has one combined phase/round column. Export it once;
+    // duplicating the value in both fields creates an exponential feedback loop.
+    phase: phaseRound,
+    round: '',
     participant_1: cleanText_(cell_(row, headers, ['Participante 1'])),
     participant_2: cleanText_(cell_(row, headers, ['Participante 2'])),
     start: start, end: end, timezone: timezone, all_day: allDay,
