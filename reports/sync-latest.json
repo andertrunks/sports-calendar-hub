@@ -1,37 +1,37 @@
 {
   "schema_version": "2.0",
-  "source_hash": "0355b998d966fd692506a697fa7ea0e715f2f268e872c517334e4b1e3a337927",
-  "events": 93,
+  "source_hash": "e1b9fb009a709cc13de92a9b41e8cea8165a255f0235cf7d87f96cb14de04e25",
+  "events": 88,
   "by_group": {
-    "automobilismo": 10,
+    "automobilismo": 9,
     "brasileirao": 24,
     "clubes-regionais": 16,
     "premier-league": 10,
-    "red-bull": 19,
-    "sao-paulo": 14
+    "red-bull": 17,
+    "sao-paulo": 12
   },
   "import": {
-    "source_rows": 93,
-    "in_scope": 93,
-    "unique_events": 93,
+    "source_rows": 88,
+    "in_scope": 88,
+    "unique_events": 88,
     "deduplicated": 0,
     "changes": {
       "created": 0,
-      "updated": 8,
-      "unchanged": 85
+      "updated": 0,
+      "unchanged": 88
     }
   },
   "dry_run": {
     "plan": {
       "create": 0,
-      "update": 93,
+      "update": 88,
       "unchanged": 0,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 133,
+      "existing_future": 128,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
@@ -41,31 +41,31 @@
     "plan": {
       "create": 0,
       "update": 0,
-      "unchanged": 93,
+      "unchanged": 88,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 133,
+      "existing_future": 128,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
     "result": {
       "created": 0,
-      "updated": 93,
+      "updated": 88,
       "unchanged": 0,
       "deleted": 0,
       "post_validation": {
         "create": 0,
         "update": 0,
-        "unchanged": 93,
+        "unchanged": 88,
         "delete": 0,
         "primary_delete": 0,
         "missing_uid": 0,
         "duplicate_delete": 0,
         "scope_delete": 0,
-        "existing_future": 133,
+        "existing_future": 128,
         "privacy_violations": 0,
         "duplicate_reviews": 0
       }
