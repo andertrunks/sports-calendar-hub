@@ -1,37 +1,37 @@
 {
   "schema_version": "2.0",
-  "source_hash": "7ad4e4534804b5128e5c88e647bca19910e32e0efd0e9419e6847a229b2c526c",
-  "events": 88,
+  "source_hash": "87498e9d580de2cce9be1572520c6820e313918e00e8e69194a18ca1e1f3a19f",
+  "events": 83,
   "by_group": {
-    "automobilismo": 9,
+    "automobilismo": 6,
     "brasileirao": 24,
-    "clubes-regionais": 16,
+    "clubes-regionais": 14,
     "premier-league": 10,
     "red-bull": 17,
     "sao-paulo": 12
   },
   "import": {
-    "source_rows": 88,
-    "in_scope": 88,
-    "unique_events": 88,
+    "source_rows": 83,
+    "in_scope": 83,
+    "unique_events": 83,
     "deduplicated": 0,
     "changes": {
       "created": 0,
       "updated": 0,
-      "unchanged": 88
+      "unchanged": 83
     }
   },
   "dry_run": {
     "plan": {
       "create": 0,
-      "update": 88,
+      "update": 83,
       "unchanged": 0,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 128,
+      "existing_future": 123,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
@@ -41,31 +41,31 @@
     "plan": {
       "create": 0,
       "update": 0,
-      "unchanged": 88,
+      "unchanged": 83,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 128,
+      "existing_future": 123,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
     "result": {
       "created": 0,
-      "updated": 88,
+      "updated": 83,
       "unchanged": 0,
       "deleted": 0,
       "post_validation": {
         "create": 0,
         "update": 0,
-        "unchanged": 88,
+        "unchanged": 83,
         "delete": 0,
         "primary_delete": 0,
         "missing_uid": 0,
         "duplicate_delete": 0,
         "scope_delete": 0,
-        "existing_future": 128,
+        "existing_future": 123,
         "privacy_violations": 0,
         "duplicate_reviews": 0
       }
