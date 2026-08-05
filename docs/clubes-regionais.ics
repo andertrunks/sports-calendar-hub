@@ -9,12 +9,12 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Figueirense x Ferroviária | Série C — Rodada 16
 DTSTART;TZID=America/Sao_Paulo:20260808T170000
 DTEND;TZID=America/Sao_Paulo:20260808T193000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:8c58794359be49d12f5caaf2dda04ef7d0740309e69ab536bb03654a95111d94@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
  ase — rodada 16\n🏟️ Local: Estádio Orlando Scarpelli\n🌎 Cidade/
@@ -22,8 +22,8 @@ DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  onte oficial: https://www.cbf.com.br/futebol-brasileiro/noticias/competico
  es-campeonato-brasileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodada
  s-16-a-19-da-serie-c-do-campeonato-brasileiro\n🕒 Última verificação:
-  05/08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+  05/08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Orlando Scarpelli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -35,19 +35,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Primavera x Juventus-SP | Copa Paulista — Rodada 4
 DTSTART;TZID=America/Sao_Paulo:20260808T170000
 DTEND;TZID=America/Sao_Paulo:20260808T193000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:51bc086d56b2731fd202acd5ccae185d987815161f909d992a395b4f56f3cd98@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4\
  n🏟️ Local: Estádio Ítalo Mário Limongi\n🌎 Cidade/País: Indaiat
  uba — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: http
  s://futebolpaulista.com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Últi
- ma verificação: 05/08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ ma verificação: 05/08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Ítalo Mário Limongi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58,18 +58,18 @@ SUMMARY:Futebol — União São João x Comercial-SP | Copa Paulista — R
  odada 4
 DTSTART;TZID=America/Sao_Paulo:20260808T170000
 DTEND;TZID=America/Sao_Paulo:20260808T193000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:e399b670972b74422240a89a97a80f1bded34d9a5afd0b181e0e25919fe8feab@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: Paulistão no YouTube\n🏆 Compe
  tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 4\
  n🏟️ Local: Estádio Dr. Hermínio Ometto\n🌎 Cidade/País: Araras 
  — SP — Brasil\nℹ️ Status: Confirmado\n🕒 Última verificação: 
- 05/08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ 05/08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Dr. Hermínio Ometto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -78,18 +78,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Botafogo-SP x América-MG | Série B — Rodada 21
 DTSTART;TZID=America/Sao_Paulo:20260808T183000
 DTEND;TZID=America/Sao_Paulo:20260808T210000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:91406a741a6a26db5e93decc2fd2abdac249d056f4584466b0b73235c84ba504@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
  : Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase única — r
  odada 21\n🏟️ Local: Estádio Santa Cruz / Arena Nicnet\n🌎 Cidade/P
  aís: Ribeirão Preto — SP — Brasil\nℹ️ Status: Confirmado\n🕒 
- Última verificação: 05/08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ Última verificação: 05/08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Santa Cruz / Arena Nicnet
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -98,19 +98,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Paulista x Juventus-SP | Copa Paulista — Rodada 5
 DTSTART;TZID=America/Sao_Paulo:20260815T170000
 DTEND;TZID=America/Sao_Paulo:20260815T193000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:dd1fefbd098ab44e7af1f885d6ef3d23b9ac16e9894c7a62b0a245e5cc5d60d6@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 5\
  n🏟️ Local: Estádio Jayme Cintra\n🌎 Cidade/País: Jundiaí — SP 
  — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://futebol
  paulista.com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Última verifica
- ção: 05/08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ ção: 05/08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Jayme Cintra
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -120,18 +120,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — São Bernardo x Botafogo-SP | Série B — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260816T160000
 DTEND;TZID=America/Sao_Paulo:20260816T183000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:c037619a55f8b5fb713d803ba2fc3b55bcd09d90bf49598426bbf5de246d06b8@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo\, SporTV e Premiere\n🏆 C
  ompetição: Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase 
  única — rodada 22\n🏟️ Local: Estádio Primeiro de Maio\n🌎 Cidad
  e/País: São Bernardo do Campo — SP — Brasil\nℹ️ Status: Confirma
- do\n🕒 Última verificação: 05/08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ do\n🕒 Última verificação: 05/08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Primeiro de Maio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -140,21 +140,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Ferroviária x Paysandu | Série C — Rodada 17
 DTSTART;TZID=America/Sao_Paulo:20260817T200000
 DTEND;TZID=America/Sao_Paulo:20260817T223000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:003cbb5eaab19013261c8830fd9163b1419930c05e7246f2eba221b7a961aeb4@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
  ase — rodada 17\n🏟️ Local: Fonte Luminosa\n🌎 Cidade/País: Arara
  quara — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
  tps://www.cbf.com.br/futebol-brasileiro/noticias/competicoes-campeonato-br
  asileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodadas-16-a-19-da-ser
- ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 05/08/2026 12:0
- 2 -03
-LAST-MODIFIED:20260805T150202Z
+ ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 05/08/2026 18:0
+ 5 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Fonte Luminosa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -167,18 +167,18 @@ SUMMARY:Futebol — Comercial-SP x XV de Piracicaba | Copa Paulista — Ro
  dada 5
 DTSTART;TZID=America/Sao_Paulo:20260819T200000
 DTEND;TZID=America/Sao_Paulo:20260819T223000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:34bd82ac90a958d44f6950b6e5299f073f252c1863cefa5c5763dbd063f74c76@sport
  s-calendar-hub
 SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: Metrópoles Esportes no YouTube\n
  🏆 Competição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase —
   rodada 5\n🏟️ Local: Estádio Palma Travassos\n🌎 Cidade/País: Rib
  eirão Preto — SP — Brasil\nℹ️ Status: Confirmado\n🕒 Última ve
- rificação: 05/08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ rificação: 05/08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Palma Travassos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -187,18 +187,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Botafogo-SP x Criciúma | Série B — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260819T213000
 DTEND;TZID=America/Sao_Paulo:20260820T000000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:151f196dcbe68b9ea60d49616035e6cec7e1d3627bd99e22078f734d0007c647@sport
  s-calendar-hub
 SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
  : Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase única — r
  odada 23\n🏟️ Local: Estádio Santa Cruz / Arena Nicnet\n🌎 Cidade/P
  aís: Ribeirão Preto — SP — Brasil\nℹ️ Status: Confirmado\n🕒 
- Última verificação: 05/08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ Última verificação: 05/08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Santa Cruz / Arena Nicnet
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -208,19 +208,19 @@ SUMMARY:Futebol — Juventus-SP x Osasco Sporting | Copa Paulista — Roda
  da 6
 DTSTART;TZID=America/Sao_Paulo:20260822T150000
 DTEND;TZID=America/Sao_Paulo:20260822T173000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:70d2725134b788372a0d4ebeb2f80f32f60843747d9bc84901bafe722c9e660e@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase — rodada 6\
  n🏟️ Local: Rua Javari\n🌎 Cidade/País: São Paulo — SP — Brasi
  l\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://futebolpaulista.
  com.br/Noticias/Detalhe.aspx?Noticia=32647\n🕒 Última verificação: 05
- /08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ /08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Rua Javari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -230,18 +230,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Noroeste x Comercial-SP | Copa Paulista — Rodada 6
 DTSTART;TZID=America/Sao_Paulo:20260822T150000
 DTEND;TZID=America/Sao_Paulo:20260822T173000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:83a9419c533c036b9aae69e3f5503cc5b43fb627300f2a8ff27b5d9cd5b7af37@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: Metrópoles Esportes no YouTube\n
  🏆 Competição: Copa Paulista 2026\n📍 Fase/Rodada: primeira fase —
   rodada 6\n🏟️ Local: Estádio Alfredo de Castilho\n🌎 Cidade/País:
   Bauru — SP — Brasil\nℹ️ Status: Confirmado\n🕒 Última verifica
- ção: 05/08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ ção: 05/08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Alfredo de Castilho
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -250,12 +250,12 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Ypiranga-RS x Ferroviária | Série C — Rodada 18
 DTSTART;TZID=America/Sao_Paulo:20260823T183000
 DTEND;TZID=America/Sao_Paulo:20260823T210000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:c26ef7391e005544381ea59391b3be13389f7c029318e0062e9834dbb95873bf@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
  ase — rodada 18\n🏟️ Local: Estádio Colosso da Lagoa\n🌎 Cidade/P
@@ -263,8 +263,8 @@ DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  cial: https://www.cbf.com.br/futebol-brasileiro/noticias/competicoes-campe
  onato-brasileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodadas-16-a-1
  9-da-serie-c-do-campeonato-brasileiro\n🕒 Última verificação: 05/08/2
- 026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ 026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Colosso da Lagoa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -276,18 +276,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Atlético-GO x Botafogo-SP | Série B — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260825T193000
 DTEND;TZID=America/Sao_Paulo:20260825T220000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:1584730df6778efe24e46c037c43a5e8d88a6681dc761e87e90932022dacfb90@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
  : Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase única — r
  odada 24\n🏟️ Local: Estádio Antônio Accioly\n🌎 Cidade/País: Goi
  ânia — GO — Brasil\nℹ️ Status: Confirmado\n🕒 Última verifica
- ção: 05/08/2026 12:02 -03
-LAST-MODIFIED:20260805T150202Z
+ ção: 05/08/2026 18:05 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Estádio Antônio Accioly
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -296,21 +296,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Ferroviária x Confiança | Série C — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260829T170000
 DTEND;TZID=America/Sao_Paulo:20260829T193000
-DTSTAMP:20260805T150202Z
+DTSTAMP:20260805T210533Z
 UID:16a72e6b344ff709488862ee811a258fc5332b2f1cb8cda33064a4b19314ebcc@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260805T150202Z
+CREATED:20260805T210533Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
  ase — rodada 19\n🏟️ Local: Fonte Luminosa\n🌎 Cidade/País: Arara
  quara — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
  tps://www.cbf.com.br/futebol-brasileiro/noticias/competicoes-campeonato-br
  asileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodadas-16-a-19-da-ser
- ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 05/08/2026 12:0
- 2 -03
-LAST-MODIFIED:20260805T150202Z
+ ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 05/08/2026 18:0
+ 5 -03
+LAST-MODIFIED:20260805T210533Z
 LOCATION:Fonte Luminosa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
