@@ -9,19 +9,19 @@ BEGIN:VEVENT
 SUMMARY:USF2000 — Portland | Corrida 2 — Rodada 13
 DTSTART;TZID=America/Sao_Paulo:20260808T165000
 DTEND;TZID=America/Sao_Paulo:20260808T173000
-DTSTAMP:20260808T090710Z
+DTSTAMP:20260808T150202Z
 UID:6adc6e14a2e108c0cd0612eb6f76751b01908a4485376c9adac1de79cca49030@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Automobilismo,USF2000,automobilismo
-CREATED:20260808T090710Z
+CREATED:20260808T150202Z
 DESCRIPTION:📺 Transmissão no Brasil: USF Pro Championships TV\n🏆 Co
  mpetição: USF2000 Presented by Continental Tire 2026\n📍 Fase/Rodada: 
  Rodada 13 — Corrida 2\n🏟️ Local: Portland International Raceway\n
  🌎 Cidade/País: Portland — Oregon — Estados Unidos\nℹ️ Status: 
  Confirmado\n🔗 Fonte oficial: https://www.usf2000.com/results/live-timin
- g\n🕒 Última verificação: 08/08/2026 06:07 -03
-LAST-MODIFIED:20260808T090710Z
+ g\n🕒 Última verificação: 08/08/2026 12:02 -03
+LAST-MODIFIED:20260808T150202Z
 LOCATION:Portland International Raceway
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -31,19 +31,19 @@ BEGIN:VEVENT
 SUMMARY:USF Pro 2000 — Portland | Corrida 2 — Rodada 12
 DTSTART;TZID=America/Sao_Paulo:20260808T183000
 DTEND;TZID=America/Sao_Paulo:20260808T191500
-DTSTAMP:20260808T090710Z
+DTSTAMP:20260808T150202Z
 UID:cc5dbcad8456ef8ac4a7abcb68d76c93e55617eff5d8b8411dcb481eaefbe6cf@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Automobilismo,USF Pro 2000,automobilismo
-CREATED:20260808T090710Z
+CREATED:20260808T150202Z
 DESCRIPTION:📺 Transmissão no Brasil: USF Pro Championships TV\n🏆 Co
  mpetição: USF Pro 2000 Presented by Continental Tire 2026\n📍 Fase/Rod
  ada: Rodada 12 — Corrida 2\n🏟️ Local: Portland International Racewa
  y\n🌎 Cidade/País: Portland — Oregon — Estados Unidos\nℹ️ Statu
  s: Confirmado\n🔗 Fonte oficial: https://www.usfpro2000.com/results/live
- -timing\n🕒 Última verificação: 08/08/2026 06:07 -03
-LAST-MODIFIED:20260808T090710Z
+ -timing\n🕒 Última verificação: 08/08/2026 12:02 -03
+LAST-MODIFIED:20260808T150202Z
 LOCATION:Portland International Raceway
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53,19 +53,19 @@ BEGIN:VEVENT
 SUMMARY:Fórmula E — Londres | Corrida 1 — Rodada 16
 DTSTART;TZID=America/Sao_Paulo:20260815T110500
 DTEND;TZID=America/Sao_Paulo:20260815T120000
-DTSTAMP:20260808T090710Z
+DTSTAMP:20260808T150202Z
 UID:21d856b6fdac8e9d4f6416221c82e7115048e3ca87c6da95d6f89d0e65282651@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Automobilismo,Fórmula E,automobilismo
-CREATED:20260808T090710Z
+CREATED:20260808T150202Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ABB FIA Formula E World Championship 2025–26\n📍 Fase/Rodada:
   Rodada 16 — Corrida 1 do London E-Prix\n🏟️ Local: London Excel Cir
  cuit\n🌎 Cidade/País: Londres — Reino Unido\nℹ️ Status: Confirmad
  o\n🔗 Fonte oficial: https://www.fiaformulae.com/en/calendar/2025-26/r16
- -london\n🕒 Última verificação: 08/08/2026 06:07 -03
-LAST-MODIFIED:20260808T090710Z
+ -london\n🕒 Última verificação: 08/08/2026 12:02 -03
+LAST-MODIFIED:20260808T150202Z
 LOCATION:London Excel Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -75,19 +75,19 @@ BEGIN:VEVENT
 SUMMARY:Fórmula E — Londres | Corrida 2 — Rodada 17
 DTSTART;TZID=America/Sao_Paulo:20260816T110500
 DTEND;TZID=America/Sao_Paulo:20260816T120000
-DTSTAMP:20260808T090710Z
+DTSTAMP:20260808T150202Z
 UID:674355643a5c4dc282d98bebf4fa58c0e51131027682ec68c367e0c207288452@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Automobilismo,Fórmula E,automobilismo
-CREATED:20260808T090710Z
+CREATED:20260808T150202Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ABB FIA Formula E World Championship 2025–26\n📍 Fase/Rodada:
   Rodada 17 — Corrida 2 do London E-Prix\n🏟️ Local: London Excel Cir
  cuit\n🌎 Cidade/País: Londres — Reino Unido\nℹ️ Status: Confirmad
  o\n🔗 Fonte oficial: https://www.fiaformulae.com/en/calendar/2025-26/r17
- -london\n🕒 Última verificação: 08/08/2026 06:07 -03
-LAST-MODIFIED:20260808T090710Z
+ -london\n🕒 Última verificação: 08/08/2026 12:02 -03
+LAST-MODIFIED:20260808T150202Z
 LOCATION:London Excel Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
