@@ -10,19 +10,19 @@ SUMMARY:Futebol masculino sub-20 — SC Aguaí x São Paulo | Paulistão S
  ub-20
 DTSTART;TZID=America/Sao_Paulo:20260807T150000
 DTEND;TZID=America/Sao_Paulo:20260807T173000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:92f544d87378150b54d7fa354b7c273ecb19be89aaf82842a2b0b1149fee3815@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase\
  n🏟️ Local: Estádio Leonardo Guaranha\n🌎 Cidade/País: Aguaí — 
  SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.
  saopaulofc.net/fpf-divulga-tabela-do-paulista-sub-20/\n🕒 Última verifi
- cação: 07/08/2026 12:02 -03
-LAST-MODIFIED:20260807T150206Z
+ cação: 07/08/2026 18:06 -03
+LAST-MODIFIED:20260807T210609Z
 LOCATION:Estádio Leonardo Guaranha
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -32,20 +32,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Grêmio x São Paulo | Brasileirão — Rodada 22
 DTSTART;TZID=America/Sao_Paulo:20260808T160000
 DTEND;TZID=America/Sao_Paulo:20260808T180000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:45fbc25e3739070a0cbdb53aa7a0d8c8742ce012b659aa5f28ec4ef0aa5ee7bb@sport
  s-calendar-hub
 SEQUENCE:6
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
  22\n🏟️ Local: Arena do Grêmio\n🌎 Cidade/País: Porto Alegre — R
  S — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.c
  bf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?do
- cumento=Tabela%20Detalhada\n🕒 Última verificação: 07/08/2026 12:02 -
+ cumento=Tabela%20Detalhada\n🕒 Última verificação: 07/08/2026 18:06 -
  03
-LAST-MODIFIED:20260807T150206Z
+LAST-MODIFIED:20260807T210609Z
 LOCATION:Arena do Grêmio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57,19 +57,19 @@ SUMMARY:Futebol feminino — São Paulo x Red Bull Bragantino | Brasileir
  ão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260809T180000
 DTEND;TZID=America/Sao_Paulo:20260809T203000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:a4c9027a5131d6bd24e3848f37da7e1d34c4349b5e14bb967dfad862efc94e83@sport
  s-calendar-hub
 SEQUENCE:6
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: fase in
  icial — rodada não informada na fonte\n🏟️ Local: CFA Laudo Natel\n
  🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Confirmado\n
  🔗 Fonte oficial: https://www.saopaulofc.net/calendario-de-jogos-feminin
- os/\n🕒 Última verificação: 07/08/2026 12:02 -03
-LAST-MODIFIED:20260807T150206Z
+ os/\n🕒 Última verificação: 07/08/2026 18:06 -03
+LAST-MODIFIED:20260807T210609Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -80,19 +80,19 @@ SUMMARY:Futebol masculino sub-20 — Novorizontino x São Paulo | Paulist
  ão Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260811T150000
 DTEND;TZID=America/Sao_Paulo:20260811T173000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:1a69cb0feecdc96989396e780ef0fa357ac4762a5be940ccb9628864940b9403@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase\
  n🏟️ Local: Estádio Dr. Jorge Ismael de Biasi\n🌎 Cidade/País: Nov
  o Horizonte — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofici
  al: https://www.saopaulofc.net/fpf-divulga-tabela-do-paulista-sub-20/\n
- 🕒 Última verificação: 07/08/2026 12:02 -03
-LAST-MODIFIED:20260807T150206Z
+ 🕒 Última verificação: 07/08/2026 18:06 -03
+LAST-MODIFIED:20260807T210609Z
 LOCATION:Estádio Dr. Jorge Ismael de Biasi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -102,19 +102,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — São Paulo x Santos | Paulistão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260813T190000
 DTEND;TZID=America/Sao_Paulo:20260813T213000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:91e2ec786a1c4b3d6f1f965c384cd0532da51eebe3ecbc743a199e8fe14cbe7a@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: CazéTV\, HBO Max e Record News\n
  🏆 Competição: Campeonato Paulista Feminino 2026\n📍 Fase/Rodada: ro
  dada 6\n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Cotia — SP 
  — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://futebol
  paulista.com.br/Noticias/Detalhe.aspx?Noticia=32803\n🕒 Última verifica
- ção: 07/08/2026 12:02 -03
-LAST-MODIFIED:20260807T150206Z
+ ção: 07/08/2026 18:06 -03
+LAST-MODIFIED:20260807T210609Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -125,19 +125,19 @@ SUMMARY:Futebol masculino sub-20 — São Paulo x Ibrachina | Paulistão S
  ub-20
 DTSTART;TZID=America/Sao_Paulo:20260814T150000
 DTEND;TZID=America/Sao_Paulo:20260814T173000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:725814426905049391ae4afe5aed09f6c24996c0f895dcfbf1c21de17cc1c680@sport
  s-calendar-hub
 SEQUENCE:5
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase\
  n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Cotia — SP — Brasi
  l\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.n
  et/fpf-divulga-tabela-do-paulista-sub-20/\n🕒 Última verificação: 07/
- 08/2026 12:02 -03
-LAST-MODIFIED:20260807T150206Z
+ 08/2026 18:06 -03
+LAST-MODIFIED:20260807T210609Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -147,20 +147,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — São Paulo x Coritiba | Brasileirão — Rodada 23
 DTSTART;TZID=America/Sao_Paulo:20260815T210000
 DTEND;TZID=America/Sao_Paulo:20260815T230000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:af428c2d5483e8d55dd3c133bc85e3a54925148311fc6d71849de95e9d503c2d@sport
  s-calendar-hub
 SEQUENCE:6
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 23\n🏟️ Local: MorumBIS\n🌎 Cidade/País: São Paulo — 
  SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.
  cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?d
- ocumento=Tabela%20Detalhada\n🕒 Última verificação: 07/08/2026 12:02 
+ ocumento=Tabela%20Detalhada\n🕒 Última verificação: 07/08/2026 18:06 
  -03
-LAST-MODIFIED:20260807T150206Z
+LAST-MODIFIED:20260807T210609Z
 LOCATION:MorumBIS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -171,19 +171,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — Botafogo x São Paulo | Brasileirão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260816T110000
 DTEND;TZID=America/Sao_Paulo:20260816T133000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:5eba105663c0482b56b5142ac7f7ad97c1b1c6f86d44c24a74ef93885d092d2c@sport
  s-calendar-hub
 SEQUENCE:6
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: fase in
  icial — rodada não informada na fonte\n🏟️ Local: Estádio Nilton S
  antos\n🌎 Cidade/País: Rio de Janeiro — RJ — Brasil\nℹ️ Status:
   Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.net/calendario-de-
- jogos-femininos/\n🕒 Última verificação: 07/08/2026 12:02 -03
-LAST-MODIFIED:20260807T150206Z
+ jogos-femininos/\n🕒 Última verificação: 07/08/2026 18:06 -03
+LAST-MODIFIED:20260807T210609Z
 LOCATION:Estádio Nilton Santos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -194,19 +194,19 @@ SUMMARY:Futebol masculino sub-20 — São Paulo x Paulinense | Paulistão
  Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260821T150000
 DTEND;TZID=America/Sao_Paulo:20260821T173000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:de1f160bf4c42b2eb67abc787f455549bb7bdca7c7426a01383b563722a3a18d@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase\
  n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Cotia — SP — Brasi
  l\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.n
  et/fpf-divulga-tabela-do-paulista-sub-20/\n🕒 Última verificação: 07/
- 08/2026 12:02 -03
-LAST-MODIFIED:20260807T150206Z
+ 08/2026 18:06 -03
+LAST-MODIFIED:20260807T210609Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -216,19 +216,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol feminino — São Paulo x Mixto | Brasileirão Feminino
 DTSTART;TZID=America/Sao_Paulo:20260822T180000
 DTEND;TZID=America/Sao_Paulo:20260822T203000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:2a814d0a5b731b2124ed2c3e13a74e6217403137d18d75bd1127b956c6902d45@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Feminino profissional,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Feminino A1 2026\n📍 Fase/Rodada: fase in
  icial — rodada não informada na fonte\n🏟️ Local: CFA Laudo Natel\n
  🌎 Cidade/País: Cotia — SP — Brasil\nℹ️ Status: Confirmado\n
  🔗 Fonte oficial: https://www.saopaulofc.net/calendario-de-jogos-feminin
- os/\n🕒 Última verificação: 07/08/2026 12:02 -03
-LAST-MODIFIED:20260807T150206Z
+ os/\n🕒 Última verificação: 07/08/2026 18:06 -03
+LAST-MODIFIED:20260807T210609Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -238,20 +238,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Chapecoense x São Paulo | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260823T183000
 DTEND;TZID=America/Sao_Paulo:20260823T203000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:6af69f48ade7952cb6ffea8def6a66d315a80bc8f72c7ac7aa5490597451b89b@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\, Record e CazéTV no Yo
  uTube\n🏆 Competição: Campeonato Brasileiro Série A 2026\n📍 Fase/R
  odada: fase única — rodada 24\n🏟️ Local: Arena Condá\n🌎 Cidade
  /País: Chapecó — SC — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte 
  oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bras
  ileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
- ão: 07/08/2026 12:02 -03
-LAST-MODIFIED:20260807T150206Z
+ ão: 07/08/2026 18:06 -03
+LAST-MODIFIED:20260807T210609Z
 LOCATION:Arena Condá
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -263,18 +263,18 @@ SUMMARY:Futebol masculino sub-20 — Desportivo Brasil x São Paulo | Paul
  istão Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260904T150000
 DTEND;TZID=America/Sao_Paulo:20260904T173000
-DTSTAMP:20260807T150206Z
+DTSTAMP:20260807T210609Z
 UID:8dc04499fddc7b96fb4d3c616e203e59bface9f67da131f4500d0977a9f0ccb7@sport
  s-calendar-hub
 SEQUENCE:0
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260807T150206Z
+CREATED:20260807T210609Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase\
  n🏟️ Local: Porto Feliz\, SP\, Brasil\nℹ️ Status: Provisório\n
  🔗 Fonte oficial: https://www.saopaulofc.net/fpf-divulga-tabela-do-pauli
- sta-sub-20/\n🕒 Última verificação: 07/08/2026 12:02 -03
-LAST-MODIFIED:20260807T150206Z
+ sta-sub-20/\n🕒 Última verificação: 07/08/2026 18:06 -03
+LAST-MODIFIED:20260807T210609Z
 LOCATION:Porto Feliz\, SP\, Brasil
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
