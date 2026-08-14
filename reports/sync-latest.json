@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "source_hash": "71f5745c0fcc19a2007d42a682801e687f071497c191e1e19b559becd3139a04",
+  "source_hash": "41c4eeb63650902736e30ef8b6b5318445713f53d81d8b7539d0223ed840444e",
   "events": 64,
   "by_group": {
     "automobilismo": 2,
@@ -16,8 +16,8 @@
     "unique_events": 64,
     "deduplicated": 0,
     "changes": {
-      "created": 2,
-      "updated": 0,
+      "created": 0,
+      "updated": 2,
       "unchanged": 62
     }
   },
