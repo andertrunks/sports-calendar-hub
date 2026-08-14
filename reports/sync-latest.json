@@ -17,15 +17,15 @@
     "deduplicated": 0,
     "changes": {
       "created": 0,
-      "updated": 2,
-      "unchanged": 62
+      "updated": 0,
+      "unchanged": 64
     }
   },
   "dry_run": {
     "plan": {
       "create": 0,
-      "update": 64,
-      "unchanged": 0,
+      "update": 0,
+      "unchanged": 64,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
@@ -53,8 +53,8 @@
     },
     "result": {
       "created": 0,
-      "updated": 64,
-      "unchanged": 0,
+      "updated": 0,
+      "unchanged": 64,
       "deleted": 0,
       "post_validation": {
         "create": 0,
