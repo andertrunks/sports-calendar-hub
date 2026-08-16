@@ -9,19 +9,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Arsenal x Coventry City | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260821T160000
 DTEND;TZID=America/Sao_Paulo:20260821T183000
-DTSTAMP:20260815T210535Z
+DTSTAMP:20260816T090708Z
 UID:45b84aa2e2d04ebc22ad63826277b6d3043654f8150b714a5d5079c0e6e608cb@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260815T210535Z
+CREATED:20260816T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : Emirates Stadium\n🌎 Cidade/País: Londres — Inglaterra\nℹ️ Stat
  us: Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news/
  4675097/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última v
- erificação: 15/08/2026 18:05 -03
-LAST-MODIFIED:20260815T210535Z
+ erificação: 16/08/2026 06:07 -03
+LAST-MODIFIED:20260816T090708Z
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -32,19 +32,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Hull City x Manchester United | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260822T083000
 DTEND;TZID=America/Sao_Paulo:20260822T110000
-DTSTAMP:20260815T210535Z
+DTSTAMP:20260816T090708Z
 UID:db5b30b68e7934fb9231a7a842fd97c829e993f37cb62a4138edef2afdd8d63b@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260815T210535Z
+CREATED:20260816T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : MKM Stadium\n🌎 Cidade/País: Kingston upon Hull — Inglaterra\nℹ
  ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/
  en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n🕒 
- Última verificação: 15/08/2026 18:05 -03
-LAST-MODIFIED:20260815T210535Z
+ Última verificação: 16/08/2026 06:07 -03
+LAST-MODIFIED:20260816T090708Z
 LOCATION:MKM Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55,19 +55,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Everton x Crystal Palace | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260822T110000
 DTEND;TZID=America/Sao_Paulo:20260822T133000
-DTSTAMP:20260815T210535Z
+DTSTAMP:20260816T090708Z
 UID:450efb229f73ed616bce4d8aaac0085f64b35d1531b05bb00a5069d920c725ca@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260815T210535Z
+CREATED:20260816T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : Hill Dickinson Stadium\n🌎 Cidade/País: Liverpool — Inglaterra\nℹ
  ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/
  en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n🕒 
- Última verificação: 15/08/2026 18:05 -03
-LAST-MODIFIED:20260815T210535Z
+ Última verificação: 16/08/2026 06:07 -03
+LAST-MODIFIED:20260816T090708Z
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -78,19 +78,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Ipswich Town x Sunderland | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260822T110000
 DTEND;TZID=America/Sao_Paulo:20260822T133000
-DTSTAMP:20260815T210535Z
+DTSTAMP:20260816T090708Z
 UID:0ce82ae5822acbd71291d6113353e1f3cfa68fdd42c03981bb2e2940c7b19315@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260815T210535Z
+CREATED:20260816T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : Portman Road\n🌎 Cidade/País: Ipswich — Inglaterra\nℹ️ Status: 
  Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news/4675
  097/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última verif
- icação: 15/08/2026 18:05 -03
-LAST-MODIFIED:20260815T210535Z
+ icação: 16/08/2026 06:07 -03
+LAST-MODIFIED:20260816T090708Z
 LOCATION:Portman Road
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -101,19 +101,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Nottingham Forest x Leeds United | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260822T110000
 DTEND;TZID=America/Sao_Paulo:20260822T133000
-DTSTAMP:20260815T210535Z
+DTSTAMP:20260816T090708Z
 UID:d17d6a139bbc628b1ba1bc56bd3c0613224cf90241a52dae3fbe9dd66bccd5e3@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260815T210535Z
+CREATED:20260816T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : City Ground\n🌎 Cidade/País: Nottingham — Inglaterra\nℹ️ Status
  : Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news/46
  75097/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última ver
- ificação: 15/08/2026 18:05 -03
-LAST-MODIFIED:20260815T210535Z
+ ificação: 16/08/2026 06:07 -03
+LAST-MODIFIED:20260816T090708Z
 LOCATION:City Ground
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -124,19 +124,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Brentford x Tottenham Hotspur | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260822T133000
 DTEND;TZID=America/Sao_Paulo:20260822T160000
-DTSTAMP:20260815T210535Z
+DTSTAMP:20260816T090708Z
 UID:d225900b8334abfdce321e3dab704347844bc1f80406096e574c4d9d99a4f009@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260815T210535Z
+CREATED:20260816T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : Gtech Community Stadium\n🌎 Cidade/País: Londres — Inglaterra\nℹ
  ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/
  en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n🕒 
- Última verificação: 15/08/2026 18:05 -03
-LAST-MODIFIED:20260815T210535Z
+ Última verificação: 16/08/2026 06:07 -03
+LAST-MODIFIED:20260816T090708Z
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -147,19 +147,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Brighton x Aston Villa | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260823T100000
 DTEND;TZID=America/Sao_Paulo:20260823T123000
-DTSTAMP:20260815T210535Z
+DTSTAMP:20260816T090708Z
 UID:760502728d0d2e7daa677c2bc3ac4c06923a196a4130d6e021eaa9dde4313c1b@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260815T210535Z
+CREATED:20260816T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : American Express Stadium\n🌎 Cidade/País: Brighton — Inglaterra\n
  ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.c
  om/en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n
- 🕒 Última verificação: 15/08/2026 18:05 -03
-LAST-MODIFIED:20260815T210535Z
+ 🕒 Última verificação: 16/08/2026 06:07 -03
+LAST-MODIFIED:20260816T090708Z
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -170,19 +170,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Manchester City x Bournemouth | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260823T100000
 DTEND;TZID=America/Sao_Paulo:20260823T123000
-DTSTAMP:20260815T210535Z
+DTSTAMP:20260816T090708Z
 UID:b8327c433c55bb99a5b108172cb2c86722e1f3b1180955cb2f74f667ab2a5b2b@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260815T210535Z
+CREATED:20260816T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : Etihad Stadium\n🌎 Cidade/País: Manchester — Inglaterra\nℹ️ Sta
  tus: Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news
  /4675097/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última 
- verificação: 15/08/2026 18:05 -03
-LAST-MODIFIED:20260815T210535Z
+ verificação: 16/08/2026 06:07 -03
+LAST-MODIFIED:20260816T090708Z
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -193,19 +193,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Newcastle United x Liverpool | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260823T123000
 DTEND;TZID=America/Sao_Paulo:20260823T150000
-DTSTAMP:20260815T210535Z
+DTSTAMP:20260816T090708Z
 UID:e4870c888c54c917551569b3e1540de051d5c5ce6a0bd7d784e002e12f5365b2@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260815T210535Z
+CREATED:20260816T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : St James' Park\n🌎 Cidade/País: Newcastle upon Tyne — Inglaterra\n
  ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.c
  om/en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n
- 🕒 Última verificação: 15/08/2026 18:05 -03
-LAST-MODIFIED:20260815T210535Z
+ 🕒 Última verificação: 16/08/2026 06:07 -03
+LAST-MODIFIED:20260816T090708Z
 LOCATION:St James' Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -216,19 +216,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Fulham x Chelsea | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260824T160000
 DTEND;TZID=America/Sao_Paulo:20260824T183000
-DTSTAMP:20260815T210535Z
+DTSTAMP:20260816T090708Z
 UID:9384364cebbea1480b577ed2a6693a92e254a9b77944bcece1a5e69bc46d2d8a@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260815T210535Z
+CREATED:20260816T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : Craven Cottage\n🌎 Cidade/País: Londres — Inglaterra\nℹ️ Status
  : Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news/46
  75097/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última ver
- ificação: 15/08/2026 18:05 -03
-LAST-MODIFIED:20260815T210535Z
+ ificação: 16/08/2026 06:07 -03
+LAST-MODIFIED:20260816T090708Z
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
