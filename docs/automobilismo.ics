@@ -9,19 +9,19 @@ BEGIN:VEVENT
 SUMMARY:Fórmula E — Londres | Corrida 2 — Rodada 17
 DTSTART;TZID=America/Sao_Paulo:20260816T110500
 DTEND;TZID=America/Sao_Paulo:20260816T120000
-DTSTAMP:20260816T150201Z
+DTSTAMP:20260816T210541Z
 UID:674355643a5c4dc282d98bebf4fa58c0e51131027682ec68c367e0c207288452@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Automobilismo,Fórmula E,automobilismo
-CREATED:20260816T150201Z
+CREATED:20260816T210541Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ABB FIA Formula E World Championship 2025–26\n📍 Fase/Rodada:
   Rodada 17 — Corrida 2 do London E-Prix\n🏟️ Local: London Excel Cir
  cuit\n🌎 Cidade/País: Londres — Reino Unido\nℹ️ Status: Confirmad
  o\n🔗 Fonte oficial: https://www.fiaformulae.com/en/calendar/2025-26/r17
- -london\n🕒 Última verificação: 16/08/2026 12:02 -03
-LAST-MODIFIED:20260816T150201Z
+ -london\n🕒 Última verificação: 16/08/2026 18:05 -03
+LAST-MODIFIED:20260816T210541Z
 LOCATION:London Excel Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
