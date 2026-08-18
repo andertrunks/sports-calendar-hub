@@ -9,18 +9,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — New York Red Bulls x Nashville SC | MLS
 DTSTART;TZID=America/Sao_Paulo:20260819T203000
 DTEND;TZID=America/Sao_Paulo:20260819T230000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:a395a3ecdd479ebd17a782315929797128b5b4084f01a686e7b2717e7c400847@sport
  s-calendar-hub
 SEQUENCE:3
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: Apple TV\n🏆 Competição: Majo
  r League Soccer 2026\n📍 Fase/Rodada: temporada regular\n🏟️ Local: 
  Sports Illustrated Stadium\n🌎 Cidade/País: Harrison — NJ — Estados
-  Unidos\nℹ️ Status: Confirmado\n🕒 Última verificação: 17/08/2026
-  18:05 -03
-LAST-MODIFIED:20260817T210538Z
+  Unidos\nℹ️ Status: Confirmado\n🕒 Última verificação: 18/08/2026
+  06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Sports Illustrated Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -30,18 +30,18 @@ SUMMARY:Futebol — Hokkaido Consadole Sapporo x RB Omiya Ardija | J2 Leag
  ue — Rodada 3
 DTSTART;TZID=America/Sao_Paulo:20260822T030000
 DTEND;TZID=America/Sao_Paulo:20260822T053000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:8432888283c437f2253808823e4aaaa4ee2619add5cdfd425d2278db10a357d7@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 3\n🏟
  ️ Local: Daiwa House Premist Dome\n🌎 Cidade/País: Sapporo — Japão
- \nℹ️ Status: Confirmado\n🕒 Última verificação: 17/08/2026 18:05 
+ \nℹ️ Status: Confirmado\n🕒 Última verificação: 18/08/2026 06:07 
  -03
-LAST-MODIFIED:20260817T210538Z
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Daiwa House Premist Dome
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -51,17 +51,17 @@ SUMMARY:Futebol — Eintracht Trier x RB Leipzig | Copa da Alemanha — 1
  ª rodada
 DTSTART;TZID=America/Sao_Paulo:20260822T130000
 DTEND;TZID=America/Sao_Paulo:20260822T153000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:b66df984b173da4713dcc662fc8d33300ae5ff4877a112784c6eb8d3874dc901@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: DFB-Pokal 2026/27\n📍 Fase/Rodada: 1ª rodada\n🏟️ Local: M
  oselstadion\n🌎 Cidade/País: Trier — Alemanha\nℹ️ Status: Confirm
- ado\n🕒 Última verificação: 17/08/2026 18:05 -03
-LAST-MODIFIED:20260817T210538Z
+ ado\n🕒 Última verificação: 18/08/2026 06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Moselstadion
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -70,18 +70,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — New York Red Bulls x Chicago Fire | MLS
 DTSTART;TZID=America/Sao_Paulo:20260822T203000
 DTEND;TZID=America/Sao_Paulo:20260822T230000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:2ff9a5268abfe9aec30120209d4a1c5248c3403b52a05eb460f1a20f2c5f8b98@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: Apple TV\n🏆 Competição: Majo
  r League Soccer 2026\n📍 Fase/Rodada: temporada regular\n🏟️ Local: 
  Sports Illustrated Stadium\n🌎 Cidade/País: Harrison — NJ — Estados
-  Unidos\nℹ️ Status: Confirmado\n🕒 Última verificação: 17/08/2026
-  18:05 -03
-LAST-MODIFIED:20260817T210538Z
+  Unidos\nℹ️ Status: Confirmado\n🕒 Última verificação: 18/08/2026
+  06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Sports Illustrated Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -91,18 +91,18 @@ SUMMARY:Futebol — Red Bull Salzburg x Rapid Wien | Bundesliga Austríaca
   — Rodada 4
 DTSTART;TZID=America/Sao_Paulo:20260823T140000
 DTEND;TZID=America/Sao_Paulo:20260823T163000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:a5a38502195aaa74358d29455cbd85dd4fed46029e8ac4dffe3db6e475e70c7b@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 4\n🏟️ L
  ocal: Red Bull Arena Salzburg\n🌎 Cidade/País: Wals-Siezenheim — Áus
- tria\nℹ️ Status: Confirmado\n🕒 Última verificação: 17/08/2026 18
- :05 -03
-LAST-MODIFIED:20260817T210538Z
+ tria\nℹ️ Status: Confirmado\n🕒 Última verificação: 18/08/2026 06
+ :07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Red Bull Arena Salzburg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -112,20 +112,20 @@ SUMMARY:Futebol — Red Bull Bragantino x Grêmio | Brasileirão — Rodad
  a 24
 DTSTART;TZID=America/Sao_Paulo:20260823T160000
 DTEND;TZID=America/Sao_Paulo:20260823T183000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:4ce992d44d5d394167edcd194b178354f4aa55216065a417d146b9f40b9547ce@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Estádio Cícero de Souza Marques\n🌎 Cida
  de/País: Bragança Paulista — SP — Brasil\nℹ️ Status: Confirmado\
  n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/cam
  peonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última
-  verificação: 17/08/2026 18:05 -03
-LAST-MODIFIED:20260817T210538Z
+  verificação: 18/08/2026 06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Estádio Cícero de Souza Marques
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -137,17 +137,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Vanraure Hachinohe | Copa do Imperad
  or — 2ª rodada
 DTSTART;TZID=America/Sao_Paulo:20260826T070000
 DTEND;TZID=America/Sao_Paulo:20260826T093000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:0c143a49f28419857343d5e6725a0d90620ecc9b4f37ccf1d67366268dc13d6e@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Copa do Imperador 2026\n📍 Fase/Rodada: 2ª rodada\n🏟️ Loc
  al: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ️ Sta
- tus: Confirmado\n🕒 Última verificação: 17/08/2026 18:05 -03
-LAST-MODIFIED:20260817T210538Z
+ tus: Confirmado\n🕒 Última verificação: 18/08/2026 06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -157,17 +157,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Shonan Bellmare | J2 League — Roda
  da 4
 DTSTART;TZID=America/Sao_Paulo:20260829T070000
 DTEND;TZID=America/Sao_Paulo:20260829T093000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:4568556caf143a016db277329474ceba93e1cfc630f12776a83a664a118378ae@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 4\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 17/08/2026 18:05 -03
-LAST-MODIFIED:20260817T210538Z
+ ️ Status: Confirmado\n🕒 Última verificação: 18/08/2026 06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -177,17 +177,17 @@ SUMMARY:Futebol — RB Leipzig x Borussia Mönchengladbach | Bundesliga
  — Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260829T103000
 DTEND;TZID=America/Sao_Paulo:20260829T130000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:da009b3ad7702a8c6a0097d88fe6e9baf7fcb837ee97293f7fe2592de30296b6@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Bundesliga 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local: Re
  d Bull Arena\n🌎 Cidade/País: Leipzig — Alemanha\nℹ️ Status: Conf
- irmado\n🕒 Última verificação: 17/08/2026 18:05 -03
-LAST-MODIFIED:20260817T210538Z
+ irmado\n🕒 Última verificação: 18/08/2026 06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Red Bull Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -196,18 +196,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — New York Red Bulls x Philadelphia Union | MLS
 DTSTART;TZID=America/Sao_Paulo:20260829T203000
 DTEND;TZID=America/Sao_Paulo:20260829T230000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:f6b8750498e39faebfdcdbf78dcaaae0912773f7a4bd0d86b109e9f0115a4809@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: Apple TV\n🏆 Competição: Majo
  r League Soccer 2026\n📍 Fase/Rodada: temporada regular\n🏟️ Local: 
  Sports Illustrated Stadium\n🌎 Cidade/País: Harrison — NJ — Estados
-  Unidos\nℹ️ Status: Confirmado\n🕒 Última verificação: 17/08/2026
-  18:05 -03
-LAST-MODIFIED:20260817T210538Z
+  Unidos\nℹ️ Status: Confirmado\n🕒 Última verificação: 18/08/2026
+  06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Sports Illustrated Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -217,18 +217,18 @@ SUMMARY:Futebol — Red Bull Salzburg x Austria Wien | Bundesliga Austría
  ca — Rodada 5
 DTSTART;TZID=America/Sao_Paulo:20260830T140000
 DTEND;TZID=America/Sao_Paulo:20260830T163000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:72651eb78af6de12f8e1db57208572cc5c04e8bec4b176ac4093852fff0a0542@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 5\n🏟️ L
  ocal: Red Bull Arena Salzburg\n🌎 Cidade/País: Wals-Siezenheim — Áus
- tria\nℹ️ Status: Confirmado\n🕒 Última verificação: 17/08/2026 18
- :05 -03
-LAST-MODIFIED:20260817T210538Z
+ tria\nℹ️ Status: Confirmado\n🕒 Última verificação: 18/08/2026 06
+ :07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Red Bull Arena Salzburg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -238,17 +238,17 @@ SUMMARY:Futebol — Gainare Tottori x RB Omiya Ardija | Copa da Liga Japon
  esa — 1ª rodada
 DTSTART;TZID=America/Sao_Paulo:20260902T070000
 DTEND;TZID=America/Sao_Paulo:20260902T093000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:87c77ceffa01b10c2812517639487cf9a2abce435cef6e5ef114e4c4c6ecddd3@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: J.League YBC Levain Cup 2026\n📍 Fase/Rodada: 1ª rodada\n🏟
  ️ Local: Axis Bird Stadium\n🌎 Cidade/País: Tottori — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 17/08/2026 18:05 -03
-LAST-MODIFIED:20260817T210538Z
+ ️ Status: Confirmado\n🕒 Última verificação: 18/08/2026 06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Axis Bird Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -257,17 +257,17 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Werder Bremen x RB Leipzig | Bundesliga — Rodada 2
 DTSTART;TZID=America/Sao_Paulo:20260905T103000
 DTEND;TZID=America/Sao_Paulo:20260905T130000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:65933b85fdd6217631b32ff98e1b326179b23aeee738b37f1bdebbccf09b6b18@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Bundesliga 2026/27\n📍 Fase/Rodada: rodada 2\n🏟️ Local: We
  serstadion\n🌎 Cidade/País: Bremen — Alemanha\nℹ️ Status: Confirm
- ado\n🕒 Última verificação: 17/08/2026 18:05 -03
-LAST-MODIFIED:20260817T210538Z
+ ado\n🕒 Última verificação: 18/08/2026 06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -277,17 +277,17 @@ SUMMARY:Futebol — Blaublitz Akita x RB Omiya Ardija | J2 League — Roda
  da 5
 DTSTART;TZID=America/Sao_Paulo:20260906T060000
 DTEND;TZID=America/Sao_Paulo:20260906T083000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:1a69a7c1cbe7d9e7d3075bbf03b28df21d08b4d1d06aeec1f57190bb6a939870@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 5\n🏟
  ️ Local: Soyu Stadium\n🌎 Cidade/País: Akita — Japão\nℹ️ Statu
- s: Confirmado\n🕒 Última verificação: 17/08/2026 18:05 -03
-LAST-MODIFIED:20260817T210538Z
+ s: Confirmado\n🕒 Última verificação: 18/08/2026 06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Soyu Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -297,17 +297,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Oita Trinita | J2 League — Rodada
  6
 DTSTART;TZID=America/Sao_Paulo:20260912T070000
 DTEND;TZID=America/Sao_Paulo:20260912T093000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:bbe95591554dd548b794764523da8128c7a0e2e7c69264b00060472d70a18305@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 6\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 17/08/2026 18:05 -03
-LAST-MODIFIED:20260817T210538Z
+ ️ Status: Confirmado\n🕒 Última verificação: 18/08/2026 06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -316,17 +316,17 @@ BEGIN:VEVENT
 SUMMARY:Futebol — RB Leipzig x Hamburger SV | Bundesliga — Rodada 3
 DTSTART;TZID=America/Sao_Paulo:20260913T103000
 DTEND;TZID=America/Sao_Paulo:20260913T130000
-DTSTAMP:20260817T210538Z
+DTSTAMP:20260818T090721Z
 UID:613c7d4039a620087c3ee168014a8eb2b945af3c63b48cbec9380d05de444372@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260817T210538Z
+CREATED:20260818T090721Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Bundesliga 2026/27\n📍 Fase/Rodada: rodada 3\n🏟️ Local: Re
  d Bull Arena\n🌎 Cidade/País: Leipzig — Alemanha\nℹ️ Status: Conf
- irmado\n🕒 Última verificação: 17/08/2026 18:05 -03
-LAST-MODIFIED:20260817T210538Z
+ irmado\n🕒 Última verificação: 18/08/2026 06:07 -03
+LAST-MODIFIED:20260818T090721Z
 LOCATION:Red Bull Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
