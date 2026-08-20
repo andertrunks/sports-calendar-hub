@@ -9,19 +9,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Fluminense x Remo | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260822T160000
 DTEND;TZID=America/Sao_Paulo:20260822T183000
-DTSTAMP:20260819T210534Z
+DTSTAMP:20260820T150203Z
 UID:ac3a92226c2e53f26c788948fe2b0877cf02f2e58cbf596c8d67ab991f46274e@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260819T210534Z
+CREATED:20260820T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
  24\n🏟️ Local: Maracanã\n🌎 Cidade/País: Rio de Janeiro — RJ —
   Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.co
  m.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documen
- to=Tabela%20Detalhada\n🕒 Última verificação: 19/08/2026 18:05 -03
-LAST-MODIFIED:20260819T210534Z
+ to=Tabela%20Detalhada\n🕒 Última verificação: 20/08/2026 12:02 -03
+LAST-MODIFIED:20260820T150203Z
 LOCATION:Maracanã
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -33,20 +33,20 @@ SUMMARY:Futebol — Internacional x Atlético-MG | Brasileirão — Rodada
   24
 DTSTART;TZID=America/Sao_Paulo:20260822T183000
 DTEND;TZID=America/Sao_Paulo:20260822T210000
-DTSTAMP:20260819T210534Z
+DTSTAMP:20260820T150203Z
 UID:af54574d27c64ed838da0cef258499adb49feab65bb5dae0f8d47814e6d4e830@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260819T210534Z
+CREATED:20260820T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Beira-Rio\n🌎 Cidade/País: Porto Alegre 
  — RS — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://
  www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/20
- 26?documento=Tabela%20Detalhada\n🕒 Última verificação: 19/08/2026 18
- :05 -03
-LAST-MODIFIED:20260819T210534Z
+ 26?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/08/2026 12
+ :02 -03
+LAST-MODIFIED:20260820T150203Z
 LOCATION:Beira-Rio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57,20 +57,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Cruzeiro x Flamengo | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260822T203000
 DTEND;TZID=America/Sao_Paulo:20260822T230000
-DTSTAMP:20260819T210534Z
+DTSTAMP:20260820T150203Z
 UID:6801b84ea22c765e168847df9ea33ad416123238feb8708e993472370eb927c3@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260819T210534Z
+CREATED:20260820T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: Amazon Prime Video\n🏆 Competi
  ção: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Mineirão\n🌎 Cidade/País: Belo Horizonte
   — MG — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:/
  /www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2
- 026?documento=Tabela%20Detalhada\n🕒 Última verificação: 19/08/2026 1
- 8:05 -03
-LAST-MODIFIED:20260819T210534Z
+ 026?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/08/2026 1
+ 2:02 -03
+LAST-MODIFIED:20260820T150203Z
 LOCATION:Mineirão
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -81,20 +81,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Palmeiras x Vasco | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260823T160000
 DTEND;TZID=America/Sao_Paulo:20260823T183000
-DTSTAMP:20260819T210534Z
+DTSTAMP:20260820T150203Z
 UID:02c24c493dac3a1073f0f44789aa351738ae30353dfc8c05916cf1e2760017bf@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260819T210534Z
+CREATED:20260820T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Allianz Parque\n🌎 Cidade/País: São Paul
  o — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:
  //www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/
- 2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 19/08/2026 
- 18:05 -03
-LAST-MODIFIED:20260819T210534Z
+ 2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/08/2026 
+ 12:02 -03
+LAST-MODIFIED:20260820T150203Z
 LOCATION:Allianz Parque
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -105,20 +105,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Vitória x Bahia | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260823T160000
 DTEND;TZID=America/Sao_Paulo:20260823T183000
-DTSTAMP:20260819T210534Z
+DTSTAMP:20260820T150203Z
 UID:3d1443bed9c2e452cfbd4f3dbf5de24b72cbb5390018ed209733cee867a44c1b@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260819T210534Z
+CREATED:20260820T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Manoel Barradas\n🌎 Cidade/País: Salvador
   — BA — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:/
  /www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2
- 026?documento=Tabela%20Detalhada\n🕒 Última verificação: 19/08/2026 1
- 8:05 -03
-LAST-MODIFIED:20260819T210534Z
+ 026?documento=Tabela%20Detalhada\n🕒 Última verificação: 20/08/2026 1
+ 2:02 -03
+LAST-MODIFIED:20260820T150203Z
 LOCATION:Manoel Barradas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -129,19 +129,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Santos x Mirassol | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260823T183000
 DTEND;TZID=America/Sao_Paulo:20260823T210000
-DTSTAMP:20260819T210534Z
+DTSTAMP:20260820T150203Z
 UID:db0535bca289d343d5fb229db74cea8b279d75381f6cdc200bd3e4843327d6e3@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260819T210534Z
+CREATED:20260820T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
  24\n🏟️ Local: Vila Belmiro\n🌎 Cidade/País: Santos — SP — Bras
  il\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/
  futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Ta
- bela%20Detalhada\n🕒 Última verificação: 19/08/2026 18:05 -03
-LAST-MODIFIED:20260819T210534Z
+ bela%20Detalhada\n🕒 Última verificação: 20/08/2026 12:02 -03
+LAST-MODIFIED:20260820T150203Z
 LOCATION:Vila Belmiro
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -152,19 +152,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Coritiba x Corinthians | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260823T193000
 DTEND;TZID=America/Sao_Paulo:20260823T220000
-DTSTAMP:20260819T210534Z
+DTSTAMP:20260820T150203Z
 UID:94b9a9a7f83d325db9088a7b95f85d5ded9c4c99db1a84e6566579fedb37a4ee@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260819T210534Z
+CREATED:20260820T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
  24\n🏟️ Local: Couto Pereira\n🌎 Cidade/País: Curitiba — PR — B
  rasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.
  br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento
- =Tabela%20Detalhada\n🕒 Última verificação: 19/08/2026 18:05 -03
-LAST-MODIFIED:20260819T210534Z
+ =Tabela%20Detalhada\n🕒 Última verificação: 20/08/2026 12:02 -03
+LAST-MODIFIED:20260820T150203Z
 LOCATION:Couto Pereira
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -175,20 +175,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Botafogo x Athletico-PR | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260824T200000
 DTEND;TZID=America/Sao_Paulo:20260824T223000
-DTSTAMP:20260819T210534Z
+DTSTAMP:20260820T150203Z
 UID:baa4743195cf5ca4636e3f732ca35c878df04693e36fa633d4b7dcbcf49ca422@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260819T210534Z
+CREATED:20260820T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Estádio Nilton Santos\n🌎 Cidade/País: R
  io de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
  cial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasile
  iro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação:
-  19/08/2026 18:05 -03
-LAST-MODIFIED:20260819T210534Z
+  20/08/2026 12:02 -03
+LAST-MODIFIED:20260820T150203Z
 LOCATION:Estádio Nilton Santos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

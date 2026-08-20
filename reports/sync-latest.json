@@ -1,30 +1,30 @@
 {
   "schema_version": "2.0",
-  "source_hash": "5913181f78a3687dfc160f7a1ebfdc0b80ca805cfd110ed6c23dd99a316900fb",
-  "events": 47,
+  "source_hash": "701993c599e8c9d49aac16acec37dd6f7f545232443a172260ebd2857597eba1",
+  "events": 44,
   "by_group": {
     "brasileirao": 8,
-    "clubes-regionais": 7,
+    "clubes-regionais": 5,
     "outros-esportes": 1,
     "premier-league": 10,
-    "red-bull": 16,
+    "red-bull": 15,
     "sao-paulo": 5
   },
   "import": {
-    "source_rows": 47,
-    "in_scope": 47,
-    "unique_events": 47,
+    "source_rows": 44,
+    "in_scope": 44,
+    "unique_events": 44,
     "deduplicated": 0,
     "changes": {
       "created": 0,
       "updated": 0,
-      "unchanged": 47
+      "unchanged": 44
     }
   },
   "dry_run": {
     "plan": {
       "create": 0,
-      "update": 47,
+      "update": 44,
       "unchanged": 0,
       "delete": 0,
       "primary_delete": 0,
@@ -41,7 +41,7 @@
     "plan": {
       "create": 0,
       "update": 0,
-      "unchanged": 47,
+      "unchanged": 44,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
@@ -53,13 +53,13 @@
     },
     "result": {
       "created": 0,
-      "updated": 47,
+      "updated": 44,
       "unchanged": 0,
       "deleted": 0,
       "post_validation": {
         "create": 0,
         "update": 0,
-        "unchanged": 47,
+        "unchanged": 44,
         "delete": 0,
         "primary_delete": 0,
         "missing_uid": 0,
