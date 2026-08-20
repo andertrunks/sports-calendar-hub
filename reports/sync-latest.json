@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "source_hash": "75fcc99250b79f21b633c53cc6845893c977d0b3ec9d9a816f5dd56eec9aa9f3",
+  "source_hash": "5913181f78a3687dfc160f7a1ebfdc0b80ca805cfd110ed6c23dd99a316900fb",
   "events": 47,
   "by_group": {
     "brasileirao": 8,
@@ -31,7 +31,7 @@
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 79,
+      "existing_future": 76,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
@@ -47,7 +47,7 @@
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 79,
+      "existing_future": 76,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
@@ -65,7 +65,7 @@
         "missing_uid": 0,
         "duplicate_delete": 0,
         "scope_delete": 0,
-        "existing_future": 79,
+        "existing_future": 76,
         "privacy_violations": 0,
         "duplicate_reviews": 0
       }
