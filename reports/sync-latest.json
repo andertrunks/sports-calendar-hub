@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "source_hash": "6c0bf48d7516abff73434b8542f653e50106734c897c3f7e0ede087b62227a05",
+  "source_hash": "2ea62f7ebdaff266413c7d8bdcea24955b89c4882dbc87ce4180deddbb304125",
   "events": 45,
   "by_group": {
     "brasileirao": 8,
@@ -16,8 +16,8 @@
     "unique_events": 45,
     "deduplicated": 0,
     "changes": {
-      "created": 1,
-      "updated": 0,
+      "created": 0,
+      "updated": 1,
       "unchanged": 44
     }
   },
