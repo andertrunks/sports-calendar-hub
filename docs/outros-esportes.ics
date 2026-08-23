@@ -10,20 +10,42 @@ SUMMARY:NFL — New York Giants x Dallas Cowboys | Temporada regular — S
  emana 1
 DTSTART;TZID=America/Sao_Paulo:20260913T212000
 DTEND;TZID=America/Sao_Paulo:20260914T005000
-DTSTAMP:20260822T210534Z
+DTSTAMP:20260823T090711Z
 UID:5f814a074b60031de5afd7a0e66b4a2271e07a8d7b42c46900b4ab6bd1ea7c4e@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20260822T210534Z
+CREATED:20260823T090711Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 1\n🏟
  ️ Local: MetLife Stadium\n🌎 Cidade/País: East Rutherford — NJ — 
  Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
- .giants.com/schedule/2026/\n🕒 Última verificação: 22/08/2026 18:05 -
+ .giants.com/schedule/2026/\n🕒 Última verificação: 23/08/2026 06:07 -
  03
-LAST-MODIFIED:20260822T210534Z
+LAST-MODIFIED:20260823T090711Z
 LOCATION:MetLife Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.giants.com/schedule/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL — Los Angeles Rams x New York Giants | Temporada regular —
+  Semana 2
+DTSTART;TZID=America/Sao_Paulo:20260921T211500
+DTEND;TZID=America/Sao_Paulo:20260922T004500
+DTSTAMP:20260823T090711Z
+UID:2858f85b6586661c186b923efe1514daf6c05ab9ad908fbb122e4840df36805d@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol americano,NFL,outros-esportes
+CREATED:20260823T090711Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 2\n🏟
+ ️ Local: SoFi Stadium\n🌎 Cidade/País: Inglewood\, Estados Unidos\n
+ ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.giants.com/sche
+ dule/2026/\n🕒 Última verificação: 23/08/2026 06:07 -03
+LAST-MODIFIED:20260823T090711Z
+LOCATION:SoFi Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.giants.com/schedule/2026/
