@@ -9,19 +9,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Brighton x Aston Villa | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260823T100000
 DTEND;TZID=America/Sao_Paulo:20260823T123000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:760502728d0d2e7daa677c2bc3ac4c06923a196a4130d6e021eaa9dde4313c1b@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : American Express Stadium\n🌎 Cidade/País: Brighton — Inglaterra\n
  ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.c
  om/en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n
- 🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ 🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -32,19 +32,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Manchester City x Bournemouth | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260823T100000
 DTEND;TZID=America/Sao_Paulo:20260823T123000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:b8327c433c55bb99a5b108172cb2c86722e1f3b1180955cb2f74f667ab2a5b2b@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : Etihad Stadium\n🌎 Cidade/País: Manchester — Inglaterra\nℹ️ Sta
  tus: Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news
  /4675097/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última 
- verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55,19 +55,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Newcastle United x Liverpool | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260823T123000
 DTEND;TZID=America/Sao_Paulo:20260823T150000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:e4870c888c54c917551569b3e1540de051d5c5ce6a0bd7d784e002e12f5365b2@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : St James' Park\n🌎 Cidade/País: Newcastle upon Tyne — Inglaterra\n
  ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.premierleague.c
  om/en/news/4675097/all-380-fixtures-for-202627-premier-league-season/\n
- 🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ 🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:St James' Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -79,18 +79,18 @@ SUMMARY:Futebol — Red Bull Salzburg x Rapid Wien | Bundesliga Austríaca
   — Rodada 4
 DTSTART;TZID=America/Sao_Paulo:20260823T140000
 DTEND;TZID=America/Sao_Paulo:20260823T163000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:a5a38502195aaa74358d29455cbd85dd4fed46029e8ac4dffe3db6e475e70c7b@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 4\n🏟️ L
  ocal: Red Bull Arena Salzburg\n🌎 Cidade/País: Wals-Siezenheim — Áus
- tria\nℹ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 06
- :07 -03
-LAST-MODIFIED:20260823T090711Z
+ tria\nℹ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 12
+ :02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Red Bull Arena Salzburg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -99,20 +99,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Palmeiras x Vasco | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260823T160000
 DTEND;TZID=America/Sao_Paulo:20260823T183000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:02c24c493dac3a1073f0f44789aa351738ae30353dfc8c05916cf1e2760017bf@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Allianz Parque\n🌎 Cidade/País: São Paul
  o — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:
  //www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/
  2026?documento=Tabela%20Detalhada\n🕒 Última verificação: 23/08/2026 
- 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Allianz Parque
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -124,20 +124,20 @@ SUMMARY:Futebol — Red Bull Bragantino x Grêmio | Brasileirão — Rodad
  a 24
 DTSTART;TZID=America/Sao_Paulo:20260823T160000
 DTEND;TZID=America/Sao_Paulo:20260823T183000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:4ce992d44d5d394167edcd194b178354f4aa55216065a417d146b9f40b9547ce@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Estádio Cícero de Souza Marques\n🌎 Cida
  de/País: Bragança Paulista — SP — Brasil\nℹ️ Status: Confirmado\
  n🔗 Fonte oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/cam
  peonato-brasileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última
-  verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+  verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Estádio Cícero de Souza Marques
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -148,20 +148,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Vitória x Bahia | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260823T160000
 DTEND;TZID=America/Sao_Paulo:20260823T183000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:3d1443bed9c2e452cfbd4f3dbf5de24b72cbb5390018ed209733cee867a44c1b@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: Globo e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Manoel Barradas\n🌎 Cidade/País: Salvador
   — BA — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:/
  /www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2
- 026?documento=Tabela%20Detalhada\n🕒 Última verificação: 23/08/2026 0
- 6:07 -03
-LAST-MODIFIED:20260823T090711Z
+ 026?documento=Tabela%20Detalhada\n🕒 Última verificação: 23/08/2026 1
+ 2:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Manoel Barradas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -172,20 +172,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Chapecoense x São Paulo | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260823T183000
 DTEND;TZID=America/Sao_Paulo:20260823T203000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:6af69f48ade7952cb6ffea8def6a66d315a80bc8f72c7ac7aa5490597451b89b@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,sao-paulo
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\, Record e CazéTV no Yo
  uTube\n🏆 Competição: Campeonato Brasileiro Série A 2026\n📍 Fase/R
  odada: fase única — rodada 24\n🏟️ Local: Arena Condá\n🌎 Cidade
  /País: Chapecó — SC — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte 
  oficial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-bras
  ileiro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificaç
- ão: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ ão: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Arena Condá
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -196,19 +196,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Santos x Mirassol | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260823T183000
 DTEND;TZID=America/Sao_Paulo:20260823T210000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:db0535bca289d343d5fb229db74cea8b279d75381f6cdc200bd3e4843327d6e3@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
  24\n🏟️ Local: Vila Belmiro\n🌎 Cidade/País: Santos — SP — Bras
  il\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.br/
  futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento=Ta
- bela%20Detalhada\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ bela%20Detalhada\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Vila Belmiro
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -219,12 +219,12 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Ypiranga-RS x Ferroviária | Série C — Rodada 18
 DTSTART;TZID=America/Sao_Paulo:20260823T183000
 DTEND;TZID=America/Sao_Paulo:20260823T210000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:c26ef7391e005544381ea59391b3be13389f7c029318e0062e9834dbb95873bf@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
  ase — rodada 18\n🏟️ Local: Estádio Colosso da Lagoa\n🌎 Cidade/P
@@ -232,8 +232,8 @@ DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  cial: https://www.cbf.com.br/futebol-brasileiro/noticias/competicoes-campe
  onato-brasileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodadas-16-a-1
  9-da-serie-c-do-campeonato-brasileiro\n🕒 Última verificação: 23/08/2
- 026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ 026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Estádio Colosso da Lagoa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -245,19 +245,19 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Coritiba x Corinthians | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260823T193000
 DTEND;TZID=America/Sao_Paulo:20260823T220000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:94b9a9a7f83d325db9088a7b95f85d5ded9c4c99db1a84e6566579fedb37a4ee@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: Premiere\n🏆 Competição: Camp
  eonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única — rodada 
  24\n🏟️ Local: Couto Pereira\n🌎 Cidade/País: Curitiba — PR — B
  rasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.cbf.com.
  br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026?documento
- =Tabela%20Detalhada\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ =Tabela%20Detalhada\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Couto Pereira
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -268,19 +268,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Fulham x Chelsea | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260824T160000
 DTEND;TZID=America/Sao_Paulo:20260824T183000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:9384364cebbea1480b577ed2a6693a92e254a9b77944bcece1a5e69bc46d2d8a@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : Craven Cottage\n🌎 Cidade/País: Londres — Inglaterra\nℹ️ Status
  : Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news/46
  75097/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última ver
- ificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ ificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -291,20 +291,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Botafogo x Athletico-PR | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260824T200000
 DTEND;TZID=America/Sao_Paulo:20260824T223000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:baa4743195cf5ca4636e3f732ca35c878df04693e36fa633d4b7dcbcf49ca422@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Estádio Nilton Santos\n🌎 Cidade/País: R
  io de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
  cial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasile
  iro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação:
-  23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+  23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Estádio Nilton Santos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -315,18 +315,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Atlético-GO x Botafogo-SP | Série B — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260825T193000
 DTEND;TZID=America/Sao_Paulo:20260825T220000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:1584730df6778efe24e46c037c43a5e8d88a6681dc761e87e90932022dacfb90@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
  : Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase única — r
  odada 24\n🏟️ Local: Estádio Antônio Accioly\n🌎 Cidade/País: Goi
  ânia — GO — Brasil\nℹ️ Status: Confirmado\n🕒 Última verifica
- ção: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ ção: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Estádio Antônio Accioly
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -336,17 +336,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Vanraure Hachinohe | Copa do Imperad
  or — 2ª rodada
 DTSTART;TZID=America/Sao_Paulo:20260826T070000
 DTEND;TZID=America/Sao_Paulo:20260826T093000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:0c143a49f28419857343d5e6725a0d90620ecc9b4f37ccf1d67366268dc13d6e@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Copa do Imperador 2026\n📍 Fase/Rodada: 2ª rodada\n🏟️ Loc
  al: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ️ Sta
- tus: Confirmado\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ tus: Confirmado\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -356,17 +356,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Shonan Bellmare | J2 League — Roda
  da 4
 DTSTART;TZID=America/Sao_Paulo:20260829T070000
 DTEND;TZID=America/Sao_Paulo:20260829T093000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:4568556caf143a016db277329474ceba93e1cfc630f12776a83a664a118378ae@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 4\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -376,17 +376,17 @@ SUMMARY:Futebol — RB Leipzig x Borussia Mönchengladbach | Bundesliga
  — Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260829T103000
 DTEND;TZID=America/Sao_Paulo:20260829T130000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:da009b3ad7702a8c6a0097d88fe6e9baf7fcb837ee97293f7fe2592de30296b6@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Bundesliga 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local: Re
  d Bull Arena\n🌎 Cidade/País: Leipzig — Alemanha\nℹ️ Status: Conf
- irmado\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ irmado\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Red Bull Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -395,21 +395,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Ferroviária x Confiança | Série C — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260829T170000
 DTEND;TZID=America/Sao_Paulo:20260829T193000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:16a72e6b344ff709488862ee811a258fc5332b2f1cb8cda33064a4b19314ebcc@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
  ase — rodada 19\n🏟️ Local: Fonte Luminosa\n🌎 Cidade/País: Arara
  quara — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
  tps://www.cbf.com.br/futebol-brasileiro/noticias/competicoes-campeonato-br
  asileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodadas-16-a-19-da-ser
- ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 23/08/2026 06:0
- 7 -03
-LAST-MODIFIED:20260823T090711Z
+ ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 23/08/2026 12:0
+ 2 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Fonte Luminosa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -421,18 +421,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — New York Red Bulls x Philadelphia Union | MLS
 DTSTART;TZID=America/Sao_Paulo:20260829T203000
 DTEND;TZID=America/Sao_Paulo:20260829T230000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:f6b8750498e39faebfdcdbf78dcaaae0912773f7a4bd0d86b109e9f0115a4809@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: Apple TV\n🏆 Competição: Majo
  r League Soccer 2026\n📍 Fase/Rodada: temporada regular\n🏟️ Local: 
  Sports Illustrated Stadium\n🌎 Cidade/País: Harrison — NJ — Estados
   Unidos\nℹ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026
-  06:07 -03
-LAST-MODIFIED:20260823T090711Z
+  12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Sports Illustrated Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -442,18 +442,18 @@ SUMMARY:Futebol — Red Bull Salzburg x Austria Wien | Bundesliga Austría
  ca — Rodada 5
 DTSTART;TZID=America/Sao_Paulo:20260830T140000
 DTEND;TZID=America/Sao_Paulo:20260830T163000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:72651eb78af6de12f8e1db57208572cc5c04e8bec4b176ac4093852fff0a0542@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 5\n🏟️ L
  ocal: Red Bull Arena Salzburg\n🌎 Cidade/País: Wals-Siezenheim — Áus
- tria\nℹ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 06
- :07 -03
-LAST-MODIFIED:20260823T090711Z
+ tria\nℹ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 12
+ :02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Red Bull Arena Salzburg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -463,17 +463,17 @@ SUMMARY:Futebol — Gainare Tottori x RB Omiya Ardija | Copa da Liga Japon
  esa — 1ª rodada
 DTSTART;TZID=America/Sao_Paulo:20260902T070000
 DTEND;TZID=America/Sao_Paulo:20260902T093000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:87c77ceffa01b10c2812517639487cf9a2abce435cef6e5ef114e4c4c6ecddd3@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: J.League YBC Levain Cup 2026\n📍 Fase/Rodada: 1ª rodada\n🏟
  ️ Local: Axis Bird Stadium\n🌎 Cidade/País: Tottori — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Axis Bird Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -483,18 +483,18 @@ SUMMARY:Futebol masculino sub-20 — Desportivo Brasil x São Paulo | Paul
  istão Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260904T150000
 DTEND;TZID=America/Sao_Paulo:20260904T173000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:8dc04499fddc7b96fb4d3c616e203e59bface9f67da131f4500d0977a9f0ccb7@sport
  s-calendar-hub
 SEQUENCE:0
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase\
  n🏟️ Local: Porto Feliz\, SP\, Brasil\nℹ️ Status: Provisório\n
  🔗 Fonte oficial: https://www.saopaulofc.net/fpf-divulga-tabela-do-pauli
- sta-sub-20/\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ sta-sub-20/\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Porto Feliz\, SP\, Brasil
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -504,17 +504,17 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Werder Bremen x RB Leipzig | Bundesliga — Rodada 2
 DTSTART;TZID=America/Sao_Paulo:20260905T103000
 DTEND;TZID=America/Sao_Paulo:20260905T130000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:65933b85fdd6217631b32ff98e1b326179b23aeee738b37f1bdebbccf09b6b18@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Bundesliga 2026/27\n📍 Fase/Rodada: rodada 2\n🏟️ Local: We
  serstadion\n🌎 Cidade/País: Bremen — Alemanha\nℹ️ Status: Confirm
- ado\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ ado\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -524,17 +524,17 @@ SUMMARY:Futebol — Blaublitz Akita x RB Omiya Ardija | J2 League — Roda
  da 5
 DTSTART;TZID=America/Sao_Paulo:20260906T060000
 DTEND;TZID=America/Sao_Paulo:20260906T083000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:1a69a7c1cbe7d9e7d3075bbf03b28df21d08b4d1d06aeec1f57190bb6a939870@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 5\n🏟
  ️ Local: Soyu Stadium\n🌎 Cidade/País: Akita — Japão\nℹ️ Statu
- s: Confirmado\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ s: Confirmado\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Soyu Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -544,17 +544,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Oita Trinita | J2 League — Rodada
  6
 DTSTART;TZID=America/Sao_Paulo:20260912T070000
 DTEND;TZID=America/Sao_Paulo:20260912T093000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:bbe95591554dd548b794764523da8128c7a0e2e7c69264b00060472d70a18305@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 6\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -564,19 +564,19 @@ SUMMARY:Futebol masculino sub-20 — São Paulo x União São João | Paul
  istão Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260912T150000
 DTEND;TZID=America/Sao_Paulo:20260912T173000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:ecc1688bfe404d72cdfd34f37bd623674ca2b4e330adcb86ff0cca1e61020f00@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase\
  n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Cotia — SP — Brasi
  l\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.n
  et/fpf-divulga-tabela-do-paulista-sub-20/\n🕒 Última verificação: 23/
- 08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ 08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -586,17 +586,17 @@ BEGIN:VEVENT
 SUMMARY:Futebol — RB Leipzig x Hamburger SV | Bundesliga — Rodada 3
 DTSTART;TZID=America/Sao_Paulo:20260913T103000
 DTEND;TZID=America/Sao_Paulo:20260913T130000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:613c7d4039a620087c3ee168014a8eb2b945af3c63b48cbec9380d05de444372@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Bundesliga 2026/27\n📍 Fase/Rodada: rodada 3\n🏟️ Local: Re
  d Bull Arena\n🌎 Cidade/País: Leipzig — Alemanha\nℹ️ Status: Conf
- irmado\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ irmado\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Red Bull Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -606,19 +606,19 @@ SUMMARY:NFL — New York Giants x Dallas Cowboys | Temporada regular — S
  emana 1
 DTSTART;TZID=America/Sao_Paulo:20260913T212000
 DTEND;TZID=America/Sao_Paulo:20260914T005000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:5f814a074b60031de5afd7a0e66b4a2271e07a8d7b42c46900b4ab6bd1ea7c4e@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 1\n🏟
  ️ Local: MetLife Stadium\n🌎 Cidade/País: East Rutherford — NJ — 
  Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
- .giants.com/schedule/2026/\n🕒 Última verificação: 23/08/2026 06:07 -
+ .giants.com/schedule/2026/\n🕒 Última verificação: 23/08/2026 12:02 -
  03
-LAST-MODIFIED:20260823T090711Z
+LAST-MODIFIED:20260823T150201Z
 LOCATION:MetLife Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -629,18 +629,18 @@ SUMMARY:Futebol — Fujieda MYFC x RB Omiya Ardija | J2 League — Rodada
  7
 DTSTART;TZID=America/Sao_Paulo:20260919T063000
 DTEND;TZID=America/Sao_Paulo:20260919T090000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:13b57f43597df2628fe77feebd32273a37c0c5d840ee9541ce7ebfbaa9a05586@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 7\n🏟
  ️ Local: Fujieda Soccer Stadium\n🌎 Cidade/País: Fujieda — Japão\n
- ℹ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 06:07 -0
+ ℹ️ Status: Confirmado\n🕒 Última verificação: 23/08/2026 12:02 -0
  3
-LAST-MODIFIED:20260823T090711Z
+LAST-MODIFIED:20260823T150201Z
 LOCATION:Fujieda Soccer Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -650,17 +650,17 @@ SUMMARY:Futebol — Bayer Leverkusen x RB Leipzig | Bundesliga — Rodada
  4
 DTSTART;TZID=America/Sao_Paulo:20260920T103000
 DTEND;TZID=America/Sao_Paulo:20260920T130000
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:b3c01fed1f05e145173cfd77c49807ec5d2eb01756c65919c1d717829f31fb9a@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Bundesliga 2026/27\n📍 Fase/Rodada: rodada 4\n🏟️ Local: Ba
  yArena\n🌎 Cidade/País: Leverkusen — Alemanha\nℹ️ Status: Confirm
- ado\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ ado\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:BayArena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -670,18 +670,18 @@ SUMMARY:NFL — Los Angeles Rams x New York Giants | Temporada regular —
   Semana 2
 DTSTART;TZID=America/Sao_Paulo:20260921T211500
 DTEND;TZID=America/Sao_Paulo:20260922T004500
-DTSTAMP:20260823T090711Z
+DTSTAMP:20260823T150201Z
 UID:2858f85b6586661c186b923efe1514daf6c05ab9ad908fbb122e4840df36805d@sport
  s-calendar-hub
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20260823T090711Z
+CREATED:20260823T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 2\n🏟
- ️ Local: SoFi Stadium\n🌎 Cidade/País: Inglewood\, Estados Unidos\n
- ℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.giants.com/sche
- dule/2026/\n🕒 Última verificação: 23/08/2026 06:07 -03
-LAST-MODIFIED:20260823T090711Z
+ ️ Local: SoFi Stadium\n🌎 Cidade/País: Inglewood — CA — Estados U
+ nidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.giants.c
+ om/schedule/2026/\n🕒 Última verificação: 23/08/2026 12:02 -03
+LAST-MODIFIED:20260823T150201Z
 LOCATION:SoFi Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
