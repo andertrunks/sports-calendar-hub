@@ -9,19 +9,19 @@ BEGIN:VEVENT
 SUMMARY:Premier League — Fulham x Chelsea | Rodada 1
 DTSTART;TZID=America/Sao_Paulo:20260824T160000
 DTEND;TZID=America/Sao_Paulo:20260824T183000
-DTSTAMP:20260824T090708Z
+DTSTAMP:20260824T150203Z
 UID:9384364cebbea1480b577ed2a6693a92e254a9b77944bcece1a5e69bc46d2d8a@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,premier-league
-CREATED:20260824T090708Z
+CREATED:20260824T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Premier League 2026/27\n📍 Fase/Rodada: rodada 1\n🏟️ Local
  : Craven Cottage\n🌎 Cidade/País: Londres — Inglaterra\nℹ️ Status
  : Confirmado\n🔗 Fonte oficial: https://www.premierleague.com/en/news/46
  75097/all-380-fixtures-for-202627-premier-league-season/\n🕒 Última ver
- ificação: 24/08/2026 06:07 -03
-LAST-MODIFIED:20260824T090708Z
+ ificação: 24/08/2026 12:02 -03
+LAST-MODIFIED:20260824T150203Z
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

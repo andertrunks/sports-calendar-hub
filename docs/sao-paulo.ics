@@ -10,18 +10,18 @@ SUMMARY:Futebol masculino sub-20 — Desportivo Brasil x São Paulo | Paul
  istão Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260904T150000
 DTEND;TZID=America/Sao_Paulo:20260904T173000
-DTSTAMP:20260824T090708Z
+DTSTAMP:20260824T150203Z
 UID:8dc04499fddc7b96fb4d3c616e203e59bface9f67da131f4500d0977a9f0ccb7@sport
  s-calendar-hub
 SEQUENCE:0
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260824T090708Z
+CREATED:20260824T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase\
  n🏟️ Local: Porto Feliz\, SP\, Brasil\nℹ️ Status: Provisório\n
  🔗 Fonte oficial: https://www.saopaulofc.net/fpf-divulga-tabela-do-pauli
- sta-sub-20/\n🕒 Última verificação: 24/08/2026 06:07 -03
-LAST-MODIFIED:20260824T090708Z
+ sta-sub-20/\n🕒 Última verificação: 24/08/2026 12:02 -03
+LAST-MODIFIED:20260824T150203Z
 LOCATION:Porto Feliz\, SP\, Brasil
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -32,19 +32,19 @@ SUMMARY:Futebol masculino sub-20 — São Paulo x União São João | Paul
  istão Sub-20
 DTSTART;TZID=America/Sao_Paulo:20260912T150000
 DTEND;TZID=America/Sao_Paulo:20260912T173000
-DTSTAMP:20260824T090708Z
+DTSTAMP:20260824T150203Z
 UID:ecc1688bfe404d72cdfd34f37bd623674ca2b4e330adcb86ff0cca1e61020f00@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino sub-20,sao-paulo
-CREATED:20260824T090708Z
+CREATED:20260824T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Paulista Sub-20 2026\n📍 Fase/Rodada: primeira fase\
  n🏟️ Local: CFA Laudo Natel\n🌎 Cidade/País: Cotia — SP — Brasi
  l\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.saopaulofc.n
  et/fpf-divulga-tabela-do-paulista-sub-20/\n🕒 Última verificação: 24/
- 08/2026 06:07 -03
-LAST-MODIFIED:20260824T090708Z
+ 08/2026 12:02 -03
+LAST-MODIFIED:20260824T150203Z
 LOCATION:CFA Laudo Natel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
