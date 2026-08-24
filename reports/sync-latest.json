@@ -1,37 +1,37 @@
 {
   "schema_version": "2.0",
-  "source_hash": "c099ff57885bce75eaa9af63819a6f1497e9077d6d49092288dcfb6faec5c18c",
-  "events": 31,
+  "source_hash": "ceda3e72e55a1126e0ee8edfc64439bf2f052396d73b87a3cc3cb6a749e390aa",
+  "events": 20,
   "by_group": {
-    "brasileirao": 5,
-    "clubes-regionais": 3,
+    "brasileirao": 1,
+    "clubes-regionais": 2,
     "outros-esportes": 2,
-    "premier-league": 4,
-    "red-bull": 14,
-    "sao-paulo": 3
+    "premier-league": 1,
+    "red-bull": 12,
+    "sao-paulo": 2
   },
   "import": {
-    "source_rows": 31,
-    "in_scope": 31,
-    "unique_events": 31,
+    "source_rows": 20,
+    "in_scope": 20,
+    "unique_events": 20,
     "deduplicated": 0,
     "changes": {
       "created": 0,
-      "updated": 1,
-      "unchanged": 30
+      "updated": 0,
+      "unchanged": 20
     }
   },
   "dry_run": {
     "plan": {
       "create": 0,
-      "update": 31,
+      "update": 20,
       "unchanged": 0,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 60,
+      "existing_future": 49,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
@@ -41,31 +41,31 @@
     "plan": {
       "create": 0,
       "update": 0,
-      "unchanged": 31,
+      "unchanged": 20,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 60,
+      "existing_future": 49,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
     "result": {
       "created": 0,
-      "updated": 31,
+      "updated": 20,
       "unchanged": 0,
       "deleted": 0,
       "post_validation": {
         "create": 0,
         "update": 0,
-        "unchanged": 31,
+        "unchanged": 20,
         "delete": 0,
         "primary_delete": 0,
         "missing_uid": 0,
         "duplicate_delete": 0,
         "scope_delete": 0,
-        "existing_future": 60,
+        "existing_future": 49,
         "privacy_violations": 0,
         "duplicate_reviews": 0
       }
