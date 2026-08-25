@@ -22,8 +22,8 @@
   "dry_run": {
     "plan": {
       "create": 0,
-      "update": 18,
-      "unchanged": 0,
+      "update": 0,
+      "unchanged": 18,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
@@ -51,8 +51,8 @@
     },
     "result": {
       "created": 0,
-      "updated": 18,
-      "unchanged": 0,
+      "updated": 0,
+      "unchanged": 18,
       "deleted": 0,
       "post_validation": {
         "create": 0,
