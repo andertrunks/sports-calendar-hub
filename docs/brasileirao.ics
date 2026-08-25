@@ -9,20 +9,20 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Botafogo x Athletico-PR | Brasileirão — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260824T200000
 DTEND;TZID=America/Sao_Paulo:20260824T223000
-DTSTAMP:20260824T150203Z
+DTSTAMP:20260824T210532Z
 UID:baa4743195cf5ca4636e3f732ca35c878df04693e36fa633d4b7dcbcf49ca422@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,brasileirao
-CREATED:20260824T150203Z
+CREATED:20260824T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: SporTV e Premiere\n🏆 Competiç
  ão: Campeonato Brasileiro Série A 2026\n📍 Fase/Rodada: fase única 
  — rodada 24\n🏟️ Local: Estádio Nilton Santos\n🌎 Cidade/País: R
  io de Janeiro — RJ — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte ofi
  cial: https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasile
  iro/serie-a/2026?documento=Tabela%20Detalhada\n🕒 Última verificação:
-  24/08/2026 12:02 -03
-LAST-MODIFIED:20260824T150203Z
+  24/08/2026 18:05 -03
+LAST-MODIFIED:20260824T210532Z
 LOCATION:Estádio Nilton Santos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

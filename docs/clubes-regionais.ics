@@ -9,18 +9,18 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Atlético-GO x Botafogo-SP | Série B — Rodada 24
 DTSTART;TZID=America/Sao_Paulo:20260825T193000
 DTEND;TZID=America/Sao_Paulo:20260825T220000
-DTSTAMP:20260824T150203Z
+DTSTAMP:20260824T210532Z
 UID:1584730df6778efe24e46c037c43a5e8d88a6681dc761e87e90932022dacfb90@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260824T150203Z
+CREATED:20260824T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ESPN e Disney+\n🏆 Competição
  : Campeonato Brasileiro Série B 2026\n📍 Fase/Rodada: fase única — r
  odada 24\n🏟️ Local: Estádio Antônio Accioly\n🌎 Cidade/País: Goi
  ânia — GO — Brasil\nℹ️ Status: Confirmado\n🕒 Última verifica
- ção: 24/08/2026 12:02 -03
-LAST-MODIFIED:20260824T150203Z
+ ção: 24/08/2026 18:05 -03
+LAST-MODIFIED:20260824T210532Z
 LOCATION:Estádio Antônio Accioly
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -29,21 +29,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Ferroviária x Confiança | Série C — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260829T170000
 DTEND;TZID=America/Sao_Paulo:20260829T193000
-DTSTAMP:20260824T150203Z
+DTSTAMP:20260824T210532Z
 UID:16a72e6b344ff709488862ee811a258fc5332b2f1cb8cda33064a4b19314ebcc@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260824T150203Z
+CREATED:20260824T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
  ase — rodada 19\n🏟️ Local: Fonte Luminosa\n🌎 Cidade/País: Arara
  quara — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
  tps://www.cbf.com.br/futebol-brasileiro/noticias/competicoes-campeonato-br
  asileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodadas-16-a-19-da-ser
- ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 24/08/2026 12:0
- 2 -03
-LAST-MODIFIED:20260824T150203Z
+ ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 24/08/2026 18:0
+ 5 -03
+LAST-MODIFIED:20260824T210532Z
 LOCATION:Fonte Luminosa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
