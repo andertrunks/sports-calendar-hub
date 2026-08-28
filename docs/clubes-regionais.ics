@@ -9,21 +9,21 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Ferroviária x Confiança | Série C — Rodada 19
 DTSTART;TZID=America/Sao_Paulo:20260829T170000
 DTEND;TZID=America/Sao_Paulo:20260829T193000
-DTSTAMP:20260826T210533Z
+DTSTAMP:20260827T210532Z
 UID:16a72e6b344ff709488862ee811a258fc5332b2f1cb8cda33064a4b19314ebcc@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,clubes-regionais
-CREATED:20260826T210533Z
+CREATED:20260827T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Campeonato Brasileiro Série C 2026\n📍 Fase/Rodada: primeira f
  ase — rodada 19\n🏟️ Local: Fonte Luminosa\n🌎 Cidade/País: Arara
  quara — SP — Brasil\nℹ️ Status: Confirmado\n🔗 Fonte oficial: ht
  tps://www.cbf.com.br/futebol-brasileiro/noticias/competicoes-campeonato-br
  asileiro-serie-c/a/cbf-divulga-tabela-detalhada-das-rodadas-16-a-19-da-ser
- ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 26/08/2026 18:0
+ ie-c-do-campeonato-brasileiro\n🕒 Última verificação: 27/08/2026 18:0
  5 -03
-LAST-MODIFIED:20260826T210533Z
+LAST-MODIFIED:20260827T210532Z
 LOCATION:Fonte Luminosa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
