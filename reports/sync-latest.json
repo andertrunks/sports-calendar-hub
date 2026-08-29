@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "source_hash": "5eb9befdc566a4daf8c99d520c4b6d1602cf38e1aad63b888259c0a1dcf775cd",
+  "source_hash": "6866054db5a711123dbb8b71951ac967390de0ba42adea8ddddccafbb84da21f",
   "events": 17,
   "by_group": {
     "clubes-regionais": 1,
@@ -14,8 +14,8 @@
     "unique_events": 17,
     "deduplicated": 0,
     "changes": {
-      "created": 1,
-      "updated": 0,
+      "created": 0,
+      "updated": 1,
       "unchanged": 16
     }
   },
