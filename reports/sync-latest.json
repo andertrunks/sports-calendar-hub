@@ -1,35 +1,34 @@
 {
   "schema_version": "2.0",
-  "source_hash": "2580ada1efac81b00c6d7032168fc0432ce19ab60740f2dfae964c2a2fe1d64d",
-  "events": 18,
+  "source_hash": "6d86914cf4407e897bfb9054f92a107bc1d59b2c4fbcede555ecbf1e469f9115",
+  "events": 14,
   "by_group": {
-    "clubes-regionais": 1,
     "outros-esportes": 3,
-    "red-bull": 12,
+    "red-bull": 9,
     "sao-paulo": 2
   },
   "import": {
-    "source_rows": 18,
-    "in_scope": 18,
-    "unique_events": 18,
+    "source_rows": 14,
+    "in_scope": 14,
+    "unique_events": 14,
     "deduplicated": 0,
     "changes": {
       "created": 0,
       "updated": 0,
-      "unchanged": 18
+      "unchanged": 14
     }
   },
   "dry_run": {
     "plan": {
       "create": 0,
-      "update": 18,
+      "update": 14,
       "unchanged": 0,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 45,
+      "existing_future": 41,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
@@ -39,31 +38,31 @@
     "plan": {
       "create": 0,
       "update": 0,
-      "unchanged": 18,
+      "unchanged": 14,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 45,
+      "existing_future": 41,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
     "result": {
       "created": 0,
-      "updated": 18,
+      "updated": 14,
       "unchanged": 0,
       "deleted": 0,
       "post_validation": {
         "create": 0,
         "update": 0,
-        "unchanged": 18,
+        "unchanged": 14,
         "delete": 0,
         "primary_delete": 0,
         "missing_uid": 0,
         "duplicate_delete": 0,
         "scope_delete": 0,
-        "existing_future": 45,
+        "existing_future": 41,
         "privacy_violations": 0,
         "duplicate_reviews": 0
       }
