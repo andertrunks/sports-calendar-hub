@@ -10,18 +10,18 @@ SUMMARY:Futebol — Red Bull Salzburg x Austria Wien | Bundesliga Austría
  ca — Rodada 5
 DTSTART;TZID=America/Sao_Paulo:20260830T140000
 DTEND;TZID=America/Sao_Paulo:20260830T163000
-DTSTAMP:20260830T150201Z
+DTSTAMP:20260830T210532Z
 UID:72651eb78af6de12f8e1db57208572cc5c04e8bec4b176ac4093852fff0a0542@sport
  s-calendar-hub
 SEQUENCE:2
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260830T150201Z
+CREATED:20260830T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: ADMIRAL Bundesliga 2026/27\n📍 Fase/Rodada: rodada 5\n🏟️ L
  ocal: Red Bull Arena Salzburg\n🌎 Cidade/País: Wals-Siezenheim — Áus
- tria\nℹ️ Status: Confirmado\n🕒 Última verificação: 30/08/2026 12
- :02 -03
-LAST-MODIFIED:20260830T150201Z
+ tria\nℹ️ Status: Confirmado\n🕒 Última verificação: 30/08/2026 18
+ :05 -03
+LAST-MODIFIED:20260830T210532Z
 LOCATION:Red Bull Arena Salzburg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -31,17 +31,17 @@ SUMMARY:Futebol — Gainare Tottori x RB Omiya Ardija | Copa da Liga Japon
  esa — 1ª rodada
 DTSTART;TZID=America/Sao_Paulo:20260902T070000
 DTEND;TZID=America/Sao_Paulo:20260902T093000
-DTSTAMP:20260830T150201Z
+DTSTAMP:20260830T210532Z
 UID:87c77ceffa01b10c2812517639487cf9a2abce435cef6e5ef114e4c4c6ecddd3@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260830T150201Z
+CREATED:20260830T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: J.League YBC Levain Cup 2026\n📍 Fase/Rodada: 1ª rodada\n🏟
  ️ Local: Axis Bird Stadium\n🌎 Cidade/País: Tottori — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 30/08/2026 12:02 -03
-LAST-MODIFIED:20260830T150201Z
+ ️ Status: Confirmado\n🕒 Última verificação: 30/08/2026 18:05 -03
+LAST-MODIFIED:20260830T210532Z
 LOCATION:Axis Bird Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -50,17 +50,17 @@ BEGIN:VEVENT
 SUMMARY:Futebol — Werder Bremen x RB Leipzig | Bundesliga — Rodada 2
 DTSTART;TZID=America/Sao_Paulo:20260905T103000
 DTEND;TZID=America/Sao_Paulo:20260905T130000
-DTSTAMP:20260830T150201Z
+DTSTAMP:20260830T210532Z
 UID:65933b85fdd6217631b32ff98e1b326179b23aeee738b37f1bdebbccf09b6b18@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260830T150201Z
+CREATED:20260830T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Bundesliga 2026/27\n📍 Fase/Rodada: rodada 2\n🏟️ Local: We
  serstadion\n🌎 Cidade/País: Bremen — Alemanha\nℹ️ Status: Confirm
- ado\n🕒 Última verificação: 30/08/2026 12:02 -03
-LAST-MODIFIED:20260830T150201Z
+ ado\n🕒 Última verificação: 30/08/2026 18:05 -03
+LAST-MODIFIED:20260830T210532Z
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -70,17 +70,17 @@ SUMMARY:Futebol — Blaublitz Akita x RB Omiya Ardija | J2 League — Roda
  da 5
 DTSTART;TZID=America/Sao_Paulo:20260906T060000
 DTEND;TZID=America/Sao_Paulo:20260906T083000
-DTSTAMP:20260830T150201Z
+DTSTAMP:20260830T210532Z
 UID:1a69a7c1cbe7d9e7d3075bbf03b28df21d08b4d1d06aeec1f57190bb6a939870@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260830T150201Z
+CREATED:20260830T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 5\n🏟
  ️ Local: Soyu Stadium\n🌎 Cidade/País: Akita — Japão\nℹ️ Statu
- s: Confirmado\n🕒 Última verificação: 30/08/2026 12:02 -03
-LAST-MODIFIED:20260830T150201Z
+ s: Confirmado\n🕒 Última verificação: 30/08/2026 18:05 -03
+LAST-MODIFIED:20260830T210532Z
 LOCATION:Soyu Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -90,17 +90,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Oita Trinita | J2 League — Rodada
  6
 DTSTART;TZID=America/Sao_Paulo:20260912T070000
 DTEND;TZID=America/Sao_Paulo:20260912T093000
-DTSTAMP:20260830T150201Z
+DTSTAMP:20260830T210532Z
 UID:bbe95591554dd548b794764523da8128c7a0e2e7c69264b00060472d70a18305@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260830T150201Z
+CREATED:20260830T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 6\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 30/08/2026 12:02 -03
-LAST-MODIFIED:20260830T150201Z
+ ️ Status: Confirmado\n🕒 Última verificação: 30/08/2026 18:05 -03
+LAST-MODIFIED:20260830T210532Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -109,17 +109,17 @@ BEGIN:VEVENT
 SUMMARY:Futebol — RB Leipzig x Hamburger SV | Bundesliga — Rodada 3
 DTSTART;TZID=America/Sao_Paulo:20260913T103000
 DTEND;TZID=America/Sao_Paulo:20260913T130000
-DTSTAMP:20260830T150201Z
+DTSTAMP:20260830T210532Z
 UID:613c7d4039a620087c3ee168014a8eb2b945af3c63b48cbec9380d05de444372@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260830T150201Z
+CREATED:20260830T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Bundesliga 2026/27\n📍 Fase/Rodada: rodada 3\n🏟️ Local: Re
  d Bull Arena\n🌎 Cidade/País: Leipzig — Alemanha\nℹ️ Status: Conf
- irmado\n🕒 Última verificação: 30/08/2026 12:02 -03
-LAST-MODIFIED:20260830T150201Z
+ irmado\n🕒 Última verificação: 30/08/2026 18:05 -03
+LAST-MODIFIED:20260830T210532Z
 LOCATION:Red Bull Arena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -129,18 +129,18 @@ SUMMARY:Futebol — Fujieda MYFC x RB Omiya Ardija | J2 League — Rodada
  7
 DTSTART;TZID=America/Sao_Paulo:20260919T063000
 DTEND;TZID=America/Sao_Paulo:20260919T090000
-DTSTAMP:20260830T150201Z
+DTSTAMP:20260830T210532Z
 UID:13b57f43597df2628fe77feebd32273a37c0c5d840ee9541ce7ebfbaa9a05586@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260830T150201Z
+CREATED:20260830T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 7\n🏟
  ️ Local: Fujieda Soccer Stadium\n🌎 Cidade/País: Fujieda — Japão\n
- ℹ️ Status: Confirmado\n🕒 Última verificação: 30/08/2026 12:02 -0
+ ℹ️ Status: Confirmado\n🕒 Última verificação: 30/08/2026 18:05 -0
  3
-LAST-MODIFIED:20260830T150201Z
+LAST-MODIFIED:20260830T210532Z
 LOCATION:Fujieda Soccer Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -150,17 +150,17 @@ SUMMARY:Futebol — Bayer Leverkusen x RB Leipzig | Bundesliga — Rodada
  4
 DTSTART;TZID=America/Sao_Paulo:20260920T103000
 DTEND;TZID=America/Sao_Paulo:20260920T130000
-DTSTAMP:20260830T150201Z
+DTSTAMP:20260830T210532Z
 UID:b3c01fed1f05e145173cfd77c49807ec5d2eb01756c65919c1d717829f31fb9a@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260830T150201Z
+CREATED:20260830T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Bundesliga 2026/27\n📍 Fase/Rodada: rodada 4\n🏟️ Local: Ba
  yArena\n🌎 Cidade/País: Leverkusen — Alemanha\nℹ️ Status: Confirm
- ado\n🕒 Última verificação: 30/08/2026 12:02 -03
-LAST-MODIFIED:20260830T150201Z
+ ado\n🕒 Última verificação: 30/08/2026 18:05 -03
+LAST-MODIFIED:20260830T210532Z
 LOCATION:BayArena
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -170,17 +170,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Ventforet Kofu | J2 League — Rodad
  a 8
 DTSTART;TZID=America/Sao_Paulo:20260926T050000
 DTEND;TZID=America/Sao_Paulo:20260926T073000
-DTSTAMP:20260830T150201Z
+DTSTAMP:20260830T210532Z
 UID:13b845cc8ebbcda4be0154edb6971126d457802bc7063f71fc900df821110a95@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20260830T150201Z
+CREATED:20260830T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 8\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 30/08/2026 12:02 -03
-LAST-MODIFIED:20260830T150201Z
+ ️ Status: Confirmado\n🕒 Última verificação: 30/08/2026 18:05 -03
+LAST-MODIFIED:20260830T210532Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
