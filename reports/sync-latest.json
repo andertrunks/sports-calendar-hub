@@ -1,26 +1,26 @@
 {
   "schema_version": "2.0",
-  "source_hash": "95354f7907546191a92166b610e5786cf56b8be53741716165f38a1c764862a5",
-  "events": 10,
+  "source_hash": "4812e44f2ad84d79dd783fee0346621048d6468cd428569746fcbab3ec569239",
+  "events": 11,
   "by_group": {
-    "outros-esportes": 4,
+    "outros-esportes": 5,
     "red-bull": 6
   },
   "import": {
-    "source_rows": 10,
-    "in_scope": 10,
-    "unique_events": 10,
+    "source_rows": 11,
+    "in_scope": 11,
+    "unique_events": 11,
     "deduplicated": 0,
     "changes": {
-      "created": 0,
-      "updated": 1,
-      "unchanged": 9
+      "created": 1,
+      "updated": 0,
+      "unchanged": 10
     }
   },
   "dry_run": {
     "plan": {
       "create": 0,
-      "update": 10,
+      "update": 11,
       "unchanged": 0,
       "delete": 0,
       "primary_delete": 0,
@@ -37,7 +37,7 @@
     "plan": {
       "create": 0,
       "update": 0,
-      "unchanged": 10,
+      "unchanged": 11,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
@@ -49,13 +49,13 @@
     },
     "result": {
       "created": 0,
-      "updated": 10,
+      "updated": 11,
       "unchanged": 0,
       "deleted": 0,
       "post_validation": {
         "create": 0,
         "update": 0,
-        "unchanged": 10,
+        "unchanged": 11,
         "delete": 0,
         "primary_delete": 0,
         "missing_uid": 0,
