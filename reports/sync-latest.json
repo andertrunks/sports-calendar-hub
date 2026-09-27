@@ -1,33 +1,33 @@
 {
   "schema_version": "2.0",
-  "source_hash": "5e9411c19d6ea562adcd250a88650683d7dea8a8a5aef3a06e91730b3ba83976",
-  "events": 11,
+  "source_hash": "4da9d316f134726d7c46f4331f5a382729044a80503bb68f5fcdef5c76798112",
+  "events": 10,
   "by_group": {
     "outros-esportes": 5,
-    "red-bull": 6
+    "red-bull": 5
   },
   "import": {
-    "source_rows": 11,
-    "in_scope": 11,
-    "unique_events": 11,
+    "source_rows": 10,
+    "in_scope": 10,
+    "unique_events": 10,
     "deduplicated": 0,
     "changes": {
       "created": 0,
       "updated": 0,
-      "unchanged": 11
+      "unchanged": 10
     }
   },
   "dry_run": {
     "plan": {
       "create": 0,
-      "update": 11,
+      "update": 10,
       "unchanged": 0,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 29,
+      "existing_future": 28,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
@@ -37,31 +37,31 @@
     "plan": {
       "create": 0,
       "update": 0,
-      "unchanged": 11,
+      "unchanged": 10,
       "delete": 0,
       "primary_delete": 0,
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 29,
+      "existing_future": 28,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
     "result": {
       "created": 0,
-      "updated": 11,
+      "updated": 10,
       "unchanged": 0,
       "deleted": 0,
       "post_validation": {
         "create": 0,
         "update": 0,
-        "unchanged": 11,
+        "unchanged": 10,
         "delete": 0,
         "primary_delete": 0,
         "missing_uid": 0,
         "duplicate_delete": 0,
         "scope_delete": 0,
-        "existing_future": 29,
+        "existing_future": 28,
         "privacy_violations": 0,
         "duplicate_reviews": 0
       }
