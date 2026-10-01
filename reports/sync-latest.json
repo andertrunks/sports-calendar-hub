@@ -1,13 +1,13 @@
 {
   "schema_version": "2.0",
-  "source_hash": "2c3cd2a664c356e231b2f8570b9cfccc1b5310d65b3798718875b4a0c39c595a",
+  "source_hash": "b81e906448a94f956bf181f290910227d53db747c82a882fb20113112182fbc0",
   "events": 9,
   "by_group": {
     "outros-esportes": 4,
     "red-bull": 5
   },
   "import": {
-    "source_rows": 22,
+    "source_rows": 20,
     "in_scope": 9,
     "unique_events": 9,
     "deduplicated": 0,
@@ -27,7 +27,7 @@
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 39,
+      "existing_future": 37,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
@@ -43,7 +43,7 @@
       "missing_uid": 0,
       "duplicate_delete": 0,
       "scope_delete": 0,
-      "existing_future": 39,
+      "existing_future": 37,
       "privacy_violations": 0,
       "duplicate_reviews": 0
     },
@@ -61,7 +61,7 @@
         "missing_uid": 0,
         "duplicate_delete": 0,
         "scope_delete": 0,
-        "existing_future": 39,
+        "existing_future": 37,
         "privacy_violations": 0,
         "duplicate_reviews": 0
       }
