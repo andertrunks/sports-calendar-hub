@@ -1,20 +1,20 @@
 {
   "schema_version": "2.0",
-  "source_hash": "6b9465431c71933443a94ddece16d8d3c11dbb69201219117f9e8ee9f9f71216",
+  "source_hash": "1d73cab10436ff13b4974e1ef15f571fb8a4f3d55eaa03e635eed7860f416018",
   "events": 9,
   "by_group": {
     "outros-esportes": 3,
     "red-bull": 6
   },
   "import": {
-    "source_rows": 10,
+    "source_rows": 9,
     "in_scope": 9,
     "unique_events": 9,
     "deduplicated": 0,
     "changes": {
       "created": 0,
-      "updated": 1,
-      "unchanged": 8
+      "updated": 0,
+      "unchanged": 9
     }
   },
   "dry_run": {
