@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "source_hash": "c671111e2f8e505930fb7814b095164db789554b4498eb18e71f796a40a41d50",
+  "source_hash": "853d8b9171cee321c8f86eb7ae6ac9b7d6330241ff07f12d586f2c1929ba3539",
   "events": 10,
   "by_group": {
     "outros-esportes": 3,
@@ -12,8 +12,8 @@
     "unique_events": 10,
     "deduplicated": 0,
     "changes": {
-      "created": 1,
-      "updated": 0,
+      "created": 0,
+      "updated": 1,
       "unchanged": 9
     }
   },
