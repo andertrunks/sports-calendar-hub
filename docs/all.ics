@@ -10,18 +10,18 @@ SUMMARY:Futebol — Vegalta Sendai x RB Omiya Ardija | J2 League — Rodad
  a 14
 DTSTART;TZID=America/Sao_Paulo:20261031T020000
 DTEND;TZID=America/Sao_Paulo:20261031T043000
-DTSTAMP:20261029T150200Z
+DTSTAMP:20261029T210532Z
 UID:5c2fd1c18e53e5015df9c224d8dc2c7131ceadddf7f2b7d9c45dcc51263e8a31@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261029T150200Z
+CREATED:20261029T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 14\n🏟
  ️ Local: Yurtec Stadium Sendai\n🌎 Cidade/País: Sendai — Japão\n
- ℹ️ Status: Confirmado\n🕒 Última verificação: 29/10/2026 12:02 -0
+ ℹ️ Status: Confirmado\n🕒 Última verificação: 29/10/2026 18:05 -0
  3
-LAST-MODIFIED:20261029T150200Z
+LAST-MODIFIED:20261029T210532Z
 LOCATION:Yurtec Stadium Sendai
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -30,17 +30,17 @@ BEGIN:VEVENT
 SUMMARY:Futebol — RB Omiya Ardija x Iwaki FC | J2 League — Rodada 15
 DTSTART;TZID=America/Sao_Paulo:20261103T020000
 DTEND;TZID=America/Sao_Paulo:20261103T043000
-DTSTAMP:20261029T150200Z
+DTSTAMP:20261029T210532Z
 UID:52e1a3c3cbd91ef29b115297eafedc82769515931adc37300b4c5343db1737f0@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261029T150200Z
+CREATED:20261029T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 15\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 29/10/2026 12:02 -03
-LAST-MODIFIED:20261029T150200Z
+ ️ Status: Confirmado\n🕒 Última verificação: 29/10/2026 18:05 -03
+LAST-MODIFIED:20261029T210532Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -50,18 +50,18 @@ SUMMARY:Futebol — Tochigi City x RB Omiya Ardija | J2 League — Rodada
  16
 DTSTART;TZID=America/Sao_Paulo:20261108T020000
 DTEND;TZID=America/Sao_Paulo:20261108T043000
-DTSTAMP:20261029T150200Z
+DTSTAMP:20261029T210532Z
 UID:65051365c6119a9b9329577bc428a2ba0b1c02973c64316aac6a0a08f72583af@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261029T150200Z
+CREATED:20261029T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 16\n🏟
  ️ Local: CITY FOOTBALL STATION\n🌎 Cidade/País: Tochigi — Japão\n
- ℹ️ Status: Confirmado\n🕒 Última verificação: 29/10/2026 12:02 -0
+ ℹ️ Status: Confirmado\n🕒 Última verificação: 29/10/2026 18:05 -0
  3
-LAST-MODIFIED:20261029T150200Z
+LAST-MODIFIED:20261029T210532Z
 LOCATION:CITY FOOTBALL STATION
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -71,19 +71,19 @@ SUMMARY:NFL — Philadelphia Eagles x New York Giants | Temporada regular
  — Semana 9
 DTSTART;TZID=America/Sao_Paulo:20261108T150000
 DTEND;TZID=America/Sao_Paulo:20261108T183000
-DTSTAMP:20261029T150200Z
+DTSTAMP:20261029T210532Z
 UID:a75835c0446600a8816b7ea555e67ccfa2cc980041b45a334607ca449bc8a38a@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20261029T150200Z
+CREATED:20261029T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 9\n🏟
  ️ Local: Lincoln Financial Field\n🌎 Cidade/País: Philadelphia — PA
   — Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:
- //www.giants.com/schedule/2026/\n🕒 Última verificação: 29/10/2026 12
- :02 -03
-LAST-MODIFIED:20261029T150200Z
+ //www.giants.com/schedule/2026/\n🕒 Última verificação: 29/10/2026 18
+ :05 -03
+LAST-MODIFIED:20261029T210532Z
 LOCATION:Lincoln Financial Field
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -94,19 +94,19 @@ SUMMARY:NFL — New York Giants x Washington Commanders | Temporada regula
  r — Semana 10
 DTSTART;TZID=America/Sao_Paulo:20261112T221500
 DTEND;TZID=America/Sao_Paulo:20261113T014500
-DTSTAMP:20261029T150200Z
+DTSTAMP:20261029T210532Z
 UID:77cde1d97b4628491a1e966f16762601b0cbce30b6ebea527ca99d0d6560da34@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20261029T150200Z
+CREATED:20261029T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 10\n🏟
  ️ Local: MetLife Stadium\n🌎 Cidade/País: East Rutherford — NJ — 
  Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
- .giants.com/schedule/2026/\n🕒 Última verificação: 29/10/2026 12:02 -
+ .giants.com/schedule/2026/\n🕒 Última verificação: 29/10/2026 18:05 -
  03
-LAST-MODIFIED:20261029T150200Z
+LAST-MODIFIED:20261029T210532Z
 LOCATION:MetLife Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -117,17 +117,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Montedio Yamagata | J2 League — Ro
  dada 17
 DTSTART;TZID=America/Sao_Paulo:20261114T020000
 DTEND;TZID=America/Sao_Paulo:20261114T043000
-DTSTAMP:20261029T150200Z
+DTSTAMP:20261029T210532Z
 UID:ba8054d28762211dee967d4e0bd6e77d33c48523d54280eac5157b3c7a46bc67@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261029T150200Z
+CREATED:20261029T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 17\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 29/10/2026 12:02 -03
-LAST-MODIFIED:20261029T150200Z
+ ️ Status: Confirmado\n🕒 Última verificação: 29/10/2026 18:05 -03
+LAST-MODIFIED:20261029T210532Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -137,17 +137,17 @@ SUMMARY:Futebol — Júbilo Iwata x RB Omiya Ardija | J2 League — Rodada
   18
 DTSTART;TZID=America/Sao_Paulo:20261121T020000
 DTEND;TZID=America/Sao_Paulo:20261121T043000
-DTSTAMP:20261029T150200Z
+DTSTAMP:20261029T210532Z
 UID:1ee9269cd4dc744e1a8e6aae7bd32336342d549b3f937f50c4660bd213b14770@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261029T150200Z
+CREATED:20261029T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 18\n🏟
  ️ Local: Yamaha Stadium\n🌎 Cidade/País: Iwata — Japão\nℹ️ Sta
- tus: Confirmado\n🕒 Última verificação: 29/10/2026 12:02 -03
-LAST-MODIFIED:20261029T150200Z
+ tus: Confirmado\n🕒 Última verificação: 29/10/2026 18:05 -03
+LAST-MODIFIED:20261029T210532Z
 LOCATION:Yamaha Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -157,19 +157,19 @@ SUMMARY:NFL — New York Giants x Jacksonville Jaguars | Temporada regular
   — Semana 11
 DTSTART;TZID=America/Sao_Paulo:20261122T150000
 DTEND;TZID=America/Sao_Paulo:20261122T183000
-DTSTAMP:20261029T150200Z
+DTSTAMP:20261029T210532Z
 UID:131eea67d77bfafb1a41d97a5a40587bc5213c4937aa67a79e6c57e1155b111d@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20261029T150200Z
+CREATED:20261029T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 11\n🏟
  ️ Local: MetLife Stadium\n🌎 Cidade/País: East Rutherford — NJ — 
  Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
- .giants.com/schedule/2026/\n🕒 Última verificação: 29/10/2026 12:02 -
+ .giants.com/schedule/2026/\n🕒 Última verificação: 29/10/2026 18:05 -
  03
-LAST-MODIFIED:20261029T150200Z
+LAST-MODIFIED:20261029T210532Z
 LOCATION:MetLife Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -180,17 +180,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Tokushima Vortis | J2 League — Rod
  ada 19
 DTSTART;TZID=America/Sao_Paulo:20261125T070000
 DTEND;TZID=America/Sao_Paulo:20261125T093000
-DTSTAMP:20261029T150200Z
+DTSTAMP:20261029T210532Z
 UID:f4ea9b769f614d967da040fc76a3acd3ac888e4901749106f16b204de19425e0@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261029T150200Z
+CREATED:20261029T210532Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 19\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 29/10/2026 12:02 -03
-LAST-MODIFIED:20261029T150200Z
+ ️ Status: Confirmado\n🕒 Última verificação: 29/10/2026 18:05 -03
+LAST-MODIFIED:20261029T210532Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
