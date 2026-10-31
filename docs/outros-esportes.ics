@@ -10,19 +10,19 @@ SUMMARY:NFL — Philadelphia Eagles x New York Giants | Temporada regular
  — Semana 9
 DTSTART;TZID=America/Sao_Paulo:20261108T150000
 DTEND;TZID=America/Sao_Paulo:20261108T183000
-DTSTAMP:20261030T210537Z
+DTSTAMP:20261031T090708Z
 UID:a75835c0446600a8816b7ea555e67ccfa2cc980041b45a334607ca449bc8a38a@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20261030T210537Z
+CREATED:20261031T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 9\n🏟
  ️ Local: Lincoln Financial Field\n🌎 Cidade/País: Philadelphia — PA
   — Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https:
- //www.giants.com/schedule/2026/\n🕒 Última verificação: 30/10/2026 18
- :05 -03
-LAST-MODIFIED:20261030T210537Z
+ //www.giants.com/schedule/2026/\n🕒 Última verificação: 31/10/2026 06
+ :07 -03
+LAST-MODIFIED:20261031T090708Z
 LOCATION:Lincoln Financial Field
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -33,19 +33,19 @@ SUMMARY:NFL — New York Giants x Washington Commanders | Temporada regula
  r — Semana 10
 DTSTART;TZID=America/Sao_Paulo:20261112T221500
 DTEND;TZID=America/Sao_Paulo:20261113T014500
-DTSTAMP:20261030T210537Z
+DTSTAMP:20261031T090708Z
 UID:77cde1d97b4628491a1e966f16762601b0cbce30b6ebea527ca99d0d6560da34@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20261030T210537Z
+CREATED:20261031T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 10\n🏟
  ️ Local: MetLife Stadium\n🌎 Cidade/País: East Rutherford — NJ — 
  Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
- .giants.com/schedule/2026/\n🕒 Última verificação: 30/10/2026 18:05 -
+ .giants.com/schedule/2026/\n🕒 Última verificação: 31/10/2026 06:07 -
  03
-LAST-MODIFIED:20261030T210537Z
+LAST-MODIFIED:20261031T090708Z
 LOCATION:MetLife Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56,20 +56,42 @@ SUMMARY:NFL — New York Giants x Jacksonville Jaguars | Temporada regular
   — Semana 11
 DTSTART;TZID=America/Sao_Paulo:20261122T150000
 DTEND;TZID=America/Sao_Paulo:20261122T183000
-DTSTAMP:20261030T210537Z
+DTSTAMP:20261031T090708Z
 UID:131eea67d77bfafb1a41d97a5a40587bc5213c4937aa67a79e6c57e1155b111d@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20261030T210537Z
+CREATED:20261031T090708Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 11\n🏟
  ️ Local: MetLife Stadium\n🌎 Cidade/País: East Rutherford — NJ — 
  Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
- .giants.com/schedule/2026/\n🕒 Última verificação: 30/10/2026 18:05 -
+ .giants.com/schedule/2026/\n🕒 Última verificação: 31/10/2026 06:07 -
  03
-LAST-MODIFIED:20261030T210537Z
+LAST-MODIFIED:20261031T090708Z
 LOCATION:MetLife Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.giants.com/schedule/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL — Indianapolis Colts x New York Giants | Temporada regular 
+ — Semana 12
+DTSTART;TZID=America/Sao_Paulo:20261129T150000
+DTEND;TZID=America/Sao_Paulo:20261129T183000
+DTSTAMP:20261031T090708Z
+UID:69997f3dffde680678f3e4287815819180be2f9653aa5db2f419b5641622a46c@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol americano,NFL,outros-esportes
+CREATED:20261031T090708Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 12\n🏟
+ ️ Local: Lucas Oil Stadium\n🌎 Cidade/País: Indianapolis\, Estados Un
+ idos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.giants.co
+ m/schedule/2026/\n🕒 Última verificação: 31/10/2026 06:07 -03
+LAST-MODIFIED:20261031T090708Z
+LOCATION:Lucas Oil Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.giants.com/schedule/2026/
