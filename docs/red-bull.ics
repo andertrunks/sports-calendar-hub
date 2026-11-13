@@ -10,17 +10,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Montedio Yamagata | J2 League — Ro
  dada 17
 DTSTART;TZID=America/Sao_Paulo:20261114T020000
 DTEND;TZID=America/Sao_Paulo:20261114T043000
-DTSTAMP:20261112T210535Z
+DTSTAMP:20261113T150201Z
 UID:ba8054d28762211dee967d4e0bd6e77d33c48523d54280eac5157b3c7a46bc67@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261112T210535Z
+CREATED:20261113T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 17\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 12/11/2026 18:05 -03
-LAST-MODIFIED:20261112T210535Z
+ ️ Status: Confirmado\n🕒 Última verificação: 13/11/2026 12:02 -03
+LAST-MODIFIED:20261113T150201Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -30,17 +30,17 @@ SUMMARY:Futebol — Júbilo Iwata x RB Omiya Ardija | J2 League — Rodada
   18
 DTSTART;TZID=America/Sao_Paulo:20261121T020000
 DTEND;TZID=America/Sao_Paulo:20261121T043000
-DTSTAMP:20261112T210535Z
+DTSTAMP:20261113T150201Z
 UID:1ee9269cd4dc744e1a8e6aae7bd32336342d549b3f937f50c4660bd213b14770@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261112T210535Z
+CREATED:20261113T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 18\n🏟
  ️ Local: Yamaha Stadium\n🌎 Cidade/País: Iwata — Japão\nℹ️ Sta
- tus: Confirmado\n🕒 Última verificação: 12/11/2026 18:05 -03
-LAST-MODIFIED:20261112T210535Z
+ tus: Confirmado\n🕒 Última verificação: 13/11/2026 12:02 -03
+LAST-MODIFIED:20261113T150201Z
 LOCATION:Yamaha Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -50,17 +50,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Tokushima Vortis | J2 League — Rod
  ada 19
 DTSTART;TZID=America/Sao_Paulo:20261125T070000
 DTEND;TZID=America/Sao_Paulo:20261125T093000
-DTSTAMP:20261112T210535Z
+DTSTAMP:20261113T150201Z
 UID:f4ea9b769f614d967da040fc76a3acd3ac888e4901749106f16b204de19425e0@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261112T210535Z
+CREATED:20261113T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 19\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 12/11/2026 18:05 -03
-LAST-MODIFIED:20261112T210535Z
+ ️ Status: Confirmado\n🕒 Última verificação: 13/11/2026 12:02 -03
+LAST-MODIFIED:20261113T150201Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -69,17 +69,17 @@ BEGIN:VEVENT
 SUMMARY:Futebol — RB Omiya Ardija x FC Imabari | J2 League — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20261128T020000
 DTEND;TZID=America/Sao_Paulo:20261128T043000
-DTSTAMP:20261112T210535Z
+DTSTAMP:20261113T150201Z
 UID:9b573350ede4d25930c8ee98f20e0e42cfcf0b6368f07f4b49419af125442bca@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261112T210535Z
+CREATED:20261113T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 20\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 12/11/2026 18:05 -03
-LAST-MODIFIED:20261112T210535Z
+ ️ Status: Confirmado\n🕒 Última verificação: 13/11/2026 12:02 -03
+LAST-MODIFIED:20261113T150201Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -89,18 +89,38 @@ SUMMARY:Futebol — Kataller Toyama x RB Omiya Ardija | J2 League — Roda
  da 21
 DTSTART;TZID=America/Sao_Paulo:20261206T020000
 DTEND;TZID=America/Sao_Paulo:20261206T043000
-DTSTAMP:20261112T210535Z
+DTSTAMP:20261113T150201Z
 UID:faf7dd3275c60920a5e10c435405374313351357777ae95d26bddd4ea7fa452f@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261112T210535Z
+CREATED:20261113T150201Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 21\n🏟
  ️ Local: Toyama Stadium\n🌎 Cidade/País: Toyama — Japão\nℹ️ St
- atus: Confirmado\n🕒 Última verificação: 12/11/2026 18:05 -03
-LAST-MODIFIED:20261112T210535Z
+ atus: Confirmado\n🕒 Última verificação: 13/11/2026 12:02 -03
+LAST-MODIFIED:20261113T150201Z
 LOCATION:Toyama Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futebol — RB Omiya Ardija x Vegalta Sendai | J2 League — Rodad
+ a 22
+DTSTART;TZID=America/Sao_Paulo:20261212T020000
+DTEND;TZID=America/Sao_Paulo:20261212T043000
+DTSTAMP:20261113T150201Z
+UID:686631a364ad7746f3c01d8de133537dac260695d056ef98c3ffe6e92739bdaf@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol,Masculino profissional,red-bull
+CREATED:20261113T150201Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 22\n🏟
+ ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama\, Japão\nℹ
+ ️ Status: Confirmado\n🕒 Última verificação: 13/11/2026 12:02 -03
+LAST-MODIFIED:20261113T150201Z
+LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
