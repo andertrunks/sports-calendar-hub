@@ -6,44 +6,21 @@ METHOD:PUBLISH
 X-WR-CALNAME:Todos os eventos
 X-WR-TIMEZONE:America/Sao_Paulo
 BEGIN:VEVENT
-SUMMARY:NFL — New York Giants x Washington Commanders | Temporada regula
- r — Semana 10
-DTSTART;TZID=America/Sao_Paulo:20261112T221500
-DTEND;TZID=America/Sao_Paulo:20261113T014500
-DTSTAMP:20261113T210532Z
-UID:77cde1d97b4628491a1e966f16762601b0cbce30b6ebea527ca99d0d6560da34@sport
- s-calendar-hub
-SEQUENCE:1
-CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20261113T210532Z
-DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
- tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 10\n🏟
- ️ Local: MetLife Stadium\n🌎 Cidade/País: East Rutherford — NJ — 
- Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
- .giants.com/schedule/2026/\n🕒 Última verificação: 13/11/2026 18:05 -
- 03
-LAST-MODIFIED:20261113T210532Z
-LOCATION:MetLife Stadium
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.giants.com/schedule/2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Futebol — RB Omiya Ardija x Montedio Yamagata | J2 League — Ro
  dada 17
 DTSTART;TZID=America/Sao_Paulo:20261114T020000
 DTEND;TZID=America/Sao_Paulo:20261114T043000
-DTSTAMP:20261113T210532Z
+DTSTAMP:20261114T150203Z
 UID:ba8054d28762211dee967d4e0bd6e77d33c48523d54280eac5157b3c7a46bc67@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261113T210532Z
+CREATED:20261114T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 17\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 13/11/2026 18:05 -03
-LAST-MODIFIED:20261113T210532Z
+ ️ Status: Confirmado\n🕒 Última verificação: 14/11/2026 12:02 -03
+LAST-MODIFIED:20261114T150203Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53,17 +30,17 @@ SUMMARY:Futebol — Júbilo Iwata x RB Omiya Ardija | J2 League — Rodada
   18
 DTSTART;TZID=America/Sao_Paulo:20261121T020000
 DTEND;TZID=America/Sao_Paulo:20261121T043000
-DTSTAMP:20261113T210532Z
+DTSTAMP:20261114T150203Z
 UID:1ee9269cd4dc744e1a8e6aae7bd32336342d549b3f937f50c4660bd213b14770@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261113T210532Z
+CREATED:20261114T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 18\n🏟
  ️ Local: Yamaha Stadium\n🌎 Cidade/País: Iwata — Japão\nℹ️ Sta
- tus: Confirmado\n🕒 Última verificação: 13/11/2026 18:05 -03
-LAST-MODIFIED:20261113T210532Z
+ tus: Confirmado\n🕒 Última verificação: 14/11/2026 12:02 -03
+LAST-MODIFIED:20261114T150203Z
 LOCATION:Yamaha Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -73,19 +50,19 @@ SUMMARY:NFL — New York Giants x Jacksonville Jaguars | Temporada regular
   — Semana 11
 DTSTART;TZID=America/Sao_Paulo:20261122T150000
 DTEND;TZID=America/Sao_Paulo:20261122T183000
-DTSTAMP:20261113T210532Z
+DTSTAMP:20261114T150203Z
 UID:131eea67d77bfafb1a41d97a5a40587bc5213c4937aa67a79e6c57e1155b111d@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20261113T210532Z
+CREATED:20261114T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 11\n🏟
  ️ Local: MetLife Stadium\n🌎 Cidade/País: East Rutherford — NJ — 
  Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
- .giants.com/schedule/2026/\n🕒 Última verificação: 13/11/2026 18:05 -
+ .giants.com/schedule/2026/\n🕒 Última verificação: 14/11/2026 12:02 -
  03
-LAST-MODIFIED:20261113T210532Z
+LAST-MODIFIED:20261114T150203Z
 LOCATION:MetLife Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -96,17 +73,17 @@ SUMMARY:Futebol — RB Omiya Ardija x Tokushima Vortis | J2 League — Rod
  ada 19
 DTSTART;TZID=America/Sao_Paulo:20261125T070000
 DTEND;TZID=America/Sao_Paulo:20261125T093000
-DTSTAMP:20261113T210532Z
+DTSTAMP:20261114T150203Z
 UID:f4ea9b769f614d967da040fc76a3acd3ac888e4901749106f16b204de19425e0@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261113T210532Z
+CREATED:20261114T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 19\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 13/11/2026 18:05 -03
-LAST-MODIFIED:20261113T210532Z
+ ️ Status: Confirmado\n🕒 Última verificação: 14/11/2026 12:02 -03
+LAST-MODIFIED:20261114T150203Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -115,17 +92,17 @@ BEGIN:VEVENT
 SUMMARY:Futebol — RB Omiya Ardija x FC Imabari | J2 League — Rodada 20
 DTSTART;TZID=America/Sao_Paulo:20261128T020000
 DTEND;TZID=America/Sao_Paulo:20261128T043000
-DTSTAMP:20261113T210532Z
+DTSTAMP:20261114T150203Z
 UID:9b573350ede4d25930c8ee98f20e0e42cfcf0b6368f07f4b49419af125442bca@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261113T210532Z
+CREATED:20261114T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 20\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 13/11/2026 18:05 -03
-LAST-MODIFIED:20261113T210532Z
+ ️ Status: Confirmado\n🕒 Última verificação: 14/11/2026 12:02 -03
+LAST-MODIFIED:20261114T150203Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -135,19 +112,19 @@ SUMMARY:NFL — Indianapolis Colts x New York Giants | Temporada regular
  — Semana 12
 DTSTART;TZID=America/Sao_Paulo:20261129T150000
 DTEND;TZID=America/Sao_Paulo:20261129T183000
-DTSTAMP:20261113T210532Z
+DTSTAMP:20261114T150203Z
 UID:69997f3dffde680678f3e4287815819180be2f9653aa5db2f419b5641622a46c@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20261113T210532Z
+CREATED:20261114T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 12\n🏟
  ️ Local: Lucas Oil Stadium\n🌎 Cidade/País: Indianapolis — IN — E
  stados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www.
- giants.com/schedule/2026/\n🕒 Última verificação: 13/11/2026 18:05 -0
+ giants.com/schedule/2026/\n🕒 Última verificação: 14/11/2026 12:02 -0
  3
-LAST-MODIFIED:20261113T210532Z
+LAST-MODIFIED:20261114T150203Z
 LOCATION:Lucas Oil Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -158,17 +135,17 @@ SUMMARY:Futebol — Kataller Toyama x RB Omiya Ardija | J2 League — Roda
  da 21
 DTSTART;TZID=America/Sao_Paulo:20261206T020000
 DTEND;TZID=America/Sao_Paulo:20261206T043000
-DTSTAMP:20261113T210532Z
+DTSTAMP:20261114T150203Z
 UID:faf7dd3275c60920a5e10c435405374313351357777ae95d26bddd4ea7fa452f@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261113T210532Z
+CREATED:20261114T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 21\n🏟
  ️ Local: Toyama Stadium\n🌎 Cidade/País: Toyama — Japão\nℹ️ St
- atus: Confirmado\n🕒 Última verificação: 13/11/2026 18:05 -03
-LAST-MODIFIED:20261113T210532Z
+ atus: Confirmado\n🕒 Última verificação: 14/11/2026 12:02 -03
+LAST-MODIFIED:20261114T150203Z
 LOCATION:Toyama Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -178,19 +155,19 @@ SUMMARY:NFL — New York Giants x San Francisco 49ers | Temporada regular
  — Semana 13
 DTSTART;TZID=America/Sao_Paulo:20261206T150000
 DTEND;TZID=America/Sao_Paulo:20261206T183000
-DTSTAMP:20261113T210532Z
+DTSTAMP:20261114T150203Z
 UID:09d5c96a132fb5d3b256bc36a3fb48d91ef5211efa41fb8c63dab727d19318b6@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol americano,NFL,outros-esportes
-CREATED:20261113T210532Z
+CREATED:20261114T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 13\n🏟
  ️ Local: MetLife Stadium\n🌎 Cidade/País: East Rutherford — NJ — 
  Estados Unidos\nℹ️ Status: Confirmado\n🔗 Fonte oficial: https://www
- .giants.com/schedule/2026/\n🕒 Última verificação: 13/11/2026 18:05 -
+ .giants.com/schedule/2026/\n🕒 Última verificação: 14/11/2026 12:02 -
  03
-LAST-MODIFIED:20261113T210532Z
+LAST-MODIFIED:20261114T150203Z
 LOCATION:MetLife Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -201,19 +178,41 @@ SUMMARY:Futebol — RB Omiya Ardija x Vegalta Sendai | J2 League — Rodad
  a 22
 DTSTART;TZID=America/Sao_Paulo:20261212T020000
 DTEND;TZID=America/Sao_Paulo:20261212T043000
-DTSTAMP:20261113T210532Z
+DTSTAMP:20261114T150203Z
 UID:686631a364ad7746f3c01d8de133537dac260695d056ef98c3ffe6e92739bdaf@sport
  s-calendar-hub
 SEQUENCE:1
 CATEGORIES:Futebol,Masculino profissional,red-bull
-CREATED:20261113T210532Z
+CREATED:20261114T150203Z
 DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
  tição: Meiji Yasuda J2 League 2026/27\n📍 Fase/Rodada: rodada 22\n🏟
  ️ Local: NACK5 Stadium Omiya\n🌎 Cidade/País: Saitama — Japão\nℹ
- ️ Status: Confirmado\n🕒 Última verificação: 13/11/2026 18:05 -03
-LAST-MODIFIED:20261113T210532Z
+ ️ Status: Confirmado\n🕒 Última verificação: 14/11/2026 12:02 -03
+LAST-MODIFIED:20261114T150203Z
 LOCATION:NACK5 Stadium Omiya
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL — Seattle Seahawks x New York Giants | Temporada regular —
+  Semana 14
+DTSTART;TZID=America/Sao_Paulo:20261213T182500
+DTEND;TZID=America/Sao_Paulo:20261213T215500
+DTSTAMP:20261114T150203Z
+UID:6d762531608a00d94f3dc9861573a9650c85c35bef5c77d62a783675b015e5b0@sport
+ s-calendar-hub
+SEQUENCE:0
+CATEGORIES:Futebol americano,NFL,outros-esportes
+CREATED:20261114T150203Z
+DESCRIPTION:📺 Transmissão no Brasil: ainda não confirmada\n🏆 Compe
+ tição: NFL 2026 — temporada regular\n📍 Fase/Rodada: Semana 14\n🏟
+ ️ Local: Lumen Field\n🌎 Cidade/País: Seattle\, Estados Unidos\nℹ
+ ️ Status: Confirmado\n🔗 Fonte oficial: https://www.giants.com/schedul
+ e/2026/\n🕒 Última verificação: 14/11/2026 12:02 -03
+LAST-MODIFIED:20261114T150203Z
+LOCATION:Lumen Field
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.giants.com/schedule/2026/
 END:VEVENT
 END:VCALENDAR
